@@ -1,0 +1,4 @@
+8.ogg !text !filter !merge !diff
+*.oggwwwee !text !filter !merge !diff
+.ogg !text !filter !merge !diff
+* !text !filter !merge !diff
