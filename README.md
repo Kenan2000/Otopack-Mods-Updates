@@ -2,7 +2,7 @@
 A 2ch soundpack for Cataclysm - Dark Days Ahead that i will try to maintain from now on and make some new small updates to it like including sounds for items from mods and etc
 
 ## Prerequisites 
-This soundpack can be installed easily via Cataclysm - Dark Days Ahead launcher (**owner and creator of it is **remyroy - https://github.com/remyroy, all rights belong to remyroy** , the link to his launcher is **here - https://github.com/remyroy/CDDA-Game-Launcher/releases**
+This soundpack can be installed easily via Cataclysm - Dark Days Ahead launcher (**owner and creator of it is remyroy - https://github.com/remyroy, all rights belong to remyroy** , the link to his launcher is **here - https://github.com/remyroy/CDDA-Game-Launcher/releases**
 
 ## Installation
 **1)** Launch CDDA **launcher.exe** file in CDDA launcher folder;
