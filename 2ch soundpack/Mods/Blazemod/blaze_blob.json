@@ -1,0 +1,391 @@
+[ 
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "voideater",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "voideater",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "torchie",
+        "files" : [
+           "guns/flammable/flammable_1.ogg",
+		   "guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "torchie",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "sparkie",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "sparkie",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "gelrazor",
+        "files" : [
+           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "gelrazor",
+        "files" : [
+           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "gelrazor",
+        "files" : [
+            "Mods/Blazemod/Blob/bfeed_reload_1.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_2.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "spouterqueen",
+        "files" : [
+           "guns/others/watercannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "spouterqueen",
+        "files" : [
+           "guns/others/watercannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "razorqueen",
+        "files" : [
+           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "razorqueen",
+        "files" : [
+           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "razorqueen",
+        "files" : [
+            "Mods/Blazemod/Blob/bfeed_reload_1.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_2.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "horror",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "horror",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "horror",
+        "files" : [
+            "Mods/Blazemod/Blob/bfeed_reload_1.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_2.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "fuzzle",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "fuzzle",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "fuzzle",
+        "files" : [
+            "Mods/Blazemod/Blob/bfeed_reload_1.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_2.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "freezie",
+        "files" : [
+           "guns/others/watercannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "freezie",
+        "files" : [
+           "guns/others/watercannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "meltie",
+        "files" : [
+            "guns/others/watercannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "meltie",
+        "files" : [
+           "guns/others/watercannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "inkie",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "inkie",
+        "files" : [
+           "guns/flammable/flammable_1.ogg",
+		   "guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "stickie",
+        "files" : [
+            "guns/others/watercannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "stickie",
+        "files" : [
+           "guns/others/watercannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect", 
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "biter",
+        "files" : [
+            "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "biter",
+        "files" : [
+           "guns/eweapons/bio_lightning_1.ogg",
+		   "guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "biter",
+        "files" : [
+            "Mods/Blazemod/Blob/bfeed_reload_1.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_2.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect", 
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "edge",
+        "files" : [
+            "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "edge",
+        "files" : [
+           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect", 
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "clutter",
+        "files" : [
+            "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg" 
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "clutter",
+        "files" : [
+           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "clutter",
+        "files" : [
+            "Mods/Blazemod/Blob/bfeed_reload_1.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_2.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "sharp",
+        "files" : [
+            "guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg" 
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "sharp",
+        "files" : [
+           "guns/others/tihar_1.ogg",
+		   "guns/others/tihar_2.ogg" 
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "sharp",
+        "files" : [
+            "Mods/Blazemod/Blob/bfeed_reload_1.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_2.ogg",
+			"Mods/Blazemod/Blob/bfeed_reload_3.ogg"
+        ]
+    }
+]
