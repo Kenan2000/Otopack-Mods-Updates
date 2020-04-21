@@ -1,4 +1,0 @@
-#2ch soundpack
-#Name of the soundpack
-NAME: 2ch soundpack#Viewing name of the soundpack
-VIEW: 2ch soundpack
