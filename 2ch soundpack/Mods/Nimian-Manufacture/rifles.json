@@ -1,0 +1,41 @@
+[
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nm1062rifle",
+        "files" : [
+            "guns/3006/3006_1.ogg",
+			"guns/3006/3006_2.ogg",
+			"guns/3006/3006_3.ogg",
+			"guns/3006/3006_4.ogg",
+			"guns/3006/3006_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nm1062rifle",
+        "files" : [
+            "guns/3006/3006_1.ogg",
+			"guns/3006/3006_2.ogg",
+			"guns/3006/3006_3.ogg",
+			"guns/3006/3006_4.ogg",
+			"guns/3006/3006_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nm1062rifle",
+        "files" : [
+            "guns/reload/bullpup/bullpup_1.ogg",
+			"guns/reload/bullpup/bullpup_2.ogg",
+			"guns/reload/bullpup/bullpup_3.ogg",
+			"guns/reload/bullpup/bullpup_4.ogg",
+			"guns/reload/bullpup/bullpup_5.ogg"
+        ]
+    }
+]
