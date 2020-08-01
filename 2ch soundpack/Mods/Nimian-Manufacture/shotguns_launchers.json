@@ -1,0 +1,154 @@
+[
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nmshotpistol",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nmshotpistol",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nmshotpistol",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nmlightshotgun",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nmlightshotgun",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nmlightshotgun",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "nmheavyshotgun",
+        "files" : [
+            "guns/20x66mm/20x66mm_1.ogg",
+			"guns/20x66mm/20x66mm_2.ogg",
+			"guns/20x66mm/20x66mm_3.ogg",
+			"guns/20x66mm/20x66mm_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nmheavyshotgun",
+        "files" : [
+            "guns/20x66mm/20x66mm_1.ogg",
+			"guns/20x66mm/20x66mm_2.ogg",
+			"guns/20x66mm/20x66mm_3.ogg",
+			"guns/20x66mm/20x66mm_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nmheavyshotgun",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nm32mmlauncher",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nm32mmlauncher",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nm32mmlauncher",
+        "files" : [
+            "guns/reload/launcher/launcher_1.ogg",
+			"guns/reload/launcher/launcher_2.ogg",
+			"guns/reload/launcher/launcher_3.ogg",
+			"guns/reload/launcher/launcher_4.ogg",
+			"guns/reload/launcher/launcher_5.ogg"
+        ]
+    }
+]

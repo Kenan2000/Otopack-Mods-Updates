@@ -41,6 +41,45 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nm9mmsmallpistol",
+        "files" : [
+            "guns/9mm/9mm_1.ogg",
+			"guns/9mm/9mm_2.ogg",
+			"guns/9mm/9mm_3.ogg",
+			"guns/9mm/9mm_4.ogg",
+			"guns/9mm/9mm_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nm9mmsmallpistol",
+        "files" : [
+            "guns/9mm/9mm_1.ogg",
+			"guns/9mm/9mm_2.ogg",
+			"guns/9mm/9mm_3.ogg",
+			"guns/9mm/9mm_4.ogg",
+			"guns/9mm/9mm_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nm9mmsmallpistol",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
         "volume" : 90,
         "variant" : "nm22pistol",
         "files" : [
@@ -77,6 +116,43 @@
 			"guns/reload/pistol_l/pistol_5.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nm7x30revolver",
+        "files" : [
+            "guns/38/38_1.ogg",
+			"guns/38/38_2.ogg",
+			"guns/38/38_3.ogg",
+			"guns/38/38_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nm7x30revolver",
+        "files" : [
+            "guns/38/38_1.ogg",
+			"guns/38/38_2.ogg",
+			"guns/38/38_3.ogg",
+			"guns/38/38_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nm7x30revolver",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
+        ]
+    },c
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -190,7 +266,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 20,
+        "volume" : 20,cc
         "variant" : "nm7x30pistol",
         "files" : [
             "guns/45/45_1.ogg",
@@ -214,6 +290,90 @@
 			"guns/reload/pistol_l/pistol_3.ogg",
 			"guns/reload/pistol_l/pistol_4.ogg",
 			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nm50pistol",
+        "files" : [
+            "guns/50/50_1.ogg",
+			"guns/50/50_2.ogg",
+			"guns/50/50_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nm50pistol",
+        "files" : [
+            "guns/50/50_1.ogg",
+			"guns/50/50_2.ogg",
+			"guns/50/50_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "nm50pistol",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nm223pistol",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nm223pistol",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nm223pistol",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
         ]
     }
 ]
