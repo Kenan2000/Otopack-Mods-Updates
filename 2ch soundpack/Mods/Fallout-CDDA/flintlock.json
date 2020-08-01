@@ -1,4 +1,4 @@
-{
+[ {
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 100,
@@ -173,3 +173,4 @@
             "guns/reload/others/flintlock.ogg"
         ]
     }
+]

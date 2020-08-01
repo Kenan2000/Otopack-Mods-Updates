@@ -159,5 +159,131 @@
 			"Mods/arcana/essence_4.ogg",
 			"Mods/arcana/essence_5.ogg"
         ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "monster_fire_fake",
+        "files" : [
+            "Mods/arcana/hand_of_armok.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "monster_fire_fake",
+        "files" : [
+            "Mods/arcana/hand_of_armok.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "monster_fire_fake",
+        "files" : [
+            "Mods/arcana/essence_1.ogg",
+			"Mods/arcana/essence_2.ogg",
+			"Mods/arcana/essence_3.ogg",
+			"Mods/arcana/essence_4.ogg",
+			"Mods/arcana/essence_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "monster_lightning_fake",
+        "files" : [
+            "Mods/arcana/thunder_sigil_1.ogg",
+			"Mods/arcana/thunder_sigil_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "monster_lightning_fake",
+        "files" : [
+            "Mods/arcana/thunder_sigil_1.ogg",
+			"Mods/arcana/thunder_sigil_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "monster_lightning_fake",
+        "files" : [
+            "Mods/arcana/essence_1.ogg",
+			"Mods/arcana/essence_2.ogg",
+			"Mods/arcana/essence_3.ogg",
+			"Mods/arcana/essence_4.ogg",
+			"Mods/arcana/essence_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "monster_laser_fake",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    }
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 50,
+        "variant" : "monster_laser_fake",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "monster_laser_fake",
+        "files" : [
+            "Mods/arcana/essence_1.ogg",
+			"Mods/arcana/essence_2.ogg",
+			"Mods/arcana/essence_3.ogg",
+			"Mods/arcana/essence_4.ogg",
+			"Mods/arcana/essence_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "mut_dragonfire",
+        "files" : [
+            "Mods/arcana/bloodscourge.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "mut_dragonfire",
+        "files" : [
+            "Mods/arcana/bloodscourge.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "mut_dragonfire",
+        "files" : [
+            "Mods/arcana/essence_1.ogg",
+			"Mods/arcana/essence_2.ogg",
+			"Mods/arcana/essence_3.ogg",
+			"Mods/arcana/essence_4.ogg",
+			"Mods/arcana/essence_5.ogg"
+        ]
     }
 ]

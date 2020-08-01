@@ -41,6 +41,45 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "nm9mmsmgrare",
+        "files" : [
+            "guns/9mm/9mm_1.ogg",
+			"guns/9mm/9mm_2.ogg",
+			"guns/9mm/9mm_3.ogg",
+			"guns/9mm/9mm_4.ogg",
+			"guns/9mm/9mm_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "nm9mmsmgrare",
+        "files" : [
+            "guns/9mm/9mm_1.ogg",
+			"guns/9mm/9mm_2.ogg",
+			"guns/9mm/9mm_3.ogg",
+			"guns/9mm/9mm_4.ogg",
+			"guns/9mm/9mm_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "nm9mmsmgrare",
+        "files" : [
+            "guns/reload/smg/smg_1.ogg",
+			"guns/reload/smg/smg_2.ogg",
+			"guns/reload/smg/smg_3.ogg",
+			"guns/reload/smg/smg_4.ogg",
+			"guns/reload/smg/smg_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
         "volume" : 50,
         "variant" : "nm7x30smg",
         "files" : [
