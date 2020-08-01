@@ -302,11 +302,9 @@
         "volume" : 100,
         "variant" : "broadsider",
         "files" : [
-            "guns/3006/3006_1.ogg",
-			"guns/3006/3006_2.ogg",
-			"guns/3006/3006_3.ogg",
-			"guns/3006/3006_4.ogg",
-			"guns/3006/3006_5.ogg"
+            "guns/50/50_1.ogg",
+			"guns/50/50_2.ogg",
+			"guns/50/50_3.ogg"
         ]
     },
 	{
@@ -315,11 +313,9 @@
         "volume" : 60,
         "variant" : "broadsider",
         "files" : [
-            "guns/3006/3006_1.ogg",
-			"guns/3006/3006_2.ogg",
-			"guns/3006/3006_3.ogg",
-			"guns/3006/3006_4.ogg",
-			"guns/3006/3006_5.ogg"
+            "guns/50/50_1.ogg",
+			"guns/50/50_2.ogg",
+			"guns/50/50_3.ogg"
         ]
     },
     {
@@ -411,11 +407,9 @@
         "volume" : 100,
         "variant" : "70mm_autocannon",
         "files" : [
-            "guns/3006/3006_1.ogg",
-			"guns/3006/3006_2.ogg",
-			"guns/3006/3006_3.ogg",
-			"guns/3006/3006_4.ogg",
-			"guns/3006/3006_5.ogg"
+            "guns/50/50_1.ogg",
+			"guns/50/50_2.ogg",
+			"guns/50/50_3.ogg"
         ]
     },
 	{
@@ -424,11 +418,9 @@
         "volume" : 60,
         "variant" : "70mm_autocannon",
         "files" : [
-            "guns/3006/3006_1.ogg",
-			"guns/3006/3006_2.ogg",
-			"guns/3006/3006_3.ogg",
-			"guns/3006/3006_4.ogg",
-			"guns/3006/3006_5.ogg"
+            "guns/50/50_1.ogg",
+			"guns/50/50_2.ogg",
+			"guns/50/50_3.ogg"
         ]
     },
     {

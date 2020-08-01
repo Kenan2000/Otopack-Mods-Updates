@@ -45,7 +45,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
-        "variant" :  "laser_sniper",
+        "variant" :  "mx_laser_sniper",
         "files" : [
             "Mods/Cata++/laser_sniper_1.ogg",
 			"Mods/Cata++/laser_sniper_2.ogg",
@@ -56,7 +56,38 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 20,
-        "variant" :  "laser_sniper",
+        "variant" :  "mx_laser_sniper",
+        "files" : [
+            "Mods/Cata++/laser_sniper_1.ogg",
+			"Mods/Cata++/laser_sniper_2.ogg",
+			"Mods/Cata++/laser_sniper_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "mx_laser_sniper",
+        "files" : [
+            "Mods/Cata++/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" :  "mx_laser_sniper_ups",
+        "files" : [
+            "Mods/Cata++/laser_sniper_1.ogg",
+			"Mods/Cata++/laser_sniper_2.ogg",
+			"Mods/Cata++/laser_sniper_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" :  "mx_laser_sniper_ups",
         "files" : [
             "Mods/Cata++/laser_sniper_1.ogg",
 			"Mods/Cata++/laser_sniper_2.ogg",
@@ -89,7 +120,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
-        "variant" : "v29_monster",
+        "variant" : "neo_laser_pistol_monster",
         "files" : [
             "guns/eweapons/v29_1.ogg",
 			"guns/eweapons/v29_2.ogg",
@@ -100,7 +131,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 20,
-        "variant" : "v29_monster",
+        "variant" : "neo_laser_pistol_monster",
         "files" : [
             "guns/eweapons/v29_1.ogg",
 			"guns/eweapons/v29_2.ogg",
@@ -111,7 +142,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
-        "variant" : "bolt_rifle_elec",
+        "variant" : "br_bolt_rifle_elec",
         "files" : [
             "Mods/Cata++/bolt_rifle_elec_1.ogg",
 			"Mods/Cata++/bolt_rifle_elec_2.ogg",
@@ -122,7 +153,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 20,
-        "variant" : "bolt_rifle_elec",
+        "variant" : "br_bolt_rifle_elec",
         "files" : [
             "Mods/Cata++/bolt_rifle_elec_1.ogg",
 			"Mods/Cata++/bolt_rifle_elec_2.ogg",
@@ -133,11 +164,65 @@
         "type": "sound_effect",
         "id" : "reload",
         "volume" : 50,
-        "variant" : "bolt_rifle_elec",
+        "variant" : "br_bolt_rifle_elec",
         "files" : [
             "Mods/Cata++/bolt_rifle_elec_reload.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "flesh_pistol",
+        "files" : [
+            "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "flesh_pistol",
+        "files" : [
+            "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "flesh_smg",
+        "files" : [
+            "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "flesh_smg",
+        "files" : [
+            "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "flesh_lmg",
+        "files" : [
+            "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "flesh_lmg",
+        "files" : [
+            "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -154,6 +239,174 @@
         "variant" : "flesh_rifle",
         "files" : [
             "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "flesh_shotgun",
+        "files" : [
+            "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "flesh_shotgun",
+        "files" : [
+            "Mods/Cata++/flesh_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "akro_laser_smg",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "akro_laser_smg",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "akro_laser_smg",
+        "files" : [
+            "Mods/Cata++/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "akro_laser_smg_ups",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "akro_laser_smg_ups",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "akro_laser_smg_monster",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "akro_laser_smg_monster",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "xarm_laser_shotgun",
+        "files" : [
+            "Mods/Cata++/arc_laser_rifle_1.ogg",
+			"Mods/Cata++/arc_laser_rifle_2.ogg",
+			"Mods/Cata++/arc_laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "xarm_laser_shotgun",
+        "files" : [
+            "Mods/Cata++/arc_laser_rifle_1.ogg",
+			"Mods/Cata++/arc_laser_rifle_2.ogg",
+			"Mods/Cata++/arc_laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "xarm_laser_shotgun",
+        "files" : [
+            "Mods/Cata++/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "xarm_laser_shotgun_ups",
+        "files" : [
+            "Mods/Cata++/arc_laser_rifle_1.ogg",
+			"Mods/Cata++/arc_laser_rifle_2.ogg",
+			"Mods/Cata++/arc_laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "xarm_laser_shotgun_ups",
+        "files" : [
+            "Mods/Cata++/arc_laser_rifle_1.ogg",
+			"Mods/Cata++/arc_laser_rifle_2.ogg",
+			"Mods/Cata++/arc_laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "xarm_laser_shotgun_monster",
+        "files" : [
+            "Mods/Cata++/arc_laser_rifle_1.ogg",
+			"Mods/Cata++/arc_laser_rifle_2.ogg",
+			"Mods/Cata++/arc_laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "xarm_laser_shotgun_monster",
+        "files" : [
+            "Mods/Cata++/arc_laser_rifle_1.ogg",
+			"Mods/Cata++/arc_laser_rifle_2.ogg",
+			"Mods/Cata++/arc_laser_rifle_3.ogg"
         ]
     },
     {
@@ -172,6 +425,37 @@
         "id" : "fire_gun_distant",
         "volume" : 20,
         "variant" : "arc_laser_rifle",
+        "files" : [
+            "Mods/Cata++/arc_laser_rifle_1.ogg",
+			"Mods/Cata++/arc_laser_rifle_2.ogg",
+			"Mods/Cata++/arc_laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "arc_laser_rifle",
+        "files" : [
+            "Mods/Cata++/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "arc_laser_rifle_ups",
+        "files" : [
+            "Mods/Cata++/arc_laser_rifle_1.ogg",
+			"Mods/Cata++/arc_laser_rifle_2.ogg",
+			"Mods/Cata++/arc_laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "arc_laser_rifle_ups",
         "files" : [
             "Mods/Cata++/arc_laser_rifle_1.ogg",
 			"Mods/Cata++/arc_laser_rifle_2.ogg",
@@ -204,7 +488,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
-        "variant" : "laser_lmg",
+        "variant" : "krx_laser_lmg",
         "files" : [
             "Mods/Cata++/laser_lmg_1.ogg",
 			"Mods/Cata++/laser_lmg_2.ogg",
@@ -215,7 +499,38 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 20,
-        "variant" : "laser_lmg",
+        "variant" : "krx_laser_lmg",
+        "files" : [
+            "Mods/Cata++/laser_lmg_1.ogg",
+			"Mods/Cata++/laser_lmg_2.ogg",
+			"Mods/Cata++/laser_lmg_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "krx_laser_lmg",
+        "files" : [
+            "Mods/Cata++/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "krx_laser_lmg_ups",
+        "files" : [
+            "Mods/Cata++/laser_lmg_1.ogg",
+			"Mods/Cata++/laser_lmg_2.ogg",
+			"Mods/Cata++/laser_lmg_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "krx_laser_lmg_ups",
         "files" : [
             "Mods/Cata++/laser_lmg_1.ogg",
 			"Mods/Cata++/laser_lmg_2.ogg",
@@ -226,7 +541,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
-        "variant" : "laser_lmg_monster",
+        "variant" : "krx_laser_lmg_monster",
         "files" : [
             "Mods/Cata++/laser_lmg_1.ogg",
 			"Mods/Cata++/laser_lmg_2.ogg",
@@ -237,7 +552,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 20,
-        "variant" : "laser_lmg_monster",
+        "variant" : "krx_laser_lmg_monster",
         "files" : [
             "Mods/Cata++/laser_lmg_1.ogg",
 			"Mods/Cata++/laser_lmg_2.ogg",
@@ -321,6 +636,59 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
+        "variant" : "neo_laser_pistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "neo_laser_pistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "neo_laser_pistol",
+        "files" : [
+            "Mods/Cata++/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "neo_laser_pistol_ups",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "neo_laser_pistol_ups",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
         "variant" : "surv_battery_pistol",
         "files" : [
             "guns/eweapons/v29_1.ogg",
@@ -632,6 +1000,45 @@
         "volume" : 50,
         "variant" : "surv_full_762",
         "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "surv_full_762R",
+        "files" : [
+            "guns/762R/762R_1.ogg",
+			"guns/762R/762R_2.ogg",
+			"guns/762R/762R_3.ogg",
+			"guns/762R/762R_4.ogg",
+			"guns/762R/762R_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "surv_full_762R",
+        "files" : [
+            "guns/762R/762R_1.ogg",
+			"guns/762R/762R_2.ogg",
+			"guns/762R/762R_3.ogg",
+			"guns/762R/762R_4.ogg",
+			"guns/762R/762R_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "surv_full_762R",
+       "files" : [
             "guns/reload/rifle/rifle_1.ogg",
 			"guns/reload/rifle/rifle_2.ogg",
 			"guns/reload/rifle/rifle_3.ogg",
@@ -816,6 +1223,46 @@
 			
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "surv_lmg_762R",
+        "files" : [
+            "guns/762R/762R_1.ogg",
+			"guns/762R/762R_2.ogg",
+			"guns/762R/762R_3.ogg",
+			"guns/762R/762R_4.ogg",
+			"guns/762R/762R_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "surv_lmg_762R",
+        "files" : [
+            "guns/762R/762R_1.ogg",
+			"guns/762R/762R_2.ogg",
+			"guns/762R/762R_3.ogg",
+			"guns/762R/762R_4.ogg",
+			"guns/762R/762R_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "surv_lmg_762R",
+        "files" : [
+            "guns/reload/mg/mgk_1.ogg",
+			"guns/reload/mg/mgk_2.ogg",
+			"guns/reload/mg/mgk_3.ogg",
+			"guns/reload/mg/mgk_4.ogg",
+			"guns/reload/mg/mgk_5.ogg"
+			
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -964,8 +1411,53 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "mk_ionic_cannon",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
         "volume" : 50,
-        "variant" : "aux_flamer_diesel",
+        "variant" : "mk_ionic_cannon",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "mk_ionic_cannon",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "mk_ionic_cannon_monster",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    }
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 50,
+        "variant" : "mk_ionic_cannon_monster",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "flamethrower_surv",
         "files" : [
             "guns/flammable/flammable_1.ogg",
 			"guns/flammable/flammable_2.ogg"
@@ -975,7 +1467,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 20,
-        "variant" : "aux_flamer_diesel",
+        "variant" : "flamethrower_surv",
         "files" : [
             "guns/flammable/flammable_1.ogg",
 			"guns/flammable/flammable_2.ogg"
