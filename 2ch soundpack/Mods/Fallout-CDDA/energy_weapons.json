@@ -1,0 +1,494 @@
+[
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wattz_1000",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wattz_1000",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wattz_1000",
+        "files" : [
+            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wattz_1000_magneto",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wattz_1000_magneto",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wattz_1000_magneto",
+        "files" : [
+            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "laser_pistol_aep",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "laser_pistol_aep",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "laser_pistol_aep",
+        "files" : [
+            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "laser_pistol_aep_pewpew",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "laser_pistol_aep_pewpew",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "laser_pistol_aep_pewpew",
+        "files" : [
+            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "wattz_2000",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "wattz_2000",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "aer9",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "aer9",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "aer9",
+        "files" : [
+            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "aer9_tribeam",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "aer9_tribeam",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "aer9_tribeam",
+        "files" : [
+            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "aer14_prototype",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "aer14_prototype",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "aer14_prototype",
+        "files" : [
+            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "laser_rcw",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "laser_rcw",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "p94_rifle",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "p94_rifle",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "p94_rifle",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "musket_laser",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "musket_laser",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "zetan_rifle",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "zetan_rifle",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "zetan_rifle",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "zetan_smg",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "zetan_smg",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "zetan_smg",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "zetan_pistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "zetan_pistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "zetan_pistol",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "zetan_pistol_fire",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "zetan_pistol_fire",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "zetan_pistol_fire",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "zetan_pistol_shot",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "zetan_pistol_shot",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "zetan_pistol_shot",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "zetan_cannon",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "zetan_cannon",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "zetan_cannon",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    }
+]

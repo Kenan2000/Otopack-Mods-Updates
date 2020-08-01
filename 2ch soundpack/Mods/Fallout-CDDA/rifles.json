@@ -1,4 +1,63 @@
-[ {
+[ 
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "redryder",
+        "files" : [
+            "guns/others/bbgun_1.ogg",
+			"guns/others/bbgun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "redryder",
+        "files" : [
+            "guns/others/bbgun_1.ogg",
+			"guns/others/bbgun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "redryder",
+        "files" : [
+            "guns/reload/others/bbgun.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "redryderle",
+        "files" : [
+            "guns/others/bbgun_1.ogg",
+			"guns/others/bbgun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "redryderle",
+        "files" : [
+            "guns/others/bbgun_1.ogg",
+			"guns/others/bbgun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "redryderle",
+        "files" : [
+            "guns/reload/others/bbgun.ogg"
+        ]
+    },
+	{
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 100,
@@ -711,6 +770,447 @@
 			"guns/reload/rifle_s/rifle_3.ogg",
 			"guns/reload/rifle_s/rifle_4.ogg",
 			"guns/reload/rifle_s/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "colt_rangemaster",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "colt_rangemaster",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "colt_rangemaster",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "varmint_rifle",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "varmint_rifle",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "varmint_rifle",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "varmint_rifle_ratslayer",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "varmint_rifle_ratslayer",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "varmint_rifle_ratslayer",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "dks501",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "dks501",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "dks501",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "bozar",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "bozar",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "bozar",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "rf2076",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "rf2076",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "rf2076",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "r91",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "r91",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "r91",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "carbine_marksman",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "carbine_marksman",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "carbine_marksman",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "type93",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "type93",
+        "files" : [
+            "guns/223/223_1.ogg",
+			"guns/223/223_2.ogg",
+			"guns/223/223_3.ogg",
+			"guns/223/223_4.ogg",
+			"guns/223/223_5.ogg",
+			"guns/223/223_6.ogg",
+			"guns/223/223_7.ogg",
+			"guns/223/223_8.ogg",
+			"guns/223/223_9.ogg",
+			"guns/223/223_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "type93",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
         ]
     }
 ]
