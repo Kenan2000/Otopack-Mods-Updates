@@ -1,0 +1,403 @@
+[
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_floral_vector",
+        "volume" : 30,
+        "files" : [
+            "terrain/tree/hit_grass_1.ogg",
+			"terrain/tree/hit_grass_2.ogg",
+			"terrain/tree/hit_grass_3.ogg",
+			"terrain/tree/hit_grass_4.ogg",
+			"terrain/tree/hit_grass_5.ogg",
+			"terrain/tree/hit_grass_6.ogg",
+			"terrain/tree/hit_grass_7.ogg",
+			"terrain/tree/hit_grass_8.ogg",
+			"terrain/tree/hit_grass_9.ogg",
+			"terrain/tree/hit_grass_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_floral_vector",
+        "volume" : 30,
+        "files" : [
+            "terrain/tree/hit_grass_1.ogg",
+			"terrain/tree/hit_grass_2.ogg",
+			"terrain/tree/hit_grass_3.ogg",
+			"terrain/tree/hit_grass_4.ogg",
+			"terrain/tree/hit_grass_5.ogg",
+			"terrain/tree/hit_grass_6.ogg",
+			"terrain/tree/hit_grass_7.ogg",
+			"terrain/tree/hit_grass_8.ogg",
+			"terrain/tree/hit_grass_9.ogg",
+			"terrain/tree/hit_grass_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_fleshknot_emitter",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_fleshknot_emitter",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_flower_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_flower_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/tree/hit_grass_1.ogg",
+			"terrain/tree/hit_grass_2.ogg",
+			"terrain/tree/hit_grass_3.ogg",
+			"terrain/tree/hit_grass_4.ogg",
+			"terrain/tree/hit_grass_5.ogg",
+			"terrain/tree/hit_grass_6.ogg",
+			"terrain/tree/hit_grass_7.ogg",
+			"terrain/tree/hit_grass_8.ogg",
+			"terrain/tree/hit_grass_9.ogg",
+			"terrain/tree/hit_grass_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_boulder_small_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_boulder_small_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/rock/smash_rock_1.ogg",
+			"terrain/rock/smash_rock_2.ogg",
+			"terrain/rock/smash_rock_3.ogg",
+			"terrain/rock/smash_rock_4.ogg",
+			"terrain/rock/smash_rock_5.ogg",
+			"terrain/rock/smash_rock_6.ogg",
+			"terrain/rock/smash_rock_7.ogg",
+			"terrain/rock/smash_rock_8.ogg",
+			"terrain/rock/smash_rock_9.ogg",
+			"terrain/rock/smash_rock_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_boulder_medium_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_boulder_medium_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/rock/smash_rock_1.ogg",
+			"terrain/rock/smash_rock_2.ogg",
+			"terrain/rock/smash_rock_3.ogg",
+			"terrain/rock/smash_rock_4.ogg",
+			"terrain/rock/smash_rock_5.ogg",
+			"terrain/rock/smash_rock_6.ogg",
+			"terrain/rock/smash_rock_7.ogg",
+			"terrain/rock/smash_rock_8.ogg",
+			"terrain/rock/smash_rock_9.ogg",
+			"terrain/rock/smash_rock_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_boulder_large_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_boulder_large_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/rock/smash_rock_1.ogg",
+			"terrain/rock/smash_rock_2.ogg",
+			"terrain/rock/smash_rock_3.ogg",
+			"terrain/rock/smash_rock_4.ogg",
+			"terrain/rock/smash_rock_5.ogg",
+			"terrain/rock/smash_rock_6.ogg",
+			"terrain/rock/smash_rock_7.ogg",
+			"terrain/rock/smash_rock_8.ogg",
+			"terrain/rock/smash_rock_9.ogg",
+			"terrain/rock/smash_rock_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_tree_flesh_atk",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_tree_flesh_atk",
+        "volume" : 30,
+        "files" : [
+			"terrain/tree/smash_tree_1.ogg",
+			"terrain/tree/smash_tree_2.ogg",
+			"terrain/tree/smash_tree_3.ogg",
+			"terrain/tree/smash_tree_4.ogg",
+			"terrain/tree/smash_tree_5.ogg",
+			"terrain/tree/smash_tree_6.ogg",
+			"terrain/tree/smash_tree_7.ogg",
+			"terrain/tree/smash_tree_8.ogg",
+			"terrain/tree/smash_tree_9.ogg",
+			"terrain/tree/smash_tree_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_sack_hatch",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_sack_hatch",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_tendril_cluster",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_tendril_cluster",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_flesh_bones",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_flesh_bones",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_flesh_tent",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_flesh_tent",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_flesh",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_flesh_wall",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_flesh_wall",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_flesh_wall_spawning",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_flesh_wall_spawning",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_biome",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_biome",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_secro_veinstalk",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/hit_fungal_1.ogg",
+			"terrain/fungal/hit_fungal_2.ogg",
+			"terrain/fungal/hit_fungal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_secro_veinstalk",
+        "volume" : 30,
+        "files" : [
+            "terrain/fungal/smash_fungal_1.ogg",
+			"terrain/fungal/smash_fungal_2.ogg",
+			"terrain/fungal/smash_fungal_3.ogg"
+        ]
+    }
+]

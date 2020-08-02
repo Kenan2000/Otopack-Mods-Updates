@@ -1,0 +1,496 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "selfbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "selfbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "selfbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "shortbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "shortbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "shortbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "compbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "compbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "compbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "compbow_high",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "compbow_high",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "compbow_high",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "compbow_low",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "compbow_low",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "compbow_low",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "compositebow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "compositebow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "compositebow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "recurbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "recurbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "recurbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "reflexbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "reflexbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "reflexbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "longbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "longbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "longbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "reflexrecurvebow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "reflexrecurvebow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "reflexrecurvebow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "hybridbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "hybridbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "hybridbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "woodgreatbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "woodgreatbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "woodgreatbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "compgreatbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "compgreatbow",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+			"guns/archery/archery_2.ogg",
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "compgreatbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
+    }
+]
