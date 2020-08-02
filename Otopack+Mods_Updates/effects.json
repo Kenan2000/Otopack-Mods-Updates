@@ -1,0 +1,1173 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "hit_vehicle",
+        "volume" : 40,
+        "files" : [
+            "env/vehicle/smash_vehicle_1.ogg",
+			"env/vehicle/smash_vehicle_2.ogg",
+			"env/vehicle/smash_vehicle_3.ogg",
+			"env/vehicle/smash_vehicle_4.ogg",
+			"env/vehicle/smash_vehicle_5.ogg",
+			"env/vehicle/smash_vehicle_6.ogg",
+			"env/vehicle/smash_vehicle_7.ogg",
+			"env/vehicle/smash_vehicle_8.ogg",
+			"env/vehicle/smash_vehicle_9.ogg",
+			"env/vehicle/smash_vehicle_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "smash_glass_contents",
+        "volume" : 50,
+        "files" : [
+            "effects/glass/glass_1.ogg",
+			"effects/glass/glass_2.ogg",
+			"effects/glass/glass_3.ogg",
+			"effects/glass/glass_4.ogg",
+			"effects/glass/glass_5.ogg",
+			"effects/glass/glass_6.ogg",
+			"effects/glass/glass_7.ogg",
+			"effects/glass/glass_8.ogg",
+			"effects/glass/glass_9.ogg",
+			"effects/glass/glass_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "explosion",
+        "variant" : "default",
+        "volume" : 70,
+        "files" : [
+            "env/explosions/explosion_small_1.ogg",
+			"env/explosions/explosion_small_2.ogg",
+			"env/explosions/explosion_small_3.ogg",
+			"env/explosions/explosion_small_4.ogg",
+			"env/explosions/explosion_small_5.ogg",
+			"env/explosions/explosion_small_6.ogg",
+			"env/explosions/explosion_small_7.ogg"
+			
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "explosion",
+        "variant" : "small",
+        "volume" : 60,
+        "files" : [
+            "env/explosions/explosion_small_1.ogg",
+			"env/explosions/explosion_small_2.ogg",
+			"env/explosions/explosion_small_3.ogg",
+			"env/explosions/explosion_small_4.ogg",
+			"env/explosions/explosion_small_5.ogg",
+			"env/explosions/explosion_small_6.ogg",
+			"env/explosions/explosion_small_7.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "explosion",
+        "variant" : "huge",
+        "volume" : 70,
+        "files" : [
+            "env/explosions/explosion_large_1.ogg",
+			"env/explosions/explosion_large_2.ogg",
+			"env/explosions/explosion_large_3.ogg",
+			"env/explosions/explosion_large_4.ogg",
+			"env/explosions/explosion_large_5.ogg",
+			"env/explosions/explosion_large_6.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "environment",
+        "variant" : "alarm",
+        "volume" : 60,
+        "files" : [
+            "env/other/security_alarm.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "variant" : "brass_eject",
+        "volume" : 100,
+        "files" : [
+            "effects/brass/brass_falling_1.ogg",
+            "effects/brass/brass_falling_2.ogg",
+            "effects/brass/brass_falling_3.ogg",
+			"effects/brass/brass_falling_4.ogg",
+			"effects/brass/brass_falling_5.ogg",
+			"effects/brass/brass_falling_6.ogg",
+            "effects/brass/brass_falling_7.ogg",
+			"effects/brass/brass_falling_8.ogg",
+			"effects/brass/brass_falling_9.ogg",
+            "effects/brass/brass_falling_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "bullet_hit",
+        "variant" : "hit_flesh",
+        "volume" : 30,
+        "files" : [
+            "effects/bulletflesh/hit_flesh_1.ogg",
+            "effects/bulletflesh/hit_flesh_2.ogg",
+            "effects/bulletflesh/hit_flesh_3.ogg",
+			"effects/bulletflesh/hit_flesh_4.ogg",
+            "effects/bulletflesh/hit_flesh_5.ogg",
+            "effects/bulletflesh/hit_flesh_6.ogg",
+			"effects/bulletflesh/hit_flesh_7.ogg",
+            "effects/bulletflesh/hit_flesh_8.ogg",
+            "effects/bulletflesh/hit_flesh_9.ogg",
+			"effects/bulletflesh/hit_flesh_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "bullet_hit",
+        "variant" : "hit_wall",
+        "volume" : 50,
+        "files" : [
+            "effects/bulletwall/ricochet_1.ogg",
+            "effects/bulletwall/ricochet_2.ogg",
+			"effects/bulletwall/ricochet_3.ogg",
+			"effects/bulletwall/ricochet_4.ogg",
+			"effects/bulletwall/ricochet_5.ogg",
+			"effects/bulletwall/ricochet_6.ogg",
+			"effects/bulletwall/ricochet_7.ogg",
+			"effects/bulletwall/ricochet_8.ogg",
+			"effects/bulletwall/ricochet_9.ogg",
+			"effects/bulletwall/ricochet_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "bullet_hit",
+        "variant" : "hit_metal",
+        "volume" : 50,
+        "files" : [
+            "effects/bulletmetal/ricochet_1.ogg",
+            "effects/bulletmetal/ricochet_2.ogg",
+			"effects/bulletmetal/ricochet_3.ogg",
+			"effects/bulletmetal/ricochet_4.ogg",
+			"effects/bulletmetal/ricochet_5.ogg",
+			"effects/bulletmetal/ricochet_6.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "bullet_hit",
+        "variant" : "hit_glass",
+        "volume" : 50,
+        "files" : [
+            "effects/bulletglass/hit_glass_1.ogg",
+            "effects/bulletglass/hit_glass_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "bullet_hit",
+        "variant" : "hit_water",
+        "volume" : 50,
+        "files" : [
+            "effects/bulletwater/hit_water_1.ogg",
+            "effects/bulletwater/hit_water_2.ogg",
+			"effects/bulletwater/hit_water_3.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "geiger_low",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/geiger_low.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "geiger_medium",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/geiger_medium.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "geiger_high",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/geiger_high.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "jackhammer",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/jackhammer.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "hammer",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/hammer.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "axe",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/axe.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "pickaxe",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/pickaxe.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "oxytorch",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/oxytorch.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "hacksaw",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/hacksaw.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "shovel",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/shovel.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "crowbar",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/crowbar.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "boltcutters",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/boltcutters.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "gaspump",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/gaspump.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "noise_emitter",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/noise_emitter.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "repair_kit",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/repair_kit.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "camera_shutter",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/camera_shutter.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "handcuffs",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/handcuffs.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "trap",
+        "variant" : "bear_trap",
+        "volume" : 90,
+        "files" : [
+            "effects/traps/bear_trap.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "trap",
+        "variant" : "snare",
+        "volume" : 90,
+        "files" : [
+            "effects/traps/snare.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "trap",
+        "variant" : "glass_caltrop",
+        "volume" : 90,
+        "files" : [
+            "effects/traps/glass_caltrop.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "trap",
+        "variant" : "bubble_wrap",
+        "volume" : 90,
+        "files" : [
+            "effects/traps/bubble_wrap.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "trap",
+        "variant" : "glass",
+        "volume" : 90,
+        "files" : [
+            "effects/traps/glass.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "trap",
+        "variant" : "dissector",
+        "volume" : 90,
+        "files" : [
+            "effects/traps/dissector.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "trap",
+        "variant" : "teleport",
+        "volume" : 90,
+        "files" : [
+            "effects/traps/teleport.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "bell",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/bell.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "bomb_ticking",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/bomb_ticking.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "cow_bell",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/cow_bell.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "earthquake",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/earthquake.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "flashbang",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/flashbang.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "horn_bicycle",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/horn_bicycle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "lit_fuse",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/lit_fuse.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "radio",
+        "variant" : "static",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/radio_static.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "radio",
+        "variant" : "inaudible_chatter",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/radio_inaudible_chatter_1.ogg", 
+			"effects/misc/radio_inaudible_chatter_2.ogg", 
+			"effects/misc/radio_inaudible_chatter_3.ogg", 
+			"effects/misc/radio_inaudible_chatter_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "stairs_movement",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/stairs_movement.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "stones_grinding",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/stones_grinding.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "alarm_clock",
+        "volume" : 90,
+        "files" : [
+            "effects/tools/alarm_clock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "environment",
+        "variant" : "church_bells",
+        "volume" : 90,
+        "files" : [
+            "env/other/church_bells.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "environment",
+        "variant" : "police_siren",
+        "volume" : 90,
+        "files" : [
+            "env/other/police_siren.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire",
+        "variant" : "ignition",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/fire_ignition_1.ogg",
+			"effects/misc/fire_ignition_2.ogg",
+			"effects/misc/fire_ignition_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "servomotor",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/servomotor.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "spitting",
+        "volume" : 70,
+        "files" : [
+            "monster/spitting_1.ogg", 
+			"monster/spitting_2.ogg", 
+			"monster/spitting_3.ogg"			
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "whistle",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/whistle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "airhorn",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/airhorn.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "talking_doll",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/talking_doll.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "creepy_doll",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/creepy_doll.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_zolf",
+        "volume" : 70,
+        "files" : [
+			"monster/mon_wolf_1.ogg",
+			"monster/mon_wolf_2.ogg",
+			"monster/mon_wolf_3.ogg",
+			"monster/mon_wolf_4.ogg",
+			"monster/mon_wolf_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_shoggoth",
+        "volume" : 70,
+        "files" : [
+			"monster/gurgling_shoggoth_1.ogg",
+			"monster/gurgling_shoggoth_2.ogg",
+			"monster/gurgling_shoggoth_3.ogg",
+			"monster/slurping_shoggoth_1.ogg",
+			"monster/slurping_shoggoth_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_secubot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.ogg",
+			"robot/bot_default_2.ogg",
+			"robot/bot_default_3.ogg",
+			"robot/bot_default_4.ogg",
+			"robot/bot_default_5.ogg",
+			"robot/bot_default_6.ogg",
+			"robot/bot_default_7.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_skitterbot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.ogg",
+			"robot/bot_default_2.ogg",
+			"robot/bot_default_3.ogg",
+			"robot/bot_default_4.ogg",
+			"robot/bot_default_5.ogg",
+			"robot/bot_default_6.ogg",
+			"robot/bot_default_7.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_molebot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.ogg",
+			"robot/bot_default_2.ogg",
+			"robot/bot_default_3.ogg",
+			"robot/bot_default_4.ogg",
+			"robot/bot_default_5.ogg",
+			"robot/bot_default_6.ogg",
+			"robot/bot_default_7.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_hazmatbot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.ogg",
+			"robot/bot_default_2.ogg",
+			"robot/bot_default_3.ogg",
+			"robot/bot_default_4.ogg",
+			"robot/bot_default_5.ogg",
+			"robot/bot_default_6.ogg",
+			"robot/bot_default_7.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_copbot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.ogg",
+			"robot/bot_default_2.ogg",
+			"robot/bot_default_3.ogg",
+			"robot/bot_default_4.ogg",
+			"robot/bot_default_5.ogg",
+			"robot/bot_default_6.ogg",
+			"robot/bot_default_7.ogg",
+			"robot/mon_riotbot_1.ogg",
+			"robot/mon_riotbot_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_robofac_prototype",
+        "volume" : 70,
+        "files" : [
+			"robot/mon_prototype_cyborg_1.ogg",
+			"robot/bot_default_1.ogg",
+			"robot/bot_default_2.ogg",
+			"robot/bot_default_3.ogg",
+			"robot/bot_default_4.ogg",
+			"robot/bot_default_5.ogg",
+			"robot/bot_default_6.ogg",
+			"robot/bot_default_7.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_riotbot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.ogg",
+			"robot/bot_default_2.ogg",
+			"robot/bot_default_3.ogg",
+			"robot/bot_default_4.ogg",
+			"robot/bot_default_5.ogg",
+			"robot/bot_default_6.ogg",
+			"robot/bot_default_7.ogg",
+			"robot/mon_riotbot_1.ogg",
+			"robot/mon_riotbot_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_nursebot_defective",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.ogg",
+			"robot/bot_default_2.ogg",
+			"robot/bot_default_3.ogg",
+			"robot/bot_default_4.ogg",
+			"robot/bot_default_5.ogg",
+			"robot/bot_default_6.ogg",
+			"robot/bot_default_7.ogg",
+			"robot/mon_nursebot_defective_1.ogg",
+			"robot/mon_nursebot_defective_2.ogg",
+			"robot/mon_nursebot_defective_3.ogg",
+			"robot/mon_nursebot_defective_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_eyebot",
+        "volume" : 70,
+        "files" : [
+			"robot/mon_eyebot_1.ogg",
+			"robot/mon_eyebot_2.ogg",
+			"robot/mon_eyebot_3.ogg",
+			"robot/mon_eyebot_4.ogg",
+			"robot/mon_eyebot_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_beagle",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog_beagle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_bcollie",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog_bcollie.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_chihuahua",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog_chihuahua.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_dachshund",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog_dachshund.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_gshepherd",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_gpyrenees",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_auscattle",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_bull",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog_bull.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_pitbullmix",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog_bull.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_boxer",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog_bull.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_dog_rottweiler",
+        "volume" : 70,
+        "files" : [
+			"effects/dog/mon_dog_rottweiler.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "rattling",
+        "volume" : 70,
+        "files" : [
+            "monster/rattling.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "snake_hiss",
+        "volume" : 70,
+        "files" : [
+            "monster/hissing.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "exhale",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/exhale.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "inhale",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/inhale.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "puff",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/puff.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "insect_wings",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/insect_wings.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "heartbeat",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/heartbeat.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "timber",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/timber.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "shockwave",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/shockwave.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "rc_car_hits_obstacle",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/rc_car_hits_obstacle.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "beep",
+        "volume" : 50,
+        "files" : [
+            "effects/misc/beep.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "ding",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/ding.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "activity",
+        "variant" : "burrow",
+        "volume" : 70,
+        "files" : [
+            "effects/activity/burrow.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "musical_instrument",
+        "variant" : "banjo",
+        "volume" : 70,
+        "files" : [
+            "effects/musical_instrument/banjo.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "musical_instrument",
+        "variant" : "bone_flute",
+        "volume" : 70,
+        "files" : [
+            "effects/musical_instrument/flute_1.ogg",
+            "effects/musical_instrument/flute_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "musical_instrument",
+        "variant" : "flute",
+        "volume" : 70,
+        "files" : [
+            "effects/musical_instrument/flute_1.ogg",
+            "effects/musical_instrument/flute_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "musical_instrument",
+        "variant" : "clarinet",
+        "volume" : 70,
+        "files" : [
+            "effects/musical_instrument/clarinet.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "musical_instrument",
+        "variant" : "trumpet",
+        "volume" : 70,
+        "files" : [
+            "effects/musical_instrument/trumpet.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "musical_instrument",
+        "variant" : "ukulele",
+        "volume" : 70,
+        "files" : [
+            "effects/musical_instrument/ukulele.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "musical_instrument",
+        "variant" : "violin",
+        "volume" : 70,
+        "files" : [
+            "effects/musical_instrument/violin_1.ogg",
+            "effects/musical_instrument/violin_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "musical_instrument",
+        "variant" : "violin_golden",
+        "volume" : 70,
+        "files" : [
+            "effects/musical_instrument/violin_1.ogg",
+            "effects/musical_instrument/violin_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "humming",
+        "variant" : "electric",
+        "volume" : 70,
+        "files" : [
+            "effects/humming/electric.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "humming",
+        "variant" : "machinery",
+        "volume" : 70,
+        "files" : [
+            "effects/humming/machinery.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "shout",
+        "variant" : "default",
+        "volume" : 70,
+        "files" : [
+            "effects/shout/shout_default.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "shout",
+        "variant" : "scream",
+        "volume" : 70,
+        "files" : [
+            "effects/shout/scream.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "shout",
+        "variant" : "scream_tortured",
+        "volume" : 70,
+        "files" : [
+            "effects/shout/scream_tortured.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "shout",
+        "variant" : "roar",
+        "volume" : 70,
+        "files" : [
+            "monster/roar_1.ogg",
+            "monster/roar_2.ogg",
+            "monster/roar_3.ogg",
+            "monster/roar_4.ogg",
+            "monster/roar_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "shout",
+        "variant" : "shriek",
+        "volume" : 70,
+        "files" : [
+            "monster/shriek.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "shout",
+        "variant" : "howl",
+        "volume" : 70,
+        "files" : [
+			"monster/mon_wolf_1.ogg",
+			"monster/mon_wolf_2.ogg",
+			"monster/mon_wolf_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "shout",
+        "variant" : "wail",
+        "volume" : 50,
+        "files" : [
+			"effects/shout/wail_1.ogg",
+			"effects/shout/wail_2.ogg",
+			"effects/shout/wail_3.ogg",
+			"effects/shout/wail_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "shout",
+        "variant" : "squeak",
+        "volume" : 40,
+        "files" : [
+			"effects/shout/squeak_1.ogg",
+			"effects/shout/squeak_2.ogg",
+			"effects/shout/squeak_3.ogg",
+			"effects/shout/squeak_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "clean_up_at_end",
+        "variant" : "game_over",
+        "volume" : 50,
+        "files" : [
+            "misc/game_over/game_over.ogg"
+        ]
+    }
+]

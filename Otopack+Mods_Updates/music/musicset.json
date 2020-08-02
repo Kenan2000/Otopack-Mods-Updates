@@ -1,0 +1,146 @@
+[
+    {
+        "type": "playlist",
+        "playlists":
+        [
+            {
+                "id" : "title",
+                "shuffle" : true,
+                "files" : [
+                    {
+                        "file": "music/bg1.ogg",
+                        "volume": 70
+                    },
+                    {
+                        "file": "music/bg2.ogg",
+                        "volume": 70
+                    },
+                    {
+                        "file": "music/bg3.ogg",
+                        "volume": 70
+                    },
+                    {
+                        "file": "music/bg4.ogg",
+                        "volume": 75
+                    },
+                    {
+                        "file": "music/bg5.ogg",
+                        "volume": 75
+                    },
+                    {
+                        "file": "music/bg6.ogg",
+                        "volume": 75
+                    },
+                    {
+                        "file": "music/bg7.ogg",
+                        "volume": 75
+                    },
+                    {
+                        "file": "music/bg8.ogg",
+                        "volume": 70
+                    },
+                    {
+                        "file": "music/bg9.ogg",
+                        "volume": 70
+                    },
+		    		{
+                        "file": "music/bg10.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg11.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg12.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg13.ogg",
+                        "volume": 70
+                    },
+		    		{
+                        "file": "music/bg14.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg15.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg16.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg17.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg18.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg19.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg20.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg21.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg22.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg23.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg24.ogg",
+                        "volume": 75
+                    },
+                    {
+                        "file": "music/bg25.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg26.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg27.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg28.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg29.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg30.ogg",
+                        "volume": 75
+                    },
+		    		{
+                        "file": "music/bg31.ogg",
+                        "volume": 75
+                    },
+                    {
+                        "file": "music/bg32.ogg",
+                        "volume": 75
+                    },
+                    {
+                        "file": "music/bg33.ogg",
+                        "volume": 75
+                    }
+                ]
+            }
+        ]
+    }
+]

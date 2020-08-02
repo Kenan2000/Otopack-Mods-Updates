@@ -1,0 +1,95 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "1895sbl",
+        "files" : [
+            "guns/4570/4570.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "1895sbl",
+        "files" : [
+            "guns/4570/4570.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "1895sbl",
+        "files" : [
+            "guns/reload/rifle_s/rifle_1.ogg",
+			"guns/reload/rifle_s/rifle_2.ogg",
+			"guns/reload/rifle_s/rifle_3.ogg",
+			"guns/reload/rifle_s/rifle_4.ogg",
+			"guns/reload/rifle_s/rifle_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "bfr",
+        "files" : [
+            "guns/4570/4570.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "bfr",
+        "files" : [
+            "guns/4570/4570.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "bfr",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "sharps",
+        "files" : [
+            "guns/4570/4570.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "sharps",
+        "files" : [
+            "guns/4570/4570.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "sharps",
+        "files" : [
+            "guns/reload/rifle_s/rifle_1.ogg",
+			"guns/reload/rifle_s/rifle_2.ogg",
+			"guns/reload/rifle_s/rifle_3.ogg",
+			"guns/reload/rifle_s/rifle_4.ogg",
+			"guns/reload/rifle_s/rifle_5.ogg"
+        ]
+    }
+]

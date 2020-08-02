@@ -1,0 +1,167 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "bio_blaster_gun",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "bio_blaster_gun",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "bio_laser_gun",
+        "files" : [
+            "guns/eweapons/bio_laser_gun_1.ogg",
+			"guns/eweapons/bio_laser_gun_2.ogg",
+			"guns/eweapons/bio_laser_gun_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "bio_laser_gun",
+        "files" : [
+            "guns/eweapons/bio_laser_gun_1.ogg",
+			"guns/eweapons/bio_laser_gun_2.ogg",
+			"guns/eweapons/bio_laser_gun_3.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "bio_lightning",
+        "files" : [
+            "guns/eweapons/bio_lightning_1.ogg",
+			"guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "bio_lightning",
+        "files" : [
+            "guns/eweapons/bio_lightning_1.ogg",
+			"guns/eweapons/bio_lightning_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "variant" : "bio_lightning_tail",
+        "volume" : 100,
+        "files" : [
+            "effects/electrosparks/sparks_1.ogg",
+			"effects/electrosparks/sparks_2.ogg",
+			"effects/electrosparks/sparks_3.ogg",
+			"effects/electrosparks/sparks_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "variant" : "bio_lightning_tail",
+        "volume" : 10,
+        "files" : [
+            "effects/electrosparks/sparks_1.ogg",
+			"effects/electrosparks/sparks_2.ogg",
+			"effects/electrosparks/sparks_3.ogg",
+			"effects/electrosparks/sparks_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "bio_shotgun_gun",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "bio_shotgun_gun",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "bio_shotgun_gun",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "bio_emp_gun",
+        "files" : [
+            "guns/eweapons/emp_gun_1.ogg",
+			"guns/eweapons/emp_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "bio_emp_gun",
+        "files" : [
+            "guns/eweapons/emp_gun_1.ogg",
+			"guns/eweapons/emp_gun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "mut_quills",
+        "files" : [
+            "guns/nail/nailgun_1.ogg",
+			"guns/nail/nailgun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "mut_quills",
+        "files" : [
+            "guns/nail/nailgun_1.ogg",
+			"guns/nail/nailgun_2.ogg"
+        ]
+    }
+]
