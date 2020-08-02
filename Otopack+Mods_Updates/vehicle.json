@@ -1,0 +1,489 @@
+
+[
+	{
+        "type": "sound_effect",
+        "id" : "engine_start",
+		"variant" : "combustion",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_start_combustion_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_start",
+		"variant" : "engine_vtwin",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_start_vtwin.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_start",
+		"variant" : "engine_v8",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_start_v8.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_start",
+		"variant" : "electric",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_start_electric_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_stop",
+		"variant" : "combustion",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_stop_combustion_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_stop",
+		"variant" : "engine_vtwin",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_stop_vtwin.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_stop",
+		"variant" : "engine_v8",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_stop_v8.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_stop",
+		"variant" : "electric",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_stop_electric_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "engine_backfire",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_backfire.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "engine_clanking_fail",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_clanking_fail.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "engine_stutter_fail",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_stall_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "engine_multi_click_fail",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_stall_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_working_external",
+		"variant" : "combustion",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_working_external_combustion_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_working_external",
+		"variant" : "engine_vtwin",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_working_vtwin.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_working_external",
+		"variant" : "electric",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_working_external_electric_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_working_internal",
+		"variant" : "combustion",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_working_internal_combustion_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_working_internal",
+		"variant" : "engine_v8",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_working_internal_v8.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_working_internal",
+		"variant" : "engine_vtwin",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_working_vtwin.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_working_internal",
+		"variant" : "electric",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_working_internal_electric_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "gear_shift",
+        "volume" : 20,
+        "files" : [
+            "vehicle/misc/gear_shift_1.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "door",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "door",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "door_opaque",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "door_opaque",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "hddoor",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "hddoor",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "hddoor_opaque",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "hddoor_opaque",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "door_internal",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "door_internal",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_6.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "door_shutter",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_7.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "door_shutter",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_8.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "door_sliding",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_9.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "door_sliding",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "hatch",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "hatch",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_6.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "hatch_opaque",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "hatch_opaque",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_6.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "hdhatch",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "hdhatch",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_6.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "hdhatch_opaque",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "hdhatch_opaque",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/door_6.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "door_trunk",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/trunk_1.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "door_trunk",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/trunk_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_open",
+		"variant" : "hddoor_trunk",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/trunk_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle_close",
+		"variant" : "hddoor_trunk",
+        "volume" : 90,
+        "files" : [
+            "vehicle/vehicle_door/trunk_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "horn_low",
+        "volume" : 90,
+        "files" : [
+			"effects/misc/horn_bicycle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "horn_medium",
+        "volume" : 90,
+        "files" : [
+			"vehicle/misc/horn_medium.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "horn_loud",
+        "volume" : 90,
+        "files" : [
+			"vehicle/misc/horn_loud.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "rear_beeper",
+        "volume" : 90,
+        "files" : [
+			"vehicle/misc/rear_beeper.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "car_alarm",
+        "volume" : 60,
+        "files" : [
+			"vehicle/misc/car_alarm.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "fault_immobiliser_beep",
+        "volume" : 90,
+        "files" : [
+			"vehicle/misc/fault_immobiliser_beep.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_start",
+		"variant" : "foot_pedals",
+        "volume" : 100,
+        "files" : [
+            "vehicle/engine/engine_use_foot_pedals.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "engine_stop",
+		"variant" : "foot_pedals",
+        "volume" : 100,
+        "files" : [
+            "vehicle/engine/engine_use_foot_pedals.ogg"
+        ]
+    }
+]
