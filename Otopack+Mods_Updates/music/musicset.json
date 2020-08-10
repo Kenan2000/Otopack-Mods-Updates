@@ -1,146 +1,78 @@
 [
-    {
+       {
         "type": "playlist",
         "playlists":
         [
-            {
-                "id" : "title",
-                "shuffle" : true,
-                "files" : [
-                    {
-                        "file": "music/bg1.ogg",
-                        "volume": 70
-                    },
-                    {
-                        "file": "music/bg2.ogg",
-                        "volume": 70
-                    },
-                    {
-                        "file": "music/bg3.ogg",
-                        "volume": 70
-                    },
-                    {
-                        "file": "music/bg4.ogg",
-                        "volume": 75
-                    },
-                    {
-                        "file": "music/bg5.ogg",
-                        "volume": 75
-                    },
-                    {
-                        "file": "music/bg6.ogg",
-                        "volume": 75
-                    },
-                    {
-                        "file": "music/bg7.ogg",
-                        "volume": 75
-                    },
-                    {
-                        "file": "music/bg8.ogg",
-                        "volume": 70
-                    },
-                    {
-                        "file": "music/bg9.ogg",
-                        "volume": 70
-                    },
-		    		{
-                        "file": "music/bg10.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg11.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg12.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg13.ogg",
-                        "volume": 70
-                    },
-		    		{
-                        "file": "music/bg14.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg15.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg16.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg17.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg18.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg19.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg20.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg21.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg22.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg23.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg24.ogg",
-                        "volume": 75
-                    },
-                    {
-                        "file": "music/bg25.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg26.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg27.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg28.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg29.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg30.ogg",
-                        "volume": 75
-                    },
-		    		{
-                        "file": "music/bg31.ogg",
-                        "volume": 75
-                    },
-                    {
-                        "file": "music/bg32.ogg",
-                        "volume": 75
-                    },
-                    {
-                        "file": "music/bg33.ogg",
-                        "volume": 75
-                    }
-                ]
-            }
-        ]
-    }
+        {
+            "id" : "title",
+            "shuffle" : true,
+            "files" : [
+                {
+                    "file": "music/i_did_it_for_you.ogg",
+                    "volume": 60
+                },
+				{
+                    "file": "music/i_pray_for_it.ogg",
+                    "volume": 30
+                },
+                {
+                    "file": "music/bathwater_submerged_mix.ogg",
+                    "volume": 40
+                },
+                {
+                    "file": "music/blurred_photo_of_a_woman.ogg",
+                    "volume": 30
+                },
+				{
+                    "file": "music/its_above_me_now.ogg",
+                    "volume": 30
+                },
+				{
+                    "file": "music/uvb_76.ogg",
+                    "volume": 30
+                },
+                {
+                    "file": "music/raindetect.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/toxin.ogg",
+                    "volume": 50
+                },
+				{
+                    "file": "music/never_touched_her.ogg",
+                    "volume": 30
+                },
+                {
+                    "file": "music/HR2977.ogg",
+                    "volume": 50
+                },
+				{
+                    "file": "music/nobody_can_hear_you.ogg",
+                    "volume": 60
+                },
+                {
+                    "file": "music/they_wont_notice.ogg",
+                    "volume": 70
+                },
+				{
+                    "file": "music/stationary.ogg",
+                    "volume": 40
+                },
+                {
+                    "file": "music/honeytea.ogg",
+                    "volume": 30
+                },
+                {
+                    "file": "music/a_common_atrocity.ogg",
+                    "volume": 60
+                },
+				{
+                    "file": "music/im_in_a_blanket.ogg",
+                    "volume": 30
+                }
+            ]
+        }
+    ]
+}
 ]
