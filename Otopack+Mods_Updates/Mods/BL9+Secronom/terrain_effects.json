@@ -38,6 +38,78 @@
 	{
         "type": "sound_effect",
         "id" : "smash_fail",
+        "variant" : "t_BL9_floor_olight",
+        "volume" : 30,
+        "files" : [
+            "terrain/glass/hit_glass_1.ogg",
+			"terrain/glass/hit_glass_2.ogg",
+			"terrain/glass/hit_glass_3.ogg",
+			"terrain/glass/hit_glass_4.ogg",
+			"terrain/glass/hit_glass_5.ogg",
+			"terrain/glass/hit_glass_6.ogg",
+			"terrain/glass/hit_glass_7.ogg",
+			"terrain/glass/hit_glass_8.ogg",
+			"terrain/glass/hit_glass_9.ogg",
+			"terrain/glass/hit_glass_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_BL9_floor_olight",
+        "volume" : 30,
+        "files" : [
+            "terrain/glass/smash_glass_1.ogg",
+			"terrain/glass/smash_glass_2.ogg",
+			"terrain/glass/smash_glass_3.ogg",
+			"terrain/glass/smash_glass_4.ogg",
+			"terrain/glass/smash_glass_5.ogg",
+			"terrain/glass/smash_glass_6.ogg",
+			"terrain/glass/smash_glass_7.ogg",
+			"terrain/glass/smash_glass_8.ogg",
+			"terrain/glass/smash_glass_9.ogg",
+			"terrain/glass/smash_glass_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_BL9_secret_console",
+        "volume" : 30,
+        "files" : [
+            "terrain/plastic/hit_plastic_1.ogg",
+			"terrain/plastic/hit_plastic_2.ogg",
+			"terrain/plastic/hit_plastic_3.ogg",
+			"terrain/plastic/hit_plastic_4.ogg",
+			"terrain/plastic/hit_plastic_5.ogg",
+			"terrain/plastic/hit_plastic_6.ogg",
+			"terrain/plastic/hit_plastic_7.ogg",
+			"terrain/plastic/hit_plastic_8.ogg",
+			"terrain/plastic/hit_plastic_9.ogg",
+			"terrain/plastic/hit_plastic_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_BL9_secret_console",
+        "volume" : 30,
+        "files" : [
+            "terrain/console/smash_monitor_1.ogg",
+			"terrain/console/smash_monitor_2.ogg",
+			"terrain/console/smash_monitor_3.ogg",
+			"terrain/console/smash_monitor_4.ogg",
+			"terrain/console/smash_monitor_5.ogg",
+			"terrain/console/smash_monitor_6.ogg",
+			"terrain/console/smash_monitor_7.ogg",
+			"terrain/console/smash_monitor_8.ogg",
+			"terrain/console/smash_monitor_9.ogg",
+			"terrain/console/smash_monitor_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
         "variant" : "t_uniqmazing_fl_red",
         "volume" : 30,
         "files" : [
