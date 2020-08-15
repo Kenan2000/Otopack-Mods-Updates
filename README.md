@@ -1,19 +1,15 @@
 # Otopack-Mods-Updates
-The Otopack soundpack for Cataclysm - Dark Days Ahead that I will try to maintain from now on and make some new small updates to it like including sounds for items from mods and etc
+The Updated version of Otopack soundpack for Cataclysm - Dark Days Ahead that I will try to maintain from now on and make some new small updates to it like including sounds for items from mods and etc
 
 ## Prerequisites 
-This soundpack can be installed easily via Cataclysm - Dark Days Ahead launcher (**owner and creator of it is remyroy - https://github.com/remyroy, all rights belong to remyroy** , the link to his launcher is **here - https://github.com/remyroy/CDDA-Game-Launcher/releases**
+None
 
 ## Installation
-**1)** Launch CDDA **launcher.exe** file in CDDA launcher folder;
+**1)** Press the green `code` button, you'll get a popup with a `download ZIP` button, press it;
 
-**2)** On the top left corner of the launcher start menu press **Main**, install any version of the game that you want;
+**2)** Put the entire folder inside of `cdda/data/sound/` directory;
 
-**3)** Now that the game is installed, on the top left corner of the launcher start menu press **Soundpacks**
-
-**4)** Install Otopack Soundpack from the repository by clicking on it and pressing **Install this soundpack**;
-
-**5)** Make sure that the file is correctly installed in your CDDA Game Launcher/cdda/data/sound/ folder
+**3)** Launch the game and enable the soundpack in the `settings` of the game;
 
 ## Updating the soundpack
-Simply download the files from my repository, remove the Otopack Soundpack folder from CDDA Game Launcher/cdda/data/sound/ folder and instead put my uploaded and updated file, enjoy the soundpack :)
+Simply download the files from my repository, remove the Soundpack folder from `cdda/data/sound/` directory and instead put my uploaded and updated file, enjoy the soundpack :)
