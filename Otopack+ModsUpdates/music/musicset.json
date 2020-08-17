@@ -8,6 +8,70 @@
             "shuffle" : true,
             "files" : [
                 {
+                    "file": "music/Blooming_Romance.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Fairytale.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Goodbye.ogg",
+                    "volume": 50
+                },
+                {
+                    "file": "music/Homesickness.ogg",
+                    "volume": 70
+                },
+				{
+                    "file": "music/Hope.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Life.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Lost_In_Time.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Memories.ogg",
+                    "volume": 50
+                },
+				{
+                    "file": "music/Night_Song.ogg",
+                    "volume": 50
+                },
+                {
+                    "file": "music/November.ogg",
+                    "volume": 70
+                },
+				{
+                    "file": "music/Save_Me.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/See_You_Again.ogg",
+                    "volume": 70
+                },
+				{
+                    "file": "music/Solitude.ogg",
+                    "volume": 50
+                },
+                {
+                    "file": "music/Solitude.ogg",
+                    "volume": 50
+                },
+                {
+                    "file": "music/Walk_In_The_Rain.ogg",
+                    "volume": 70
+                },
+				{
+                    "file": "music/Willing_To_Love.ogg",
+                    "volume": 50
+                },
+				{
                     "file": "music/i_did_it_for_you.ogg",
                     "volume": 60
                 },
