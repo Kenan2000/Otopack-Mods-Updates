@@ -152,7 +152,7 @@
 			"guns/reload/revolver/revolver_4.ogg",
 			"guns/reload/revolver/revolver_5.ogg"
         ]
-    },c
+    },
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
