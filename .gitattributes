@@ -1,3 +1,4 @@
+*.ogg filter=lfs diff=lfs merge=lfs -text
 *.oggwwwee !text !filter !merge !diff
 .ogg !text !filter !merge !diff
 * !text !filter !merge !diff
