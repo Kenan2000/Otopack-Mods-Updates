@@ -1,127 +1,9 @@
 [
-	
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 100,
-        "variant" : "punt_gun",
-        "files" : [
-            "guns/00shot/00shot1.ogg",
-			"guns/00shot/00shot2.ogg",
-			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg",
-			"guns/00shot/00shot5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 60,
-        "variant" : "punt_gun",
-        "files" : [
-            "guns/00shot/00shot1.ogg",
-			"guns/00shot/00shot2.ogg",
-			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg",
-			"guns/00shot/00shot5.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 90,
-        "variant" : "punt_gun",
-        "files" : [
-            "guns/reload/shotgun/pumpreload1.ogg",
-			"guns/reload/shotgun/pumpreload2.ogg",
-			"guns/reload/shotgun/pumpreload3.ogg",
-			"guns/reload/shotgun/pumpreload4.ogg",
-			"guns/reload/shotgun/pumpreload5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 100,
-        "variant" : "punt_gun_homemade",
-        "files" : [
-            "guns/00shot/00shot1.ogg",
-			"guns/00shot/00shot2.ogg",
-			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg",
-			"guns/00shot/00shot5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 60,
-        "variant" : "punt_gun_homemade",
-        "files" : [
-            "guns/00shot/00shot1.ogg",
-			"guns/00shot/00shot2.ogg",
-			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg",
-			"guns/00shot/00shot5.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 90,
-        "variant" : "punt_gun_homemade",
-        "files" : [
-            "guns/reload/shotgun/pumpreload1.ogg",
-			"guns/reload/shotgun/pumpreload2.ogg",
-			"guns/reload/shotgun/pumpreload3.ogg",
-			"guns/reload/shotgun/pumpreload4.ogg",
-			"guns/reload/shotgun/pumpreload5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 100,
-        "variant" : "shotgun_pump_12",
-        "files" : [
-            "guns/00shot/00shot1.ogg",
-			"guns/00shot/00shot2.ogg",
-			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg",
-			"guns/00shot/00shot5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 60,
-        "variant" : "shotgun_pump_12",
-        "files" : [
-            "guns/00shot/00shot1.ogg",
-			"guns/00shot/00shot2.ogg",
-			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg",
-			"guns/00shot/00shot5.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 90,
-        "variant" : "shotgun_pump_12",
-        "files" : [
-            "guns/reload/shotgun/pumpreload1.ogg",
-			"guns/reload/shotgun/pumpreload2.ogg",
-			"guns/reload/shotgun/pumpreload3.ogg",
-			"guns/reload/shotgun/pumpreload4.ogg",
-			"guns/reload/shotgun/pumpreload5.ogg"
-        ]
-    },
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 90,
-        "variant" : "shotgun_pump_20",
+        "variant" : "auto_assault12",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
 			"guns/20x66mm/20x66mm_2.ogg",
@@ -133,7 +15,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 60,
-        "variant" : "shotgun_pump_20",
+        "variant" : "auto_assault12",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
 			"guns/20x66mm/20x66mm_2.ogg",
@@ -145,7 +27,83 @@
         "type": "sound_effect",
         "id" : "reload",
         "volume" : 90,
-        "variant" : "shotgun_pump_20",
+        "variant" : "auto_assault12",
+        "files" : [
+            "guns/reload/bullpup/bullpup_1.ogg",
+			"guns/reload/bullpup/bullpup_2.ogg",
+			"guns/reload/bullpup/bullpup_3.ogg",
+			"guns/reload/bullpup/bullpup_4.ogg",
+			"guns/reload/bullpup/bullpup_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "usas12",
+        "files" : [
+            "guns/20x66mm/20x66mm_1.ogg",
+			"guns/20x66mm/20x66mm_2.ogg",
+			"guns/20x66mm/20x66mm_3.ogg",
+			"guns/20x66mm/20x66mm_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "usas12",
+        "files" : [
+            "guns/20x66mm/20x66mm_1.ogg",
+			"guns/20x66mm/20x66mm_2.ogg",
+			"guns/20x66mm/20x66mm_3.ogg",
+			"guns/20x66mm/20x66mm_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "usas12",
+        "files" : [
+            "guns/reload/bullpup/bullpup_1.ogg",
+			"guns/reload/bullpup/bullpup_2.ogg",
+			"guns/reload/bullpup/bullpup_3.ogg",
+			"guns/reload/bullpup/bullpup_4.ogg",
+			"guns/reload/bullpup/bullpup_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "spas15",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "spas15",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "spas15",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
 			"guns/reload/shotgun/pumpreload2.ogg",
@@ -158,7 +116,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 100,
-        "variant" : "widowmaker",
+        "variant" : "mossberg_590a1",
         "files" : [
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
@@ -171,7 +129,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 60,
-        "variant" : "widowmaker",
+        "variant" : "mossberg_590a1",
         "files" : [
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
@@ -184,7 +142,124 @@
         "type": "sound_effect",
         "id" : "reload",
         "volume" : 90,
-        "variant" : "widowmaker",
+        "variant" : "mossberg_590a1",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "ithacam37",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "ithacam37",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "ithacam37",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "w1897",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "w1897",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "w1897",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "w1887",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "w1887",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "w1887",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
 			"guns/reload/shotgun/pumpreload2.ogg",
@@ -197,7 +272,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 90,
-        "variant" : "20ga_singleshot",
+        "variant" : "striker",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
 			"guns/20x66mm/20x66mm_2.ogg",
@@ -209,7 +284,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 60,
-        "variant" : "20ga_singleshot",
+        "variant" : "striker",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
 			"guns/20x66mm/20x66mm_2.ogg",
@@ -221,7 +296,46 @@
         "type": "sound_effect",
         "id" : "reload",
         "volume" : 90,
-        "variant" : "20ga_singleshot",
+        "variant" : "striker",
+        "files" : [
+            "guns/reload/bullpup/bullpup_1.ogg",
+			"guns/reload/bullpup/bullpup_2.ogg",
+			"guns/reload/bullpup/bullpup_3.ogg",
+			"guns/reload/bullpup/bullpup_4.ogg",
+			"guns/reload/bullpup/bullpup_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "auto5",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "auto5",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "auto5",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
 			"guns/reload/shotgun/pumpreload2.ogg",
@@ -234,7 +348,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 90,
-        "variant" : "caravan_shotgun",
+        "variant" : "spas12",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
 			"guns/20x66mm/20x66mm_2.ogg",
@@ -246,7 +360,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 60,
-        "variant" : "caravan_shotgun",
+        "variant" : "spas12",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
 			"guns/20x66mm/20x66mm_2.ogg",
@@ -258,87 +372,13 @@
         "type": "sound_effect",
         "id" : "reload",
         "volume" : 90,
-        "variant" : "caravan_shotgun",
+        "variant" : "spas12",
         "files" : [
-            "guns/reload/shotgun/pumpreload1.ogg",
-			"guns/reload/shotgun/pumpreload2.ogg",
-			"guns/reload/shotgun/pumpreload3.ogg",
-			"guns/reload/shotgun/pumpreload4.ogg",
-			"guns/reload/shotgun/pumpreload5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 90,
-        "variant" : "caravan_shotgun_sturdy",
-        "files" : [
-            "guns/20x66mm/20x66mm_1.ogg",
-			"guns/20x66mm/20x66mm_2.ogg",
-			"guns/20x66mm/20x66mm_3.ogg",
-			"guns/20x66mm/20x66mm_4.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 60,
-        "variant" : "caravan_shotgun_sturdy",
-        "files" : [
-            "guns/20x66mm/20x66mm_1.ogg",
-			"guns/20x66mm/20x66mm_2.ogg",
-			"guns/20x66mm/20x66mm_3.ogg",
-			"guns/20x66mm/20x66mm_4.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 90,
-        "variant" : "caravan_shotgun_sturdy",
-        "files" : [
-            "guns/reload/shotgun/pumpreload1.ogg",
-			"guns/reload/shotgun/pumpreload2.ogg",
-			"guns/reload/shotgun/pumpreload3.ogg",
-			"guns/reload/shotgun/pumpreload4.ogg",
-			"guns/reload/shotgun/pumpreload5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 90,
-        "variant" : "citykiller",
-        "files" : [
-            "guns/20x66mm/20x66mm_1.ogg",
-			"guns/20x66mm/20x66mm_2.ogg",
-			"guns/20x66mm/20x66mm_3.ogg",
-			"guns/20x66mm/20x66mm_4.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 60,
-        "variant" : "citykiller",
-        "files" : [
-            "guns/20x66mm/20x66mm_1.ogg",
-			"guns/20x66mm/20x66mm_2.ogg",
-			"guns/20x66mm/20x66mm_3.ogg",
-			"guns/20x66mm/20x66mm_4.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 90,
-        "variant" : "citykiller",
-        "files" : [
-            "guns/reload/shotgun/pumpreload1.ogg",
-			"guns/reload/shotgun/pumpreload2.ogg",
-			"guns/reload/shotgun/pumpreload3.ogg",
-			"guns/reload/shotgun/pumpreload4.ogg",
-			"guns/reload/shotgun/pumpreload5.ogg"
+            "guns/reload/bullpup/bullpup_1.ogg",
+			"guns/reload/bullpup/bullpup_2.ogg",
+			"guns/reload/bullpup/bullpup_3.ogg",
+			"guns/reload/bullpup/bullpup_4.ogg",
+			"guns/reload/bullpup/bullpup_5.ogg"
         ]
     }
 ]
