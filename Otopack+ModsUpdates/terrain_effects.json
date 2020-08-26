@@ -19886,5 +19886,293 @@
 			"terrain/wood/smash_wooden_9.ogg",
 			"terrain/wood/smash_wooden_10.ogg"
         ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_wall_bulkhead",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/hit_metal_1.ogg",
+			"terrain/metal/hit_metal_2.ogg",
+			"terrain/metal/hit_metal_3.ogg",
+			"terrain/metal/hit_metal_4.ogg",
+			"terrain/metal/hit_metal_5.ogg",
+			"terrain/metal/hit_metal_6.ogg",
+			"terrain/metal/hit_metal_7.ogg",
+			"terrain/metal/hit_metal_8.ogg",
+			"terrain/metal/hit_metal_9.ogg",
+			"terrain/metal/hit_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_wall_bulkhead",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/smash_metal_1.ogg",
+			"terrain/metal/smash_metal_2.ogg",
+			"terrain/metal/smash_metal_3.ogg",
+			"terrain/metal/smash_metal_4.ogg",
+			"terrain/metal/smash_metal_5.ogg",
+			"terrain/metal/smash_metal_6.ogg",
+			"terrain/metal/smash_metal_7.ogg",
+			"terrain/metal/smash_metal_8.ogg",
+			"terrain/metal/smash_metal_9.ogg",
+			"terrain/metal/smash_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "open_door",
+        "variant" : "t_door_metal_bulkhead_c",
+        "volume" : 30,
+        "files" : [
+            "env/open_close/door/metal/open_1.ogg",
+			"env/open_close/door/metal/open_2.ogg",
+			"env/open_close/door/metal/open_3.ogg",
+			"env/open_close/door/metal/open_4.ogg",
+			"env/open_close/door/metal/open_5.ogg",
+			"env/open_close/door/metal/open_6.ogg",
+			"env/open_close/door/metal/open_7.ogg",
+			"env/open_close/door/metal/open_8.ogg",
+			"env/open_close/door/metal/open_9.ogg",
+			"env/open_close/door/metal/open_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "close_door",
+        "variant" : "t_door_metal_bulkhead_o",
+        "volume" : 30,
+        "files" : [
+            "env/open_close/door/metal/close_1.ogg",
+			"env/open_close/door/metal/close_2.ogg",
+			"env/open_close/door/metal/close_3.ogg",
+			"env/open_close/door/metal/close_4.ogg",
+			"env/open_close/door/metal/close_5.ogg",
+			"env/open_close/door/metal/close_6.ogg",
+			"env/open_close/door/metal/close_7.ogg",
+			"env/open_close/door/metal/close_8.ogg",
+			"env/open_close/door/metal/close_9.ogg",
+			"env/open_close/door/metal/close_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_door_metal_bulkhead_c",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/hit_metal_1.ogg",
+			"terrain/metal/hit_metal_2.ogg",
+			"terrain/metal/hit_metal_3.ogg",
+			"terrain/metal/hit_metal_4.ogg",
+			"terrain/metal/hit_metal_5.ogg",
+			"terrain/metal/hit_metal_6.ogg",
+			"terrain/metal/hit_metal_7.ogg",
+			"terrain/metal/hit_metal_8.ogg",
+			"terrain/metal/hit_metal_9.ogg",
+			"terrain/metal/hit_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_door_metal_bulkhead_c",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/smash_metal_1.ogg",
+			"terrain/metal/smash_metal_2.ogg",
+			"terrain/metal/smash_metal_3.ogg",
+			"terrain/metal/smash_metal_4.ogg",
+			"terrain/metal/smash_metal_5.ogg",
+			"terrain/metal/smash_metal_6.ogg",
+			"terrain/metal/smash_metal_7.ogg",
+			"terrain/metal/smash_metal_8.ogg",
+			"terrain/metal/smash_metal_9.ogg",
+			"terrain/metal/smash_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_door_metal_bulkhead_o",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/hit_metal_1.ogg",
+			"terrain/metal/hit_metal_2.ogg",
+			"terrain/metal/hit_metal_3.ogg",
+			"terrain/metal/hit_metal_4.ogg",
+			"terrain/metal/hit_metal_5.ogg",
+			"terrain/metal/hit_metal_6.ogg",
+			"terrain/metal/hit_metal_7.ogg",
+			"terrain/metal/hit_metal_8.ogg",
+			"terrain/metal/hit_metal_9.ogg",
+			"terrain/metal/hit_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_door_metal_bulkhead_o",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/smash_metal_1.ogg",
+			"terrain/metal/smash_metal_2.ogg",
+			"terrain/metal/smash_metal_3.ogg",
+			"terrain/metal/smash_metal_4.ogg",
+			"terrain/metal/smash_metal_5.ogg",
+			"terrain/metal/smash_metal_6.ogg",
+			"terrain/metal/smash_metal_7.ogg",
+			"terrain/metal/smash_metal_8.ogg",
+			"terrain/metal/smash_metal_9.ogg",
+			"terrain/metal/smash_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_bulkhead_roof",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/hit_metal_1.ogg",
+			"terrain/metal/hit_metal_2.ogg",
+			"terrain/metal/hit_metal_3.ogg",
+			"terrain/metal/hit_metal_4.ogg",
+			"terrain/metal/hit_metal_5.ogg",
+			"terrain/metal/hit_metal_6.ogg",
+			"terrain/metal/hit_metal_7.ogg",
+			"terrain/metal/hit_metal_8.ogg",
+			"terrain/metal/hit_metal_9.ogg",
+			"terrain/metal/hit_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_bulkhead_roof",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/smash_metal_1.ogg",
+			"terrain/metal/smash_metal_2.ogg",
+			"terrain/metal/smash_metal_3.ogg",
+			"terrain/metal/smash_metal_4.ogg",
+			"terrain/metal/smash_metal_5.ogg",
+			"terrain/metal/smash_metal_6.ogg",
+			"terrain/metal/smash_metal_7.ogg",
+			"terrain/metal/smash_metal_8.ogg",
+			"terrain/metal/smash_metal_9.ogg",
+			"terrain/metal/smash_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_bulkhead_floor",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/hit_metal_1.ogg",
+			"terrain/metal/hit_metal_2.ogg",
+			"terrain/metal/hit_metal_3.ogg",
+			"terrain/metal/hit_metal_4.ogg",
+			"terrain/metal/hit_metal_5.ogg",
+			"terrain/metal/hit_metal_6.ogg",
+			"terrain/metal/hit_metal_7.ogg",
+			"terrain/metal/hit_metal_8.ogg",
+			"terrain/metal/hit_metal_9.ogg",
+			"terrain/metal/hit_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_bulkhead_floor",
+        "volume" : 30,
+        "files" : [
+            "terrain/metal/smash_metal_1.ogg",
+			"terrain/metal/smash_metal_2.ogg",
+			"terrain/metal/smash_metal_3.ogg",
+			"terrain/metal/smash_metal_4.ogg",
+			"terrain/metal/smash_metal_5.ogg",
+			"terrain/metal/smash_metal_6.ogg",
+			"terrain/metal/smash_metal_7.ogg",
+			"terrain/metal/smash_metal_8.ogg",
+			"terrain/metal/smash_metal_9.ogg",
+			"terrain/metal/smash_metal_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_lake_bed_concrete",
+        "volume" : 30,
+        "files" : [
+			"terrain/rock/hit_rock_1.ogg",
+			"terrain/rock/hit_rock_2.ogg",
+			"terrain/rock/hit_rock_3.ogg",
+			"terrain/rock/hit_rock_4.ogg",
+			"terrain/rock/hit_rock_5.ogg",
+			"terrain/rock/hit_rock_6.ogg",
+			"terrain/rock/hit_rock_7.ogg",
+			"terrain/rock/hit_rock_8.ogg",
+			"terrain/rock/hit_rock_9.ogg",
+			"terrain/rock/hit_rock_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_lake_bed_concrete",
+        "volume" : 30,
+        "files" : [
+            "terrain/rock/smash_rock_1.ogg",
+			"terrain/rock/smash_rock_2.ogg",
+			"terrain/rock/smash_rock_3.ogg",
+			"terrain/rock/smash_rock_4.ogg",
+			"terrain/rock/smash_rock_5.ogg",
+			"terrain/rock/smash_rock_6.ogg",
+			"terrain/rock/smash_rock_7.ogg",
+			"terrain/rock/smash_rock_8.ogg",
+			"terrain/rock/smash_rock_9.ogg",
+			"terrain/rock/smash_rock_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_lake_bed_concrete_yellow",
+        "volume" : 30,
+        "files" : [
+			"terrain/rock/hit_rock_1.ogg",
+			"terrain/rock/hit_rock_2.ogg",
+			"terrain/rock/hit_rock_3.ogg",
+			"terrain/rock/hit_rock_4.ogg",
+			"terrain/rock/hit_rock_5.ogg",
+			"terrain/rock/hit_rock_6.ogg",
+			"terrain/rock/hit_rock_7.ogg",
+			"terrain/rock/hit_rock_8.ogg",
+			"terrain/rock/hit_rock_9.ogg",
+			"terrain/rock/hit_rock_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_lake_bed_concrete_yellow",
+        "volume" : 30,
+        "files" : [
+            "terrain/rock/smash_rock_1.ogg",
+			"terrain/rock/smash_rock_2.ogg",
+			"terrain/rock/smash_rock_3.ogg",
+			"terrain/rock/smash_rock_4.ogg",
+			"terrain/rock/smash_rock_5.ogg",
+			"terrain/rock/smash_rock_6.ogg",
+			"terrain/rock/smash_rock_7.ogg",
+			"terrain/rock/smash_rock_8.ogg",
+			"terrain/rock/smash_rock_9.ogg",
+			"terrain/rock/smash_rock_10.ogg"
+        ]
     }
 ]
