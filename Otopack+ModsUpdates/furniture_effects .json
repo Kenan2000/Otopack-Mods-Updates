@@ -7270,6 +7270,32 @@
     },
 	{
         "type": "sound_effect",
+        "id" : "open_door",
+        "variant" : "f_curtain",
+        "volume" : 30,
+        "files" : [
+            "env/open_close/window/curtain/open_1.ogg",
+			"env/open_close/window/curtain/open_2.ogg",
+			"env/open_close/window/curtain/open_3.ogg",
+			"env/open_close/window/curtain/open_4.ogg",
+			"env/open_close/window/curtain/open_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "close_door",
+        "variant" : "f_curtain_open",
+        "volume" : 30,
+        "files" : [
+            "env/open_close/window/curtain/close_1.ogg",
+			"env/open_close/window/curtain/close_2.ogg",
+			"env/open_close/window/curtain/close_3.ogg",
+			"env/open_close/window/curtain/close_4.ogg",
+			"env/open_close/window/curtain/close_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_curtain",
         "volume" : 50,

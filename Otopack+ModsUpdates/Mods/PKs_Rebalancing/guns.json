@@ -91,7 +91,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
-        "variant" : "hell_plasma",
+        "variant" : "hell_plasma1",
         "files" : [
             "Mods/PKs_Rebalancing/guns/hell_plasma.ogg"
         ]
@@ -100,7 +100,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 20,
-        "variant" : "hell_plasma",
+        "variant" : "hell_plasma1",
         "files" : [
             "Mods/PKs_Rebalancing/guns/hell_plasma.ogg"
         ]
@@ -109,7 +109,43 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
-        "variant" : "hell_ball",
+        "variant" : "hell_plasma2",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/hell_plasma.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "hell_plasma2",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/hell_plasma.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "hell_plasma3",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/hell_plasma.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "hell_plasma3",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/hell_plasma.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "hell_ball1",
         "files" : [
             "Mods/PKs_Rebalancing/guns/hell_ball_1.ogg",
 			"Mods/PKs_Rebalancing/guns/hell_ball_2.ogg",
@@ -120,11 +156,103 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 20,
-        "variant" : "hell_ball",
+        "variant" : "hell_ball1",
         "files" : [
             "Mods/PKs_Rebalancing/guns/hell_ball_1.ogg",
 			"Mods/PKs_Rebalancing/guns/hell_ball_2.ogg",
 			"Mods/PKs_Rebalancing/guns/hell_ball_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "hell_ball2",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/hell_ball_1.ogg",
+			"Mods/PKs_Rebalancing/guns/hell_ball_2.ogg",
+			"Mods/PKs_Rebalancing/guns/hell_ball_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "hell_ball2",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/hell_ball_1.ogg",
+			"Mods/PKs_Rebalancing/guns/hell_ball_2.ogg",
+			"Mods/PKs_Rebalancing/guns/hell_ball_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "hell_bomblet_launcher_rotary1",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_1.ogg",
+			"Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_2.ogg",
+			"Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "hell_bomblet_launcher_rotary1",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_1.ogg",
+			"Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_2.ogg",
+			"Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "hell_bomblet_launcher_rotary2",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_1.ogg",
+			"Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_2.ogg",
+			"Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "hell_bomblet_launcher_rotary2",
+        "files" : [
+            "Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_1.ogg",
+			"Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_2.ogg",
+			"Mods/PKs_Rebalancing/guns/bomblet_launcher_rotary_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "hell_bomblet_launcher_single",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg",
+			"guns/40mm/40mm_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "hell_bomblet_launcher_single",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg",
+			"guns/40mm/40mm_5.ogg"
         ]
     },
 	{
