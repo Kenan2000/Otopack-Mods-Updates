@@ -159,42 +159,6 @@
     },
     {
         "type": "sound_effect",
-        "id" : "danger_low",
-        "variant" : "default",
-        "volume" : 70,
-        "files" : [
-            "danger_theme/arena_flache_light.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "danger_medium",
-        "variant" : "default",
-        "volume" : 70,
-        "files" : [
-            "danger_theme/triumphator.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "danger_high",
-        "variant" : "default",
-        "volume" : 30,
-        "files" : [
-            "danger_theme/lesser_harm.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "danger_extreme",
-        "variant" : "default",
-        "volume" : 30,
-        "files" : [
-            "danger_theme/lesser_harm.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
         "id" : "tool",
         "variant" : "geiger_low",
         "volume" : 90,
