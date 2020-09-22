@@ -91,10 +91,6 @@
                     "file": "music/its_above_me_now.ogg",
                     "volume": 30
                 },
-				{
-                    "file": "music/uvb_76.ogg",
-                    "volume": 30
-                },
                 {
                     "file": "music/raindetect.ogg",
                     "volume": 80
@@ -118,10 +114,6 @@
                 {
                     "file": "music/they_wont_notice.ogg",
                     "volume": 70
-                },
-				{
-                    "file": "music/stationary.ogg",
-                    "volume": 40
                 },
                 {
                     "file": "music/honeytea.ogg",
