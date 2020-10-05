@@ -13,3 +13,7 @@ None
 
 ## Updating the soundpack
 Simply download the files from my repository, remove the Soundpack folder from `cdda/data/sound/` directory and instead put my uploaded and updated file, enjoy the soundpack :)
+
+## Link to my CDDA modding server
+
+**https://discord.com/invite/xj9E3Sp**
