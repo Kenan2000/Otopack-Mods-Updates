@@ -161,7 +161,7 @@
 			"guns/3006/3006_4.ogg",
 			"guns/3006/3006_5.ogg"
         ]
-    },c
+    },
 	{
         "type": "sound_effect",
         "id" : "reload",
