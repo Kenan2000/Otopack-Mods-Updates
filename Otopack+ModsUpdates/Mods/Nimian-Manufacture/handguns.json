@@ -266,7 +266,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 20,cc
+        "volume" : 20,
         "variant" : "nm7x30pistol",
         "files" : [
             "guns/45/45_1.ogg",
