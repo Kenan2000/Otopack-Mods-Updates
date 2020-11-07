@@ -17,6 +17,10 @@ Simply download the files from my repository, remove the Soundpack folder from `
 ## Link to the original Otopack creator
 https://discourse.cataclysmdda.org/u/survival_man/summary
 
+## Link to legendary tileset by SomeDeadGuy
+
+**UDP** tileset by **SDG** - https://github.com/SomeDeadGuy/UndeadPeopleTileset
+
 ## Link to my CDDA modding server
 
 **https://discord.com/invite/xj9E3Sp**
