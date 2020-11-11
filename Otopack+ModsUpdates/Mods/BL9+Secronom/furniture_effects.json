@@ -303,6 +303,106 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
+    "variant": "f_secro_flesh_gas_emitter",
+    "volume": 30,
+    "files": [ "terrain/fungal/hit_fungal_1.ogg", "terrain/fungal/hit_fungal_2.ogg", "terrain/fungal/hit_fungal_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_success",
+    "variant": "f_secro_flesh_gas_emitter",
+    "volume": 30,
+    "files": [ "terrain/fungal/smash_fungal_1.ogg", "terrain/fungal/smash_fungal_2.ogg", "terrain/fungal/smash_fungal_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_fail",
+    "variant": "f_secro_flesh_core",
+    "volume": 30,
+    "files": [ "terrain/fungal/hit_fungal_1.ogg", "terrain/fungal/hit_fungal_2.ogg", "terrain/fungal/hit_fungal_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_success",
+    "variant": "f_secro_flesh_core",
+    "volume": 30,
+    "files": [ "terrain/fungal/smash_fungal_1.ogg", "terrain/fungal/smash_fungal_2.ogg", "terrain/fungal/smash_fungal_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_fail",
+    "variant": "f_BL9_long_torch",
+    "volume": 30,
+    "files": [
+      "terrain/wood/hit_wooden_1.ogg",
+      "terrain/wood/hit_wooden_2.ogg",
+      "terrain/wood/hit_wooden_3.ogg",
+      "terrain/wood/hit_wooden_4.ogg",
+      "terrain/wood/hit_wooden_5.ogg",
+      "terrain/wood/hit_wooden_6.ogg",
+      "terrain/wood/hit_wooden_7.ogg",
+      "terrain/wood/hit_wooden_8.ogg",
+      "terrain/wood/hit_wooden_9.ogg",
+      "terrain/wood/hit_wooden_10.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_success",
+    "variant": "f_BL9_long_torch",
+    "volume": 30,
+    "files": [
+      "terrain/wood/smash_wooden_1.ogg",
+      "terrain/wood/smash_wooden_2.ogg",
+      "terrain/wood/smash_wooden_3.ogg",
+      "terrain/wood/smash_wooden_4.ogg",
+      "terrain/wood/smash_wooden_5.ogg",
+      "terrain/wood/smash_wooden_6.ogg",
+      "terrain/wood/smash_wooden_7.ogg",
+      "terrain/wood/smash_wooden_8.ogg",
+      "terrain/wood/smash_wooden_9.ogg",
+      "terrain/wood/smash_wooden_10.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_fail",
+    "variant": "f_BL9_floor_olight",
+    "volume": 30,
+    "files": [
+      "terrain/glass/hit_glass_1.ogg",
+      "terrain/glass/hit_glass_2.ogg",
+      "terrain/glass/hit_glass_3.ogg",
+      "terrain/glass/hit_glass_4.ogg",
+      "terrain/glass/hit_glass_5.ogg",
+      "terrain/glass/hit_glass_6.ogg",
+      "terrain/glass/hit_glass_7.ogg",
+      "terrain/glass/hit_glass_8.ogg",
+      "terrain/glass/hit_glass_9.ogg",
+      "terrain/glass/hit_glass_10.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_success",
+    "variant": "f_BL9_floor_olight",
+    "volume": 30,
+    "files": [
+      "terrain/glass/smash_glass_1.ogg",
+      "terrain/glass/smash_glass_2.ogg",
+      "terrain/glass/smash_glass_3.ogg",
+      "terrain/glass/smash_glass_4.ogg",
+      "terrain/glass/smash_glass_5.ogg",
+      "terrain/glass/smash_glass_6.ogg",
+      "terrain/glass/smash_glass_7.ogg",
+      "terrain/glass/smash_glass_8.ogg",
+      "terrain/glass/smash_glass_9.ogg",
+      "terrain/glass/smash_glass_10.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_fail",
     "variant": "f_BL9_alien_antenna1",
     "volume": 30,
     "files": [
