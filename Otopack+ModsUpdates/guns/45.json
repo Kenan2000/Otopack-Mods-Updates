@@ -763,5 +763,50 @@
 			"guns/reload/pistol_h/pistol_4.ogg",
 			"guns/reload/pistol_h/pistol_5.ogg"
         ]
+    },
+   {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "glock_21",
+        "files" : [
+            "guns/45/45_1.ogg",
+			"guns/45/45_2.ogg",
+			"guns/45/45_3.ogg",
+			"guns/45/45_4.ogg",
+			"guns/45/45_5.ogg",
+			"guns/45/45_6.ogg",
+			"guns/45/45_7.ogg",
+			"guns/45/45_8.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "glock_21",
+        "files" : [
+            "guns/45/45_1.ogg",
+			"guns/45/45_2.ogg",
+			"guns/45/45_3.ogg",
+			"guns/45/45_4.ogg",
+			"guns/45/45_5.ogg",
+			"guns/45/45_6.ogg",
+			"guns/45/45_7.ogg",
+			"guns/45/45_8.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "glock_21",
+        "files" : [
+            "guns/reload/pistol_h/pistol_1.ogg",
+			"guns/reload/pistol_h/pistol_2.ogg",
+			"guns/reload/pistol_h/pistol_3.ogg",
+			"guns/reload/pistol_h/pistol_4.ogg",
+			"guns/reload/pistol_h/pistol_5.ogg"
+        ]
     }
 ]
