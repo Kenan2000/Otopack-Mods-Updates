@@ -439,7 +439,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alien_rack1",
+    "variant": "f_BL9_alien_machinery1",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -457,7 +457,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alien_rack1",
+    "variant": "f_BL9_alien_machinery1",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -547,7 +547,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alien_pump1",
+    "variant": "f_BL9_alien_charger1",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -565,7 +565,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alien_pump1",
+    "variant": "f_BL9_alien_charger1",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -583,7 +583,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alienprinter_large1",
+    "variant": "f_BL9_alien_generator1",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -601,7 +601,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alienprinter_large1",
+    "variant": "f_BL9_alien_generator1",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -763,7 +763,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alien_rack2",
+    "variant": "f_BL9_alien_machinery2",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -781,7 +781,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alien_rack2",
+    "variant": "f_BL9_alien_machinery2",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -871,7 +871,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alien_pump2",
+    "variant": "f_BL9_alien_charger2",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -889,7 +889,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alien_pump2",
+    "variant": "f_BL9_alien_charger2",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -907,7 +907,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alienprinter_large2",
+    "variant": "f_BL9_alien_generator2",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -925,7 +925,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alienprinter_large2",
+    "variant": "f_BL9_alien_generator2",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -1087,7 +1087,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alien_rack3",
+    "variant": "f_BL9_alien_machinery3",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -1105,7 +1105,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alien_rack3",
+    "variant": "f_BL9_alien_machinery3",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -1195,7 +1195,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alien_pump3",
+    "variant": "f_BL9_alien_charger3",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -1213,7 +1213,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alien_pump3",
+    "variant": "f_BL9_alien_charger3",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -1231,7 +1231,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alienprinter_large3",
+    "variant": "f_BL9_alien_generator3",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -1249,7 +1249,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alienprinter_large3",
+    "variant": "f_BL9_alien_generator3",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -1411,7 +1411,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alien_rack4",
+    "variant": "f_BL9_alien_machinery4",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -1429,7 +1429,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alien_rack4",
+    "variant": "f_BL9_alien_machinery4",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -1519,7 +1519,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alien_pump4",
+    "variant": "f_BL9_alien_charger4",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -1537,7 +1537,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alien_pump4",
+    "variant": "f_BL9_alien_charger4",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
@@ -1555,7 +1555,7 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_BL9_alienprinter_large4",
+    "variant": "f_BL9_alien_generator4",
     "volume": 30,
     "files": [
       "terrain/metal/hit_metal_1.ogg",
@@ -1573,7 +1573,7 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "f_BL9_alienprinter_large4",
+    "variant": "f_BL9_alien_generator4",
     "volume": 30,
     "files": [
       "terrain/metal/smash_metal_1.ogg",
