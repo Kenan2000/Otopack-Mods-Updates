@@ -134,17 +134,24 @@
   },
   {
     "type": "sound_effect",
+    "id": "engine_start",
+    "variant": "yoke_harness",
+    "volume": 90,
+    "files": [ "vehicle/engine/animal_galloping_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
     "id": "engine_working_external",
     "variant": "yoke_harness",
-    "volume": 65,
-    "files": [ "monster/animal_galloping_1.ogg" ]
+    "volume": 90,
+    "files": [ "vehicle/engine/animal_galloping_1.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "engine_working_internal",
     "variant": "yoke_harness",
-    "volume": 65,
-    "files": [ "monster/animal_galloping_1.ogg" ]
+    "volume": 90,
+    "files": [ "vehicle/engine/animal_galloping_1.ogg" ]
   },
   {
     "type": "sound_effect",
