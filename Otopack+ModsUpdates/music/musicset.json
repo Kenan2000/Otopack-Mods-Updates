@@ -126,6 +126,134 @@
 				{
                     "file": "music/im_in_a_blanket.ogg",
                     "volume": 30
+                },
+				{
+                    "file": "music/angelspit_fearmonger.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/AV_Lightinthedark.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/carpenterbrut_bloodmachines.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/carpenterbrut_turbokiller",
+                    "volume": 20
+                },
+                {
+                    "file": "music/chewbubblegumkickass.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/crthead_ttp.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/dd_instrumentsofretribution.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/deepred.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/dwtd_andromeda.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/dwtd_eyesofmadness.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/dwtd_stitch.ogg",
+                    "volume": 25
+                },
+                {
+                    "file": "music/encounter_behemothiv.ogg",
+                    "volume": 25
+                },
+				{
+                    "file": "music/ff_midnighthaze.ogg",
+                    "volume": 20
+                },
+				{
+                    "file": "music/gw_coldwar_ncrlr.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/hangemall.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/kp_nightritual-redherring.ogg",
+                    "volume": 20
+                },
+				{
+                    "file": "music/kp_resolution.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/LAZERPUNK_POWER.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/NN_exhdivnity.ogg",
+                    "volume": 20
+                },
+				{
+                    "file": "music/raydar_fullmoon.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/raydar_satan.ogg",
+                    "volume": 20
+                },
+				{
+                    "file": "music/raydar_thegathering.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/rollermobster.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/tn_rasengan.ogg",
+                    "volume": 20
+                },
+                {
+                    "file": "music/tonebox_implosion.ogg",
+                    "volume": 20
+                },
+				{
+                    "file": "music/toxxify_eternalsacrifice.ogg",
+                    "volume": 20
+                },
+				{
+                    "file": "music/azathoth_cryochamber1.ogg",
+                    "volume": 25
+                },
+				{
+                    "file": "music/azathoth_cryochamber2.ogg",
+                    "volume": 25
+                },
+				{
+                    "file": "music/azathoth_cryochamber3.ogg",
+                    "volume": 25
+                },
+				{
+                    "file": "music/azathoth_cryochamber4.ogg",
+                    "volume": 25
+                },
+				{
+                    "file": "music/azathoth_cryochamber5.ogg",
+                    "volume": 25
+                },
+				{
+                    "file": "music/azathoth_cryochamber6.ogg",
+                    "volume": 25
                 }
             ]
         }
