@@ -233,135 +233,27 @@
                 },
 				{
                     "file": "music/azathoth_cryochamber1.ogg",
-                    "volume": 75
+                    "volume": 25
                 },
 				{
                     "file": "music/azathoth_cryochamber2.ogg",
-                    "volume": 75
+                    "volume": 25
                 },
 				{
                     "file": "music/azathoth_cryochamber3.ogg",
-                    "volume": 75
+                    "volume": 25
                 },
 				{
                     "file": "music/azathoth_cryochamber4.ogg",
-                    "volume": 75
+                    "volume": 25
                 },
 				{
                     "file": "music/azathoth_cryochamber5.ogg",
-                    "volume": 75
+                    "volume": 25
                 },
 				{
                     "file": "music/azathoth_cryochamber6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber7.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber7.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo7.ogg",
-                    "volume": 75
+                    "volume": 25
                 }
             ]
         }
