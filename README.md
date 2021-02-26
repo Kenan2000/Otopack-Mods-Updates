@@ -1,6 +1,9 @@
 # Otopack-Mods-Updates
 The Updated version of **Survival_Man's** (**the first and main creator of Otopack soundpack**)  version of Otopack soundpack for Cataclysm - Dark Days Ahead that I will try to maintain from now on and make some new small updates to it like including sounds for items from mods and etc
 
+## Music 
+All the music has been kindly provided by awesome and very supportive and helpful people and contributors: The Go-Goat/Cuddlebaby and Kaldeqca
+
 ## Prerequisites 
 None
 
