@@ -5,10 +5,10 @@
         "volume" : 50,
         "variant" : "30mm_autocannon",
         "files" : [
-           "mods/Tanks/30mm_1.ogg",
-		   "mods/Tanks/30mm_2.ogg",
-		   "mods/Tanks/30mm_3.ogg",
-		   "mods/Tanks/30mm_4.ogg"
+           "mods/TanksRevived/30mm_1.ogg",
+		   "mods/TanksRevived/30mm_2.ogg",
+		   "mods/TanksRevived/30mm_3.ogg",
+		   "mods/TanksRevived/30mm_4.ogg"
         ]
     },
 	{
@@ -17,10 +17,10 @@
         "volume" : 20,
         "variant" : "30mm_autocannon",
         "files" : [
-           "mods/Tanks/30mm_1.ogg",
-		   "mods/Tanks/30mm_2.ogg",
-		   "mods/Tanks/30mm_3.ogg",
-		   "mods/Tanks/30mm_4.ogg"
+           "mods/TanksRevived/30mm_1.ogg",
+		   "mods/TanksRevived/30mm_2.ogg",
+		   "mods/TanksRevived/30mm_3.ogg",
+		   "mods/TanksRevived/30mm_4.ogg"
         ]
     },
 	{
@@ -190,10 +190,10 @@
         "volume" : 50,
         "variant" : "howitzer_gun",
         "files" : [
-           "mods/Tanks/155mm_1.ogg",
-		   "mods/Tanks/155mm_2.ogg",
-		   "mods/Tanks/155mm_3.ogg",
-		   "mods/Tanks/155mm_4.ogg"
+           "mods/TanksRevived/155mm_1.ogg",
+		   "mods/TanksRevived/155mm_2.ogg",
+		   "mods/TanksRevived/155mm_3.ogg",
+		   "mods/TanksRevived/155mm_4.ogg"
         ]
     },
 	{
@@ -202,10 +202,10 @@
         "volume" : 20,
         "variant" : "howitzer_gun",
         "files" : [
-           "mods/Tanks/155mm_1.ogg",
-		   "mods/Tanks/155mm_2.ogg",
-		   "mods/Tanks/155mm_3.ogg",
-		   "mods/Tanks/155mm_4.ogg"
+           "mods/TanksRevived/155mm_1.ogg",
+		   "mods/TanksRevived/155mm_2.ogg",
+		   "mods/TanksRevived/155mm_3.ogg",
+		   "mods/TanksRevived/155mm_4.ogg"
         ]
     },
 	{
@@ -262,10 +262,10 @@
         "volume" : 50,
         "variant" : "25mm_autocannon",
         "files" : [
-           "mods/Tanks/30mm_1.ogg",
-		   "mods/Tanks/30mm_2.ogg",
-		   "mods/Tanks/30mm_3.ogg",
-		   "mods/Tanks/30mm_4.ogg"
+           "mods/TanksRevived/30mm_1.ogg",
+		   "mods/TanksRevived/30mm_2.ogg",
+		   "mods/TanksRevived/30mm_3.ogg",
+		   "mods/TanksRevived/30mm_4.ogg"
         ]
     },
 	{
@@ -274,10 +274,10 @@
         "volume" : 20,
         "variant" : "25mm_autocannon",
         "files" : [
-           "mods/Tanks/30mm_1.ogg",
-		   "mods/Tanks/30mm_2.ogg",
-		   "mods/Tanks/30mm_3.ogg",
-		   "mods/Tanks/30mm_4.ogg"
+           "mods/TanksRevived/30mm_1.ogg",
+		   "mods/TanksRevived/30mm_2.ogg",
+		   "mods/TanksRevived/30mm_3.ogg",
+		   "mods/TanksRevived/30mm_4.ogg"
         ]
     },
 	{
