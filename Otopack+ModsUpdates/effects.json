@@ -157,6 +157,42 @@
 			"effects/bulletmetal/ricochet_6.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "danger_low",
+        "variant" : "default",
+        "volume" : 0,
+        "files" : [
+            "danger_theme/danger_low.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "danger_medium",
+        "variant" : "default",
+        "volume" : 0,
+        "files" : [
+            "danger_theme/danger_medium.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "danger_high",
+        "variant" : "default",
+        "volume" : 0,
+        "files" : [
+            "danger_theme/danger_high.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "danger_extreme",
+        "variant" : "default",
+        "volume" : 0,
+        "files" : [
+            "danger_theme/danger_extreme.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "tool",
