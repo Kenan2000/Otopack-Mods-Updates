@@ -1,0 +1,289 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_coelophysis",
+    "volume": 70,
+    "files": [ "monster/cat_hissing_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_dilophosaurus",
+    "volume": 70,
+    "files": [ "monster/cat_hissing_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_ceratosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_spinosaurus",
+    "volume": 70,
+    "files": [ "monster/roar_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_allosaurus",
+    "volume": 70,
+    "files": [ "monster/roar_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_acrocanthosaurus",
+    "volume": 70,
+    "files": [ "monster/roar_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_siats",
+    "volume": 70,
+    "files": [ "monster/roar_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_tyrannosaurus",
+    "volume": 70,
+    "files": [ "monster/roar_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_albertosaurus",
+    "volume": 70,
+    "files": [ "monster/roar_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_compsognathus",
+    "volume": 70,
+    "files": [ "effects/misc/insect_wings.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_gallimimus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_velociraptor",
+    "volume": 70,
+    "files": [ "monster/hissing.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_nothronychus",
+    "volume": 70,
+    "files": [ "monster/hissing.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_deinonychus",
+    "volume": 70,
+    "files": [ "monster/hissing.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_utahraptor",
+    "volume": 70,
+    "files": [ "monster/hissing.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_eoraptor",
+    "volume": 60,
+    "files": [ "monster/hissing.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_apatosaurus",
+    "volume": 80,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_brontosaurus",
+    "volume": 80,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_diplodocus",
+    "volume": 80,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_camarasaurus",
+    "volume": 80,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_brachiosaurus",
+    "volume": 80,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_alamosaurus",
+    "volume": 80,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_scutellosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_stegosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_dyoplosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_ankylosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_nodosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_edmontonia",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_camptosaurus",
+    "volume": 70,
+    "files": [ "monster/shriek.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_maiasaura",
+    "volume": 70,
+    "files": [ "monster/shriek.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_parasaurolophus",
+    "volume": 70,
+    "files": [ "monster/shriek.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_corythosaurus",
+    "volume": 70,
+    "files": [ "monster/shriek.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_edmontosaurus",
+    "volume": 70,
+    "files": [ "monster/shriek.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_pachycephalosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_pachyrhinosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_pentaceratops",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_torosaurus",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_triceratops",
+    "volume": 70,
+    "files": [ "monster/hit_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_dimorphodon",
+    "volume": 70,
+    "files": [ "melee/small_bash/swing_2.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_pteranodon",
+    "volume": 70,
+    "files": [ "melee/small_bash/swing_2.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_quetzalcoatlus",
+    "volume": 70,
+    "files": [ "melee/small_bash/swing_2.ogg" ]
+  }
+]
