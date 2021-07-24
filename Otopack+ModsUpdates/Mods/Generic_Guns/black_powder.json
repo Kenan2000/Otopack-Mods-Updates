@@ -1,0 +1,105 @@
+[
+   {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "black_powder_pistol",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+	 {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "black_powder_pistol",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "black_powder_pistol",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "black_powder_revolver",
+        "files" : [
+            "guns/44/44_1.ogg",
+			"guns/44/44_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "black_powder_revolver",
+        "files" : [
+            "guns/44/44_1.ogg",
+			"guns/44/44_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "black_powder_revolver",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 100,
+        "variant" : "black_powder_rifle",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "black_powder_rifle",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 90,
+        "variant" : "black_powder_rifle",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    }
+]
