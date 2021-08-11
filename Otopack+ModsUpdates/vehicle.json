@@ -205,6 +205,34 @@
   {
     "type": "sound_effect",
     "id": "vehicle_open",
+    "variant": "hddoor_left",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_close",
+    "variant": "hddoor_left",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_4.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "hddoor_right",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_close",
+    "variant": "hddoor_right",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_4.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
     "variant": "hddoor_opaque",
     "volume": 90,
     "files": [ "vehicle/vehicle_door/door_3.ogg" ]
@@ -213,6 +241,34 @@
     "type": "sound_effect",
     "id": "vehicle_close",
     "variant": "hddoor_opaque",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_4.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "hddoor_opaque_left",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_close",
+    "variant": "hddoor_opaque_left",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_4.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "hddoor_opaque_right",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_close",
+    "variant": "hddoor_opaque_right",
     "volume": 90,
     "files": [ "vehicle/vehicle_door/door_4.ogg" ]
   },
@@ -303,6 +359,34 @@
   {
     "type": "sound_effect",
     "id": "vehicle_open",
+    "variant": "hdhatch_left",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_5.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_close",
+    "variant": "hdhatch_left",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_6.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "hdhatch_right",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_5.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_close",
+    "variant": "hdhatch_right",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_6.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
     "variant": "hdhatch_opaque",
     "volume": 90,
     "files": [ "vehicle/vehicle_door/door_5.ogg" ]
@@ -311,6 +395,34 @@
     "type": "sound_effect",
     "id": "vehicle_close",
     "variant": "hdhatch_opaque",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_6.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "hdhatch_opaque_left",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_5.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_close",
+    "variant": "hdhatch_opaque_left",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_6.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "hdhatch_opaque_right",
+    "volume": 90,
+    "files": [ "vehicle/vehicle_door/door_5.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_close",
+    "variant": "hdhatch_opaque_right",
     "volume": 90,
     "files": [ "vehicle/vehicle_door/door_6.ogg" ]
   },
