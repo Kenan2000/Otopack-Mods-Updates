@@ -60,10 +60,6 @@
                     "volume": 50
                 },
                 {
-                    "file": "music/Solitude.ogg",
-                    "volume": 50
-                },
-                {
                     "file": "music/Walk_In_The_Rain.ogg",
                     "volume": 70
                 },
@@ -100,10 +96,6 @@
                     "volume": 50
                 },
 				{
-                    "file": "music/never_touched_her.ogg",
-                    "volume": 30
-                },
-                {
                     "file": "music/HR2977.ogg",
                     "volume": 50
                 },
