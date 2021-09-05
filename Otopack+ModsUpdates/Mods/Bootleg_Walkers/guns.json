@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "walker_shot",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -28,7 +28,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "walker_flare",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -52,7 +52,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "walker_556",
         "files" : [
             "guns/223/223_1.ogg",
@@ -88,7 +88,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "walker_bmg",
         "files" : [
             "guns/50/50_1.ogg",
@@ -110,7 +110,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "walker_flamer",
         "files" : [
             "guns/flammable/flammable_1.ogg",
@@ -130,7 +130,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "walker_laser",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -152,7 +152,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "walker_fusion",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -161,7 +161,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "walker_fusion",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -170,7 +170,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "walker_tesla",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -180,7 +180,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "walker_tesla",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",

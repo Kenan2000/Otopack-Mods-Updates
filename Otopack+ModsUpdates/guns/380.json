@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "mac_11",
         "files" : [
             "guns/357/357.ogg"
@@ -20,7 +20,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "mac_11",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -33,7 +33,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "kp3at",
         "files" : [
             "guns/357/357.ogg"
@@ -51,7 +51,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "kp3at",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -64,7 +64,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "fn1910",
         "files" : [
             "guns/357/357.ogg"
@@ -82,7 +82,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "fn1910",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -95,7 +95,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "rugerlcp",
         "files" : [
             "guns/357/357.ogg"
@@ -113,7 +113,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "rugerlcp",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -126,7 +126,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "hptcf380",
         "files" : [
             "guns/357/357.ogg"
@@ -144,7 +144,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "hptcf380",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -157,7 +157,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "taurus_spectrum",
         "files" : [
             "guns/357/357.ogg"
@@ -175,7 +175,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "taurus_spectrum",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",

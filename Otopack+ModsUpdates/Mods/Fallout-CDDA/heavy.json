@@ -1,7 +1,7 @@
 [ {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "gatling_45_handmade",
         "files" : [
             "guns/45/45_1.ogg",
@@ -33,7 +33,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "gatling_45_handmade",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -46,7 +46,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "gatling_50_handmade",
         "files" : [
             "guns/50/50_1.ogg",
@@ -68,7 +68,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "gatling_50_handmade",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -81,7 +81,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "10mmgatling",
         "files" : [
             "guns/40/40_1.ogg",
@@ -105,7 +105,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "10mmgatling",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -118,7 +118,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "p94_caster",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -136,7 +136,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "p94_caster",
         "files" : [
             "guns/reload/eweapons/plasma_rifle.ogg"
@@ -145,7 +145,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "vindicator",
         "files" : [
             "guns/45/45_1.ogg",
@@ -177,7 +177,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "vindicator",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -190,7 +190,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "avenger",
         "files" : [
             "guns/50/50_1.ogg",
@@ -212,7 +212,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "avenger",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -225,7 +225,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "10mmgatling",
         "files" : [
             "guns/40/40_1.ogg",
@@ -249,7 +249,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "10mmgatling",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -262,7 +262,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "l30",
         "files" : [
             "guns/eweapons/gatling_mech_laser_1.ogg",
@@ -288,7 +288,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "l30",
         "files" : [
             "guns/eweapons/recon_mech_laser_1.ogg",
@@ -299,7 +299,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "broadsider",
         "files" : [
             "guns/50/50_1.ogg",
@@ -321,7 +321,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "broadsider",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -334,7 +334,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "rockwell_bigbazooka",
         "files" : [
             "guns/others/Rocket_1.ogg",
@@ -360,7 +360,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "rockwell_bigbazooka",
         "files" : [
             "guns/reload/launcher/rocket.ogg"
@@ -369,7 +369,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "amr50",
         "files" : [
             "guns/50/50_1.ogg",
@@ -391,7 +391,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "amr50",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -404,7 +404,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "70mm_autocannon",
         "files" : [
             "guns/50/50_1.ogg",
@@ -426,7 +426,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "70mm_autocannon",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -439,7 +439,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "tank_gun_dual",
         "files" : [
             "guns/500/500.ogg"
@@ -457,7 +457,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "tank_gun_dual",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -470,7 +470,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "tank_gun_105",
         "files" : [
             "guns/300/300_1.ogg",
@@ -496,7 +496,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "tank_gun_105",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -509,7 +509,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "surv_firework_launcher",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -533,7 +533,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "surv_firework_launcher",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -546,7 +546,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "firework_launcher_beggar",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -570,7 +570,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "firework_launcher_beggar",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -583,7 +583,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "cannon_ancient",
         "files" : [
             "guns/others/Rocket_1.ogg",
@@ -609,7 +609,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "cannon_ancient",
         "files" : [
             "guns/reload/launcher/rocket.ogg"
@@ -618,7 +618,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "cannon_makeshift",
         "files" : [
             "guns/others/Rocket_1.ogg",
@@ -644,7 +644,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "cannon_makeshift",
         "files" : [
             "guns/reload/launcher/rocket.ogg"

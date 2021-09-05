@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "an94",
         "files" : [
             "guns/545x39/545x39_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "an94",
         "files" : [
             "guns/reload/ak/ak_reload_1.ogg",
@@ -41,7 +41,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "ak74",
         "files" : [
             "guns/545x39/545x39_1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "ak74",
         "files" : [
             "guns/reload/ak/ak_reload_1.ogg",

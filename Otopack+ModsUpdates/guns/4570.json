@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "1895sbl",
         "files" : [
             "guns/4570/4570.ogg"
@@ -20,7 +20,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "1895sbl",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -33,7 +33,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "bfr",
         "files" : [
             "guns/4570/4570.ogg"
@@ -51,7 +51,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "bfr",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -64,7 +64,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "sharps",
         "files" : [
             "guns/4570/4570.ogg"
@@ -82,7 +82,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "sharps",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",

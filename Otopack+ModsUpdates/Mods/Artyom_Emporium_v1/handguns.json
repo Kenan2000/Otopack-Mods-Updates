@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "browning_hp",
         "files" : [
             "guns/40/40_1.ogg",
@@ -26,7 +26,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "browning_hp",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -39,7 +39,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "r51",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -65,7 +65,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "r51",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -78,7 +78,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "browning_hp_uk",
         "files" : [
             "guns/40/40_1.ogg",
@@ -102,7 +102,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "browning_hp_uk",
         "files" : [
             "guns/reload/pistol_h/pistol_1.ogg",
@@ -115,7 +115,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "px4_stormsub",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -141,7 +141,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "px4_stormsub",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -154,7 +154,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "sig_p224",
         "files" : [
             "guns/40/40_1.ogg",
@@ -178,7 +178,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "sig_p224",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -326,7 +326,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "sig_p226",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -352,7 +352,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "sig_p226",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -365,7 +365,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "fn_fnp",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -391,7 +391,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "fn_fnp",
         "files" : [
             "guns/reload/pistol_h/pistol_1.ogg",
@@ -404,7 +404,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "fn_fnx",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -430,7 +430,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "fn_fnx",
         "files" : [
             "guns/reload/pistol_h/pistol_1.ogg",
@@ -443,7 +443,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "swiss_p210",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -469,7 +469,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "swiss_p210",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -572,7 +572,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "red9",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -598,7 +598,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "red9",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -611,7 +611,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "p08-9",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -637,7 +637,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "p08-9",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -695,7 +695,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "cz_52",
         "files" : [
             "guns/762x25/762x25_1.ogg",
@@ -721,7 +721,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "cz_52",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -734,7 +734,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "cz_75",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -760,7 +760,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "cz_75",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -773,7 +773,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "jericho_941",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -799,7 +799,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "jericho_941",
         "files" : [
             "guns/reload/pistol_h/pistol_1.ogg",
@@ -849,7 +849,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "cz_83",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -875,7 +875,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "cz_83",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -888,7 +888,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "cz_83",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -914,7 +914,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "cz_83",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -1083,7 +1083,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "homebrewer_gun",
         "files" : [
             "guns/45/45_1.ogg",
@@ -1115,7 +1115,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "homebrewer_gun",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -1128,7 +1128,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "colt_single_action_army",
         "files" : [
             "guns/44/44_1.ogg",
@@ -1152,7 +1152,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "colt_single_action_army",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -1165,7 +1165,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "colt_python",
         "files" : [
             "guns/44/44_1.ogg",
@@ -1189,7 +1189,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "colt_python",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -1202,7 +1202,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "ruger_blackhawk",
         "files" : [
             "guns/44/44_1.ogg",
@@ -1226,7 +1226,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "ruger_blackhawk",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -1239,7 +1239,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "colt_detective",
         "files" : [
             "guns/38/38_1.ogg",
@@ -1263,7 +1263,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "colt_detective",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
