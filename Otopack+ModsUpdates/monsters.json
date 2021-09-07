@@ -3,7 +3,7 @@
         "type": "sound_effect",
         "id" : "mon_death",
         "variant" : "zombie_death",
-        "volume" : 25,
+        "volume" : 45,
         "files" : [
             "monster/zombie_death_1.ogg",
             "monster/zombie_death_2.ogg",
