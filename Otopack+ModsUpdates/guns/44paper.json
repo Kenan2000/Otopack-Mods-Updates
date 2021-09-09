@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "colt_army",
         "files" : [
             "guns/44/44_1.ogg",
@@ -22,7 +22,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "colt_army",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -35,7 +35,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "lemat_revolver",
         "files" : [
             "guns/44/44_1.ogg",
@@ -55,7 +55,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "lemat_revolver",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",

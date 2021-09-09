@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "nmproto",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nmproto",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -41,7 +41,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "nm9mmsmallpistol",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nm9mmsmallpistol",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -80,7 +80,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nm22pistol",
         "files" : [
             "guns/22/22_1.ogg",
@@ -106,7 +106,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nm22pistol",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -119,7 +119,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "nm7x30revolver",
         "files" : [
             "guns/38/38_1.ogg",
@@ -143,7 +143,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nm7x30revolver",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -201,7 +201,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "nm7x30snprpistol",
         "files" : [
             "guns/308/308_1.ogg",
@@ -237,7 +237,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nm7x30snprpistol",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -295,7 +295,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "nm50pistol",
         "files" : [
             "guns/50/50_1.ogg",
@@ -330,7 +330,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "nm223pistol",
         "files" : [
             "guns/223/223_1.ogg",
@@ -366,7 +366,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nm223pistol",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",

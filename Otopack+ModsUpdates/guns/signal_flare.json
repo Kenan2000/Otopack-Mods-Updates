@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "flaregun",
         "files" : [
             "guns/flare/flare.ogg"
@@ -20,7 +20,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "flaregun",
         "files" : [
             "guns/reload/flare/flare.ogg"

@@ -66,7 +66,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "mx_laser_sniper",
         "files" : [
             "Mods/Cata++/batterygun_reload.ogg"
@@ -284,7 +284,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "akro_laser_smg",
         "files" : [
             "Mods/Cata++/batterygun_reload.ogg"
@@ -359,7 +359,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "xarm_laser_shotgun",
         "files" : [
             "Mods/Cata++/batterygun_reload.ogg"
@@ -434,7 +434,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "arc_laser_rifle",
         "files" : [
             "Mods/Cata++/batterygun_reload.ogg"
@@ -509,7 +509,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "krx_laser_lmg",
         "files" : [
             "Mods/Cata++/batterygun_reload.ogg"
@@ -1411,7 +1411,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "mk_ionic_cannon",
         "files" : [
             "guns/eweapons/laser_cannon.ogg"
@@ -1438,7 +1438,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "mk_ionic_cannon_monster",
         "files" : [
             "guns/eweapons/laser_cannon.ogg"

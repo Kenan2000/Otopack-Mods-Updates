@@ -2,7 +2,7 @@
    {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "pistol_magnum_automag",
         "files" : [
             "guns/44/44_1.ogg",
@@ -22,7 +22,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "pistol_magnum_automag",
         "files" : [
             "guns/reload/pistol_h/pistol_1.ogg",
@@ -35,7 +35,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "pistol_magnum_levergun",
         "files" : [
             "guns/44/44_1.ogg",
@@ -55,7 +55,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "pistol_magnum_levergun",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -68,7 +68,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "pistol_magnum_pipe_levergun",
         "files" : [
             "guns/44/44_1.ogg",
@@ -88,7 +88,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "pistol_magnum_pipe_levergun",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -101,7 +101,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "pistol_magnum_pipe",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -127,7 +127,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "pistol_magnum_pipe",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -140,7 +140,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "pistol_magnum_revolver",
         "files" : [
             "guns/44/44_1.ogg",
@@ -160,7 +160,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "pistol_magnum_revolver",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",

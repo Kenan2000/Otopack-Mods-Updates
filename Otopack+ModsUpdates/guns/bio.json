@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "bio_blaster_gun",
         "files" : [
             "guns/eweapons/bio_blaster_gun_1.ogg",
@@ -22,7 +22,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "bio_laser_gun",
         "files" : [
             "guns/eweapons/bio_laser_gun_1.ogg",
@@ -44,7 +44,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "bio_lightning",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -65,7 +65,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "variant" : "bio_lightning_tail",
-        "volume" : 75,
+        "volume" : 100,
         "files" : [
             "effects/electrosparks/sparks_1.ogg",
 			"effects/electrosparks/sparks_2.ogg",
@@ -88,7 +88,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "bio_shotgun_gun",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -114,7 +114,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "bio_shotgun_gun",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -127,7 +127,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "bio_emp_gun",
         "files" : [
             "guns/eweapons/emp_gun_1.ogg",
@@ -147,7 +147,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "mut_quills",
         "files" : [
             "guns/nail/nailgun_1.ogg",

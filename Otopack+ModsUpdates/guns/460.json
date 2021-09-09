@@ -3,7 +3,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "m1911-460",
         "files" : [
             "guns/454/454.ogg"
@@ -12,7 +12,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "m1911-460",
         "files" : [
             "guns/454/454.ogg"
@@ -21,7 +21,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "m1911-460",
         "files" : [
             "guns/reload/pistol_h/pistol_1.ogg",

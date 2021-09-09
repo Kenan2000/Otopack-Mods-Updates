@@ -1,7 +1,7 @@
 [ {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "357_magnum_revolver",
         "files" : [
             "guns/38/38_1.ogg",
@@ -25,7 +25,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "357_magnum_revolver",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -38,7 +38,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "357_magnum_revolver_lucky",
         "files" : [
             "guns/38/38_1.ogg",
@@ -62,7 +62,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "357_magnum_revolver_lucky",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -75,7 +75,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "revolver_ranger",
         "files" : [
             "guns/4570/4570.ogg"
@@ -93,7 +93,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "revolver_ranger",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -106,7 +106,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "gunblade",
         "files" : [
             "guns/44/44_1.ogg",
@@ -126,7 +126,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "gunblade",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -139,7 +139,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "thatgun",
         "files" : [
             "guns/223/223_1.ogg",
@@ -175,7 +175,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "thatgun",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",

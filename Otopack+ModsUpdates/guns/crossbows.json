@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 65,
+        "volume" : 80,
         "variant" : "hand_crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -26,7 +26,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "hand_crossbow",
         "files" : [
             "guns/crossbows/reload_1.ogg",
@@ -36,7 +36,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 65,
+        "volume" : 80,
         "variant" : "gun_crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -60,7 +60,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "gun_crossbow",
         "files" : [
             "guns/crossbows/reload_1.ogg",
@@ -70,7 +70,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 65,
+        "volume" : 80,
         "variant" : "crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -94,7 +94,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "crossbow",
         "files" : [
             "guns/crossbows/reload_1.ogg",
@@ -104,7 +104,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 65,
+        "volume" : 80,
         "variant" : "huge_crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -128,7 +128,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "huge_crossbow",
         "files" : [
            "guns/crossbows/reload_1.ogg",
@@ -138,7 +138,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 65,
+        "volume" : 80,
         "variant" : "bullet_crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -162,7 +162,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "bullet_crossbow",
         "files" : [
             "guns/crossbows/reload_1.ogg",
@@ -184,7 +184,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 65,
+        "volume" : 80,
         "variant" : "rep_crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -196,7 +196,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "rep_crossbow",
         "files" : [
             "guns/crossbows/reload_1.ogg",
@@ -206,7 +206,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 65,
+        "volume" : 80,
         "variant" : "compositecrossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -230,7 +230,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "compositecrossbow",
         "files" : [
             "guns/crossbows/reload_1.ogg",
@@ -240,7 +240,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 65,
+        "volume" : 80,
         "variant" : "compcrossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -264,7 +264,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "compcrossbow",
         "files" : [
             "guns/crossbows/reload_1.ogg",

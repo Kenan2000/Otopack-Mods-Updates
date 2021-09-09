@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "punt_gun",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "punt_gun",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -41,7 +41,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "punt_gun_homemade",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "punt_gun_homemade",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -80,7 +80,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "shotgun_pump_12",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -106,7 +106,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "shotgun_pump_12",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -119,7 +119,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "shotgun_pump_20",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -143,7 +143,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "shotgun_pump_20",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -156,7 +156,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "widowmaker",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -182,7 +182,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "widowmaker",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -195,7 +195,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "20ga_singleshot",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -219,7 +219,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "20ga_singleshot",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -232,7 +232,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "caravan_shotgun",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -256,7 +256,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "caravan_shotgun",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -269,7 +269,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "caravan_shotgun_sturdy",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -293,7 +293,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "caravan_shotgun_sturdy",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -306,7 +306,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "citykiller",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -330,7 +330,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "citykiller",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",

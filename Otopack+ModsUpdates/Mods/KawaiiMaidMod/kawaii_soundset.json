@@ -2,7 +2,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_selfbow",
      "files" : [
          "guns/archery/archery_1.ogg",
@@ -28,7 +28,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_custombow_v1",
      "files" : [
          "guns/archery/archery_1.ogg",
@@ -54,7 +54,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_custombow_v2",
      "files" : [
          "guns/archery/archery_1.ogg",
@@ -80,7 +80,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_custombow_v3",
      "files" : [
          "guns/archery/archery_1.ogg",
@@ -106,7 +106,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_shieldbow",
      "files" : [
          "guns/archery/archery_1.ogg",
@@ -132,7 +132,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_shelia_on",
      "files" : [
          "guns/archery/archery_1.ogg",
@@ -158,7 +158,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_leila",
      "files" : [
          "guns/archery/archery_1.ogg",
@@ -184,7 +184,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_daikyu",
      "files" : [
          "guns/archery/archery_1.ogg",
@@ -210,7 +210,7 @@
  {
      "type": "sound_effect",
      "id" : "fire_gun",
-     "volume" : 75,
+     "volume" : 100,
      "variant" : "kawaii_glass_bow",
      "files" : [
          "guns/archery/archery_1.ogg",

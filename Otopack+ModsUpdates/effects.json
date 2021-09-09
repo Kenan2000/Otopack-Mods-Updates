@@ -3,7 +3,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "hit_vehicle",
-        "volume" : 35,
+        "volume" : 70,
         "files" : [
             "env/vehicle/smash_vehicle_1.ogg",
 			"env/vehicle/smash_vehicle_2.ogg",
@@ -84,7 +84,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "alarm",
-        "volume" : 40,
+        "volume" : 100,
         "files" : [
             "env/other/security_alarm.ogg"
         ]
@@ -93,7 +93,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "variant" : "brass_eject",
-        "volume" : 50,
+        "volume" : 100,
         "files" : [
             "effects/brass/brass_falling_1.ogg",
             "effects/brass/brass_falling_2.ogg",
@@ -197,7 +197,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "geiger_low",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/tools/geiger_low.ogg"
         ]
@@ -206,7 +206,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "geiger_medium",
-        "volume" : 80,
+        "volume" : 90,
         "files" : [
             "effects/tools/geiger_medium.ogg"
         ]
@@ -224,7 +224,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "jackhammer",
-        "volume" : 50,
+        "volume" : 90,
         "files" : [
             "effects/tools/jackhammer.ogg"
         ]
@@ -233,7 +233,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "axe",
-        "volume" : 80,
+        "volume" : 90,
         "files" : [
             "effects/tools/axe.ogg"
         ]
@@ -242,7 +242,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "pickaxe",
-        "volume" : 80,
+        "volume" : 90,
         "files" : [
             "effects/tools/pickaxe.ogg"
         ]
@@ -251,7 +251,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "oxytorch",
-        "volume" : 50,
+        "volume" : 90,
         "files" : [
             "effects/tools/oxytorch.ogg"
         ]
@@ -260,7 +260,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "hacksaw",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/tools/hacksaw.ogg"
         ]
@@ -269,7 +269,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "shovel",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/tools/shovel.ogg"
         ]
@@ -278,7 +278,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "crowbar",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/tools/crowbar.ogg"
         ]
@@ -287,7 +287,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "boltcutters",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/tools/boltcutters.ogg"
         ]
@@ -296,7 +296,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "gaspump",
-        "volume" : 40,
+        "volume" : 90,
         "files" : [
             "effects/tools/gaspump.ogg"
         ]
@@ -305,7 +305,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "noise_emitter",
-        "volume" : 60,
+        "volume" : 90,
         "files" : [
             "effects/tools/noise_emitter.ogg"
         ]
@@ -314,7 +314,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "repair_kit",
-        "volume" : 65,
+        "volume" : 90,
         "files" : [
             "effects/tools/repair_kit.ogg"
         ]
@@ -323,7 +323,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "camera_shutter",
-        "volume" : 80,
+        "volume" : 90,
         "files" : [
             "effects/tools/camera_shutter.ogg"
         ]
@@ -332,7 +332,7 @@
         "type": "sound_effect",
         "id" : "tool",
         "variant" : "handcuffs",
-        "volume" : 60,
+        "volume" : 90,
         "files" : [
             "effects/tools/handcuffs.ogg"
         ]
@@ -341,7 +341,7 @@
         "type": "sound_effect",
         "id" : "trap",
         "variant" : "bear_trap",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/traps/bear_trap.ogg"
         ]
@@ -350,7 +350,7 @@
         "type": "sound_effect",
         "id" : "trap",
         "variant" : "snare",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/traps/snare.ogg"
         ]
@@ -359,7 +359,7 @@
         "type": "sound_effect",
         "id" : "trap",
         "variant" : "glass_caltrop",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/traps/glass_caltrop.ogg"
         ]
@@ -368,7 +368,7 @@
         "type": "sound_effect",
         "id" : "trap",
         "variant" : "bubble_wrap",
-        "volume" : 60,
+        "volume" : 90,
         "files" : [
             "effects/traps/bubble_wrap.ogg"
         ]
@@ -377,7 +377,7 @@
         "type": "sound_effect",
         "id" : "trap",
         "variant" : "glass",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/traps/glass.ogg"
         ]
@@ -386,7 +386,7 @@
         "type": "sound_effect",
         "id" : "trap",
         "variant" : "dissector",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/traps/dissector.ogg"
         ]
@@ -395,7 +395,7 @@
         "type": "sound_effect",
         "id" : "trap",
         "variant" : "teleport",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/traps/teleport.ogg"
         ]
@@ -404,7 +404,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "bell",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/misc/bell.ogg"
         ]
@@ -413,7 +413,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "bomb_ticking",
-        "volume" : 60,
+        "volume" : 90,
         "files" : [
             "effects/misc/bomb_ticking.ogg"
         ]
@@ -422,7 +422,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "cow_bell",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/misc/cow_bell.ogg"
         ]
@@ -440,7 +440,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "flashbang",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/misc/flashbang.ogg"
         ]
@@ -449,7 +449,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "horn_bicycle",
-        "volume" : 80,
+        "volume" : 90,
         "files" : [
             "effects/misc/horn_bicycle.ogg"
         ]
@@ -458,7 +458,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "lit_fuse",
-        "volume" : 60,
+        "volume" : 90,
         "files" : [
             "effects/misc/lit_fuse.ogg"
         ]
@@ -467,7 +467,7 @@
         "type": "sound_effect",
         "id" : "radio",
         "variant" : "static",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/misc/radio_static.ogg"
         ]
@@ -476,7 +476,7 @@
         "type": "sound_effect",
         "id" : "radio",
         "variant" : "inaudible_chatter",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/misc/radio_inaudible_chatter_1.ogg", 
 			"effects/misc/radio_inaudible_chatter_2.ogg", 
@@ -488,7 +488,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "stairs_movement",
-        "volume" : 70,
+        "volume" : 90,
         "files" : [
             "effects/misc/stairs_movement.ogg"
         ]
@@ -497,7 +497,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "stones_grinding",
-        "volume" : 65,
+        "volume" : 90,
         "files" : [
             "effects/misc/stones_grinding.ogg"
         ]
@@ -506,16 +506,16 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "alarm",
-        "volume" : 40,
+        "volume" : 90,
         "files" : [
-            "env/other/security_alarm.ogg"
+            "env/other/alarm.ogg"
         ]
     },
 	{
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "church_bells",
-        "volume" : 60,
+        "volume" : 90,
         "files" : [
             "env/other/church_bells.ogg"
         ]
@@ -524,7 +524,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "police_siren",
-        "volume" : 60,
+        "volume" : 90,
         "files" : [
             "env/other/police_siren.ogg"
         ]
@@ -533,18 +533,16 @@
         "type": "sound_effect",
         "id" : "fire",
         "variant" : "ignition",
-        "volume" : 50,
+        "volume" : 90,
         "files" : [
-            "effects/misc/fire_ignition_1.ogg",
-			"effects/misc/fire_ignition_2.ogg",
-			"effects/misc/fire_ignition_3.ogg"
+            "effects/misc/fire_ignition.ogg"
         ]
     },
 	{
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "servomotor",
-        "volume" : 65,
+        "volume" : 70,
         "files" : [
             "effects/misc/servomotor.ogg"
         ]
@@ -553,7 +551,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "cough",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
             "player/other/coughing_1.ogg",
 			"player/other/coughing_2.ogg",
@@ -584,7 +582,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "airhorn",
-        "volume" : 45,
+        "volume" : 70,
         "files" : [
             "effects/misc/airhorn.ogg"
         ]
@@ -593,7 +591,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "talking_doll",
-        "volume" : 100,
+        "volume" : 70,
         "files" : [
             "effects/misc/talking_doll.ogg"
         ]
@@ -602,7 +600,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "creepy_doll",
-        "volume" : 50,
+        "volume" : 70,
         "files" : [
             "effects/misc/creepy_doll.ogg"
         ]
@@ -637,7 +635,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_secubot",
-        "volume" : 55,
+        "volume" : 70,
         "files" : [
 			"robot/bot_default_1.ogg",
 			"robot/bot_default_2.ogg",
@@ -652,7 +650,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_skitterbot",
-        "volume" : 55,
+        "volume" : 70,
         "files" : [
 			"robot/bot_default_1.ogg",
 			"robot/bot_default_2.ogg",
@@ -667,7 +665,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_molebot",
-        "volume" : 55,
+        "volume" : 70,
         "files" : [
 			"robot/bot_default_1.ogg",
 			"robot/bot_default_2.ogg",
@@ -682,7 +680,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_hazmatbot",
-        "volume" : 55,
+        "volume" : 70,
         "files" : [
 			"robot/bot_default_1.ogg",
 			"robot/bot_default_2.ogg",
@@ -697,7 +695,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_copbot",
-        "volume" : 55,
+        "volume" : 70,
         "files" : [
 			"robot/bot_default_1.ogg",
 			"robot/bot_default_2.ogg",
@@ -714,7 +712,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_robofac_prototype",
-        "volume" : 55,
+        "volume" : 70,
         "files" : [
 			"robot/mon_prototype_cyborg_1.ogg",
 			"robot/bot_default_1.ogg",
@@ -730,7 +728,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_riotbot",
-        "volume" : 55,
+        "volume" : 70,
         "files" : [
 			"robot/bot_default_1.ogg",
 			"robot/bot_default_2.ogg",
@@ -747,7 +745,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_nursebot_defective",
-        "volume" : 55,
+        "volume" : 70,
         "files" : [
 			"robot/bot_default_1.ogg",
 			"robot/bot_default_2.ogg",
@@ -779,7 +777,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "rattling",
-        "volume" : 50,
+        "volume" : 70,
         "files" : [
             "monster/rattling.ogg"
         ]
@@ -788,7 +786,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "hissing",
-        "volume" : 50,
+        "volume" : 70,
         "files" : [
             "monster/hissing.ogg"
         ]
@@ -797,7 +795,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -808,7 +806,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -819,7 +817,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_tabby",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -830,7 +828,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_tabby_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -841,7 +839,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_longhair",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -852,7 +850,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_longhair_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -863,7 +861,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_siamese",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -874,7 +872,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_siamese_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -885,7 +883,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_persian",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -896,7 +894,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_persian_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -907,7 +905,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_calico",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -918,7 +916,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_calico_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -929,7 +927,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_maine_coon",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -940,7 +938,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_maine_coon_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -951,7 +949,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_bengal",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -962,7 +960,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_bengal_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -973,7 +971,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_devon_rex",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -984,7 +982,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_devon_rex_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -995,7 +993,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_sphynx",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -1006,7 +1004,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_sphynx_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -1017,7 +1015,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_chonker",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -1028,7 +1026,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_cat_chonker_kitten",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/cat_meowing_1.ogg",
 			"monster/cat_purring_2.ogg",
@@ -1039,7 +1037,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog",
-        "volume" : 50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1049,7 +1047,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_pup",
-        "volume" : 50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1059,7 +1057,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_bull",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1069,7 +1067,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_bull_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1079,7 +1077,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_pitbullmix",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1089,7 +1087,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_pitbullmix_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1099,7 +1097,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_beagle",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1109,7 +1107,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_beagle_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1119,7 +1117,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_bcollie",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1129,7 +1127,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_bcollie_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1139,7 +1137,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_boxer",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1149,7 +1147,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_boxer_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1159,7 +1157,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_chihuahua",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1169,7 +1167,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_chihuahua_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1179,7 +1177,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_dachshund",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1189,7 +1187,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_dachshund_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1199,7 +1197,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_gshepherd",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1209,7 +1207,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_gshepherd_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1219,7 +1217,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_gpyrenees",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1229,7 +1227,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_gpyrenees_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1239,7 +1237,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_rottweiler",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1249,7 +1247,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_rottweiler_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1259,7 +1257,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_auscattle",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1269,7 +1267,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_auscattle_pup",
-        "volume" :  50,
+        "volume" : 70,
         "files" : [
 			"monster/dog_whining_1.ogg",
 			"monster/dog_barking_2.ogg"
@@ -1279,7 +1277,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_zombie_dog",
-        "volume" :  60,
+        "volume" : 70,
         "files" : [
 			"monster/dog_zombie_barking_3.ogg"
         ]
@@ -1288,7 +1286,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_zombie_cop",
-        "volume" :  60,
+        "volume" : 70,
         "files" : [
 			"monster/dog_zombie_barking_3.ogg"
         ]
@@ -1297,7 +1295,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_dog_zombie_rot",
-        "volume" :  60,
+        "volume" : 70,
         "files" : [
 			"monster/dog_zombie_barking_3.ogg"
         ]
@@ -1306,7 +1304,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_horse",
-        "volume" : 50,
+        "volume" : 70,
         "files" : [
 			"monster/horse_neighing_1.ogg",
 			"monster/horse_neighing_2.ogg"
@@ -1316,7 +1314,7 @@
         "type": "sound_effect",
         "id" : "speech",
         "variant" : "mon_zombie_horse",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
 			"monster/horse_neighing_1.ogg",
 			"monster/horse_neighing_2.ogg"

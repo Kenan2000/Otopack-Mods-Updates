@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "american_180",
         "files" : [
             "guns/22/22_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "american_180",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -41,7 +41,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "marlin_9a",
         "files" : [
             "guns/22/22_1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "marlin_9a",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -80,7 +80,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "moss_brownie",
         "files" : [
             "guns/22/22_1.ogg",
@@ -106,7 +106,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "moss_brownie",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -120,7 +120,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "variant" : "rifle_22",
-        "volume" : 75,
+        "volume" : 90,
         "files" : [
             "guns/22/22_1.ogg",
 			"guns/22/22_2.ogg",
@@ -133,7 +133,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "variant" : "rifle_22",
-        "volume" : 75,
+        "volume" : 90,
         "files" : [
             "guns/22/22_1.ogg",
 			"guns/22/22_2.ogg",
@@ -146,7 +146,7 @@
         "type": "sound_effect",
         "id" : "reload",
         "variant" : "rifle_22",
-        "volume" : 75,
+        "volume" : 90,
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
 			"guns/reload/rifle_s/rifle_2.ogg",
@@ -158,7 +158,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "rm360_carbine",
         "files" : [
             "guns/22/22_1.ogg",
@@ -184,7 +184,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "rm360_carbine",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -197,7 +197,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "ruger_1022",
         "files" : [
             "guns/22/22_1.ogg",
@@ -223,7 +223,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "ruger_1022",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -236,7 +236,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "ruger_lcr_22",
         "files" : [
             "guns/22/22_1.ogg",
@@ -262,7 +262,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "ruger_lcr_22",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -275,7 +275,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "sig_mosquito",
         "files" : [
             "guns/22/22_1.ogg",
@@ -301,7 +301,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "sig_mosquito",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -314,7 +314,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "sw_22",
         "files" : [
             "guns/22/22_1.ogg",
@@ -340,7 +340,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "sw_22",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -353,7 +353,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "j22",
         "files" : [
             "guns/22/22_1.ogg",
@@ -379,7 +379,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "j22",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -392,7 +392,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "walther_p22",
         "files" : [
             "guns/22/22_1.ogg",
@@ -418,7 +418,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "walther_p22",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",

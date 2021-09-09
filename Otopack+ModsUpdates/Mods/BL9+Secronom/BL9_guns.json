@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_pistol",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_pistol",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -41,7 +41,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_smg",
         "files" : [
             "guns/40/40_1.ogg",
@@ -65,7 +65,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_smg",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -78,7 +78,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_sniper",
         "files" : [
             "guns/308/308_1.ogg",
@@ -114,7 +114,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_sniper",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -127,7 +127,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_auto",
         "files" : [
             "guns/223/223_1.ogg",
@@ -163,7 +163,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_auto",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -176,7 +176,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_shotgun",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -202,7 +202,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_shotgun",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -215,7 +215,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_magnum",
         "files" : [
             "guns/38/38_1.ogg",
@@ -239,7 +239,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_magnum",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -252,7 +252,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_sprayer",
         "files" : [
             "guns/others/chemical_thrower.ogg"
@@ -270,7 +270,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_sprayer",
         "files" : [
             "guns/reload/flammable/flammable_1.ogg",
@@ -280,7 +280,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_launcher",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -304,7 +304,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_launcher",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -343,7 +343,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_bow",
         "files" : [
             "guns/archery/takearrow_1.ogg",
@@ -355,7 +355,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 60,
+        "volume" : 80,
         "variant" : "BL9_crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -379,7 +379,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_crossbow",
         "files" : [
            "guns/crossbows/reload_1.ogg",
@@ -473,7 +473,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_sniper_mk2",
         "files" : [
             "guns/50/50_1.ogg",
@@ -495,7 +495,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_sniper_mk2",
         "files" : [
             "guns/reload/rifle_h/rifle_1.ogg",
@@ -508,7 +508,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_auto_mk2",
         "files" : [
             "guns/223/223_1.ogg",
@@ -544,7 +544,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_auto_mk2",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -557,7 +557,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_shotgun_mk2",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -581,7 +581,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_shotgun_mk2",
         "files" : [
             "guns/reload/bullpup/bullpup_1.ogg",
@@ -594,7 +594,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_magnum_mk2",
         "files" : [
             "guns/44/44_1.ogg",
@@ -618,7 +618,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_magnum_mk2",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -631,7 +631,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_sprayer_mk2",
         "files" : [
             "guns/others/chemical_thrower.ogg"
@@ -649,7 +649,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_launcher_mk2",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -673,7 +673,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_launcher_mk2",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -686,7 +686,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_sprayer_mk2",
         "files" : [
             "guns/reload/flammable/flammable_1.ogg",
@@ -722,7 +722,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_bow_mk2",
         "files" : [
             "guns/archery/takearrow_1.ogg",
@@ -734,7 +734,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 60,
+        "volume" : 80,
         "variant" : "BL9_crossbow_mk2",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -758,7 +758,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_crossbow_mk2",
         "files" : [
            "guns/crossbows/reload_1.ogg",
@@ -768,7 +768,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 60,
+        "volume" : 80,
         "variant" : "mongun_BL9_crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -792,7 +792,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "mongun_BL9_crossbow",
         "files" : [
            "guns/crossbows/reload_1.ogg",
@@ -802,7 +802,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "mongun_BL9_minigun",
         "files" : [
             "guns/45/45_1.ogg",
@@ -834,7 +834,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "mongun_BL9_minigun",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -931,7 +931,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_sniper_mk3",
         "files" : [
             "guns/50/50_1.ogg",
@@ -953,7 +953,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_sniper_mk3",
         "files" : [
             "guns/reload/rifle_h/rifle_1.ogg",
@@ -966,7 +966,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_auto_mk3",
         "files" : [
             "guns/223/223_1.ogg",
@@ -1002,7 +1002,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_auto_mk3",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -1015,7 +1015,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_shotgun_mk3",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -1039,7 +1039,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_shotgun_mk3",
         "files" : [
             "guns/reload/bullpup/bullpup_1.ogg",
@@ -1052,7 +1052,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_magnum_mk3",
         "files" : [
             "guns/44/44_1.ogg",
@@ -1076,7 +1076,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_magnum_mk3",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -1089,7 +1089,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_sprayer_mk3",
         "files" : [
             "guns/others/chemical_thrower.ogg"
@@ -1107,7 +1107,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "BL9_launcher_mk3",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -1131,7 +1131,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_launcher_mk3",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -1144,7 +1144,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_sprayer_mk3",
         "files" : [
             "guns/reload/flammable/flammable_1.ogg",
@@ -1180,7 +1180,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_bow_mk3",
         "files" : [
             "guns/archery/takearrow_1.ogg",
@@ -1192,7 +1192,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 60,
+        "volume" : 80,
         "variant" : "BL9_crossbow_mk3",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -1216,7 +1216,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "BL9_crossbow_mk3",
         "files" : [
            "guns/crossbows/reload_1.ogg",

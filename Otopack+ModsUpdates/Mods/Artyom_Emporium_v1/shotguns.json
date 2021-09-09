@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "auto_assault12",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -26,7 +26,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "auto_assault12",
         "files" : [
             "guns/reload/bullpup/bullpup_1.ogg",
@@ -39,7 +39,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "usas12",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -63,7 +63,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "usas12",
         "files" : [
             "guns/reload/bullpup/bullpup_1.ogg",
@@ -76,7 +76,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "spas15",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -102,7 +102,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "spas15",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -115,7 +115,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "mossberg_590a1",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -141,7 +141,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "mossberg_590a1",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -154,7 +154,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "ithacam37",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -180,7 +180,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "ithacam37",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -193,7 +193,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "w1897",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -219,7 +219,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "w1897",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -232,7 +232,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "w1887",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -258,7 +258,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "w1887",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -271,7 +271,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "striker",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -295,7 +295,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "striker",
         "files" : [
             "guns/reload/bullpup/bullpup_1.ogg",
@@ -308,7 +308,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "auto5",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -334,7 +334,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "auto5",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -347,7 +347,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "spas12",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -371,7 +371,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "spas12",
         "files" : [
             "guns/reload/bullpup/bullpup_1.ogg",

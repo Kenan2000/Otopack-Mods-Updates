@@ -2,7 +2,7 @@
    {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "grenade_blooper",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -26,7 +26,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "grenade_blooper",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -39,7 +39,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "grenade_hmg",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -63,7 +63,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "grenade_hmg",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -76,7 +76,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "grenade_pistol",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -100,7 +100,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "grenade_pistol",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -113,7 +113,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "grenade_revolver",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -137,7 +137,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "grenade_revolver",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
