@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "menu_move",
-        "volume" : 40,
+        "volume" : 100,
         "files" : [
             "menu/menu_move.ogg"
         ]
@@ -10,7 +10,7 @@
     {
         "type": "sound_effect",
         "id" : "menu_error",
-        "volume" : 60,
+        "volume" : 100,
         "files" : [
             "menu/menu_error.ogg"
         ]

@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "saiga_410",
         "files" : [
            "guns/410shot/410_1.ogg",
@@ -26,7 +26,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "saiga_410",
         "files" : [
             "guns/reload/shotgun/autoreload1.ogg",
@@ -39,7 +39,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "shotgun_410",
         "files" : [
            "guns/410shot/410_1.ogg",
@@ -63,7 +63,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "shotgun_410",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",

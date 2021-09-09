@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "laser_rifle_secro",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -24,7 +24,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "SS_grenade_launcher",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -48,7 +48,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "SS_grenade_launcher",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -61,7 +61,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "cheytac",
         "files" : [
             "guns/50/50_1.ogg",
@@ -83,7 +83,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "cheytac",
         "files" : [
             "guns/reload/rifle_h/rifle_1.ogg",
@@ -96,7 +96,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "hecate",
         "files" : [
             "guns/50/50_1.ogg",
@@ -118,7 +118,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "hecate",
         "files" : [
             "guns/reload/rifle_h/rifle_1.ogg",
@@ -131,7 +131,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "kacc",
         "files" : [
             "guns/223/223_1.ogg",
@@ -167,7 +167,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "kacc",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -180,7 +180,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "psg1",
         "files" : [
             "guns/223/223_1.ogg",
@@ -216,7 +216,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "psg1",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -229,7 +229,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "walther2000",
         "files" : [
             "guns/300/300_1.ogg",
@@ -255,7 +255,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "walther2000",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -268,7 +268,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "xm556",
         "files" : [
             "guns/223/223_1.ogg",
@@ -304,7 +304,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "xm556",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -317,7 +317,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "xm8",
         "files" : [
             "guns/223/223_1.ogg",
@@ -353,7 +353,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "xm8",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -366,7 +366,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "zx1sniper",
         "files" : [
             "guns/50/50_1.ogg",
@@ -388,7 +388,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "zx1sniper",
         "files" : [
             "guns/reload/rifle_h/rifle_1.ogg",
@@ -401,7 +401,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "lmilaser",
         "files" : [
             "guns/eweapons/laser_cannon.ogg"
@@ -410,7 +410,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "lmilaser",
         "files" : [
             "guns/eweapons/laser_cannon.ogg"
@@ -419,7 +419,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "laser_rifle_secrodragon",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -441,7 +441,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "SS_grenade_launchersecrodragon",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -465,7 +465,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "SS_grenade_launchersecrodragon",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -478,7 +478,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "SS_pershield",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -488,7 +488,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "SS_pershield",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -499,7 +499,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "variant" : "squirtler_bulb",
-        "volume" : 60,
+        "volume" : 70,
         "files" : [
             "monster/spitting_1.ogg", 
 			"monster/spitting_2.ogg", 

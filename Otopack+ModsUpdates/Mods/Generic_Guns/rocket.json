@@ -2,7 +2,7 @@
    {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "rocket_disposable",
         "files" : [
             "guns/others/Rocket_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "rocket_disposable",
         "files" : [
             "guns/reload/launcher/rocket.ogg"
@@ -37,7 +37,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "rocket_recoilless",
         "files" : [
             "guns/others/Rocket_1.ogg",
@@ -63,7 +63,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "rocket_recoilless",
         "files" : [
             "guns/reload/launcher/rocket.ogg"

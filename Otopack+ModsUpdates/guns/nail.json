@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "coilgun",
         "files" : [
             "guns/nail/coilgun.ogg"
@@ -20,7 +20,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "coilgun",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -33,7 +33,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "nailgun",
         "files" : [
             "guns/nail/nailgun_1.ogg",
@@ -53,7 +53,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "nailgun",
         "files" : [
             "guns/reload/others/bbgun.ogg"
@@ -62,7 +62,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "nailrifle",
         "files" : [
             "guns/nail/nailgun_1.ogg",
@@ -82,7 +82,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "nailrifle",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",

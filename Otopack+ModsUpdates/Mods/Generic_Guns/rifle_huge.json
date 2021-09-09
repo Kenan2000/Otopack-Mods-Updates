@@ -2,7 +2,7 @@
    {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "rifle_huge_amr",
         "files" : [
             "guns/50/50_1.ogg",
@@ -24,7 +24,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "rifle_huge_amr",
         "files" : [
             "guns/reload/rifle_h/rifle_1.ogg",
@@ -37,7 +37,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "rifle_huge_double",
         "files" : [
             "guns/700nx/700nx_1.ogg",
@@ -59,7 +59,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "rifle_huge_double",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -72,7 +72,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "rifle_huge_hmg",
         "files" : [
             "guns/50/50_1.ogg",
@@ -94,7 +94,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "rifle_huge_hmg",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",

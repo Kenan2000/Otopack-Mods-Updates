@@ -2,7 +2,7 @@
   {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "hybridbow",
         "files" : [
             "guns/archery/archery_1.ogg",

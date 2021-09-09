@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "needlegun",
         "files" : [
             "guns/5x50/5x50_1.ogg",
@@ -30,7 +30,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "needlegun",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -43,7 +43,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "needlepistol",
         "files" : [
             "guns/5x50/5x50_1.ogg",
@@ -69,7 +69,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "needlepistol",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",

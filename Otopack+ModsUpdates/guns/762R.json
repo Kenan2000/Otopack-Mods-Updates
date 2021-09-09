@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "mosin44",
         "files" : [
             "guns/762R/762R_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "mosin44",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -41,7 +41,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "mosin44_ebr",
         "files" : [
             "guns/762R/762R_1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "mosin44_ebr",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -80,7 +80,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "mosin91_30",
         "files" : [
             "guns/762R/762R_1.ogg",
@@ -106,7 +106,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "mosin91_30",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -119,7 +119,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "mosin91_30_ebr",
         "files" : [
             "guns/762R/762R_1.ogg",
@@ -145,7 +145,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "mosin91_30_ebr",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",

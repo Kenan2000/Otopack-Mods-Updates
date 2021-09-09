@@ -24,7 +24,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nmlaspistol",
         "files" : [
             "Mods/Nimian-Manufacture/batterygun_reload.ogg"
@@ -55,7 +55,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nmteslacoil",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -65,7 +65,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nmteslacoil",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -75,7 +75,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nmteslacoilmk2",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -85,7 +85,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nmteslacoilmk2",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -95,7 +95,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "nmlasrifle",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -117,7 +117,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nmlasrifle",
         "files" : [
             "Mods/Nimian-Manufacture/batterygun_reload.ogg"
@@ -126,7 +126,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "nmhvlasrifle",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -148,7 +148,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "nmhvlasrifle",
         "files" : [
             "Mods/Nimian-Manufacture/batterygun_reload.ogg"

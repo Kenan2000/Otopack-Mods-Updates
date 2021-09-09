@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "bond_410",
         "files" : [
             "guns/45/45_1.ogg",
@@ -34,7 +34,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "bond_410",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -47,7 +47,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "colt_lightning",
         "files" : [
             "guns/45/45_1.ogg",
@@ -79,7 +79,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "colt_lightning",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -92,7 +92,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "colt_saa",
         "files" : [
             "guns/45/45_1.ogg",
@@ -124,7 +124,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "colt_saa",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",

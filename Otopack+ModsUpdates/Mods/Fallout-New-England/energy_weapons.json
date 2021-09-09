@@ -126,7 +126,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "wattz_2000",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -148,7 +148,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "aer9",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -179,7 +179,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "aer9_tribeam",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -210,7 +210,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "aer14_prototype",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -241,7 +241,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "laser_rcw",
         "files" : [
             "guns/eweapons/gatling_mech_laser_1.ogg",
@@ -267,7 +267,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "p94_rifle",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -276,7 +276,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "p94_rifle",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -285,7 +285,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "p94_rifle",
         "files" : [
             "guns/reload/eweapons/plasma_rifle.ogg"
@@ -294,7 +294,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "musket_laser",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -316,7 +316,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "zetan_rifle",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -325,7 +325,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "zetan_rifle",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -334,7 +334,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "zetan_rifle",
         "files" : [
             "guns/reload/eweapons/plasma_rifle.ogg"
@@ -467,7 +467,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "zetan_cannon",
         "files" : [
             "guns/eweapons/laser_cannon.ogg"
@@ -476,7 +476,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "zetan_cannon",
         "files" : [
             "guns/eweapons/laser_cannon.ogg"
@@ -485,7 +485,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "zetan_cannon",
         "files" : [
             "guns/reload/eweapons/plasma_rifle.ogg"

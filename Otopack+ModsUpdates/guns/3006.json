@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "browning_blr",
         "files" : [
             "guns/3006/3006_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "browning_blr",
         "files" : [
             "guns/reload/bullpup/bullpup_1.ogg",
@@ -41,7 +41,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "garand",
         "files" : [
             "guns/3006/3006_1.ogg",
@@ -67,7 +67,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "garand",
         "files" : [
             "guns/reload/others/garand.ogg"
@@ -76,7 +76,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "m1918",
         "files" : [
             "guns/3006/3006_1.ogg",
@@ -102,7 +102,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "m1918",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -115,7 +115,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "m1903",
         "files" : [
             "guns/3006/3006_1.ogg",
@@ -141,7 +141,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "m1903",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -154,7 +154,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "remington_700",
         "files" : [
             "guns/3006/3006_1.ogg",
@@ -180,7 +180,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "remington_700",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -193,7 +193,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "rifle_3006",
         "files" : [
             "guns/3006/3006_1.ogg",
@@ -219,7 +219,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "rifle_3006",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -232,7 +232,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "survivor_special_700",
         "files" : [
             "guns/3006/3006_1.ogg",
@@ -258,7 +258,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 90,
         "variant" : "survivor_special_700",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",

@@ -30,7 +30,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "WEATHER_FLURRIES",
-        "volume" :  25,
+        "volume" : 45,
         "files" : [
             "env/ambience_and_weather/flurries.ogg"
         ]
@@ -39,7 +39,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "WEATHER_RAINY",
-        "volume" :  35,
+        "volume" : 45,
         "files" : [
             "env/ambience_and_weather/rain.ogg"
         ]
@@ -48,7 +48,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "indoors_rain",
-        "volume" : 40,
+        "volume" : 50,
         "files" : [
             "env/ambience_and_weather/indoors_rain.ogg"
         ]
@@ -57,7 +57,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "WEATHER_SNOW",
-        "volume" :  40,
+        "volume" : 45,
         "files" : [
             "env/ambience_and_weather/snow.ogg"
         ]
@@ -75,7 +75,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "WEATHER_THUNDER",
-        "volume" :  40,
+        "volume" : 45,
         "files" : [
             "env/ambience_and_weather/thunderstorm.ogg"
         ]
@@ -84,7 +84,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "WEATHER_DRIZZLE",
-        "volume" : 25,
+        "volume" : 45,
         "files" : [
             "env/ambience_and_weather/drizzle.ogg"
         ]
@@ -93,7 +93,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "daytime",
-        "volume" : 35,
+        "volume" : 50,
         "files" : [
             "env/ambience_and_weather/daytime.ogg"
         ]
@@ -102,7 +102,7 @@
         "type": "sound_effect",
         "id" : "environment",
         "variant" : "nighttime",
-        "volume" : 40,
+        "volume" : 50,
         "files" : [
             "env/ambience_and_weather/nighttime.ogg"
         ]

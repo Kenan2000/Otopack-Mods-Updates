@@ -1,370 +1,99 @@
 [
-       {
-        "type": "playlist",
-        "playlists":
-        [
-        {
-            "id" : "title",
-            "shuffle" : true,
-            "files" : [
-                {
-                    "file": "music/Blooming_Romance.ogg",
-                    "volume": 80
-                },
-				{
-                    "file": "music/Fairytale.ogg",
-                    "volume": 80
-                },
-                {
-                    "file": "music/Goodbye.ogg",
-                    "volume": 50
-                },
-                {
-                    "file": "music/Homesickness.ogg",
-                    "volume": 70
-                },
-				{
-                    "file": "music/Hope.ogg",
-                    "volume": 80
-                },
-				{
-                    "file": "music/Life.ogg",
-                    "volume": 80
-                },
-                {
-                    "file": "music/Lost_In_Time.ogg",
-                    "volume": 80
-                },
-                {
-                    "file": "music/Memories.ogg",
-                    "volume": 50
-                },
-				{
-                    "file": "music/Night_Song.ogg",
-                    "volume": 50
-                },
-                {
-                    "file": "music/November.ogg",
-                    "volume": 70
-                },
-				{
-                    "file": "music/Save_Me.ogg",
-                    "volume": 80
-                },
-                {
-                    "file": "music/See_You_Again.ogg",
-                    "volume": 70
-                },
-				{
-                    "file": "music/Solitude.ogg",
-                    "volume": 50
-                },
-                {
-                    "file": "music/Solitude.ogg",
-                    "volume": 50
-                },
-                {
-                    "file": "music/Walk_In_The_Rain.ogg",
-                    "volume": 70
-                },
-				{
-                    "file": "music/Willing_To_Love.ogg",
-                    "volume": 50
-                },
-				{
-                    "file": "music/i_did_it_for_you.ogg",
-                    "volume": 60
-                },
-				{
-                    "file": "music/i_pray_for_it.ogg",
-                    "volume": 30
-                },
-                {
-                    "file": "music/bathwater_submerged_mix.ogg",
-                    "volume": 40
-                },
-                {
-                    "file": "music/blurred_photo_of_a_woman.ogg",
-                    "volume": 30
-                },
-				{
-                    "file": "music/its_above_me_now.ogg",
-                    "volume": 30
-                },
-                {
-                    "file": "music/raindetect.ogg",
-                    "volume": 80
-                },
-                {
-                    "file": "music/toxin.ogg",
-                    "volume": 50
-                },
-				{
-                    "file": "music/never_touched_her.ogg",
-                    "volume": 30
-                },
-                {
-                    "file": "music/HR2977.ogg",
-                    "volume": 50
-                },
-				{
-                    "file": "music/nobody_can_hear_you.ogg",
-                    "volume": 60
-                },
-                {
-                    "file": "music/they_wont_notice.ogg",
-                    "volume": 70
-                },
-                {
-                    "file": "music/honeytea.ogg",
-                    "volume": 30
-                },
-                {
-                    "file": "music/a_common_atrocity.ogg",
-                    "volume": 60
-                },
-				{
-                    "file": "music/im_in_a_blanket.ogg",
-                    "volume": 30
-                },
-				{
-                    "file": "music/angelspit_fearmonger.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/AV_Lightinthedark.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/carpenterbrut_bloodmachines.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/carpenterbrut_turbokiller",
-                    "volume": 20
-                },
-                {
-                    "file": "music/chewbubblegumkickass.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/crthead_ttp.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/dd_instrumentsofretribution.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/deepred.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/dwtd_andromeda.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/dwtd_eyesofmadness.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/dwtd_stitch.ogg",
-                    "volume": 25
-                },
-                {
-                    "file": "music/encounter_behemothiv.ogg",
-                    "volume": 25
-                },
-				{
-                    "file": "music/ff_midnighthaze.ogg",
-                    "volume": 20
-                },
-				{
-                    "file": "music/gw_coldwar_ncrlr.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/hangemall.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/kp_nightritual-redherring.ogg",
-                    "volume": 20
-                },
-				{
-                    "file": "music/kp_resolution.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/LAZERPUNK_POWER.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/NN_exhdivnity.ogg",
-                    "volume": 20
-                },
-				{
-                    "file": "music/raydar_fullmoon.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/raydar_satan.ogg",
-                    "volume": 20
-                },
-				{
-                    "file": "music/raydar_thegathering.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/rollermobster.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/tn_rasengan.ogg",
-                    "volume": 20
-                },
-                {
-                    "file": "music/tonebox_implosion.ogg",
-                    "volume": 20
-                },
-				{
-                    "file": "music/toxxify_eternalsacrifice.ogg",
-                    "volume": 20
-                },
-				{
-                    "file": "music/azathoth_cryochamber1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/azathoth_cryochamber2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/azathoth_cryochamber3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/azathoth_cryochamber4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/azathoth_cryochamber5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/azathoth_cryochamber6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochamber7.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/hastur_cryochamber7.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yogsothoth_cryochamber6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo1.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo2.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo3.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo4.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo5.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo6.ogg",
-                    "volume": 75
-                },
-				{
-                    "file": "music/yig_cryochambertwo7.ogg",
-                    "volume": 75
-                }
-            ]
-        }
+  {
+    "type": "playlist",
+    "playlists": [
+      {
+        "id": "title",
+        "shuffle": true,
+        "files": [
+          { "file": "music/Blooming_Romance.ogg", "volume": 80 },
+          { "file": "music/Fairytale.ogg", "volume": 80 },
+          { "file": "music/Goodbye.ogg", "volume": 50 },
+          { "file": "music/Homesickness.ogg", "volume": 70 },
+          { "file": "music/Hope.ogg", "volume": 80 },
+          { "file": "music/Life.ogg", "volume": 80 },
+          { "file": "music/Lost_In_Time.ogg", "volume": 80 },
+          { "file": "music/Memories.ogg", "volume": 50 },
+          { "file": "music/Night_Song.ogg", "volume": 50 },
+          { "file": "music/November.ogg", "volume": 70 },
+          { "file": "music/Save_Me.ogg", "volume": 80 },
+          { "file": "music/See_You_Again.ogg", "volume": 70 },
+          { "file": "music/Solitude.ogg", "volume": 50 },
+          { "file": "music/Walk_In_The_Rain.ogg", "volume": 70 },
+          { "file": "music/Willing_To_Love.ogg", "volume": 50 },
+          { "file": "music/i_did_it_for_you.ogg", "volume": 60 },
+          { "file": "music/i_pray_for_it.ogg", "volume": 30 },
+          { "file": "music/bathwater_submerged_mix.ogg", "volume": 40 },
+          { "file": "music/blurred_photo_of_a_woman.ogg", "volume": 30 },
+          { "file": "music/its_above_me_now.ogg", "volume": 30 },
+          { "file": "music/raindetect.ogg", "volume": 80 },
+          { "file": "music/toxin.ogg", "volume": 50 },
+          { "file": "music/HR2977.ogg", "volume": 50 },
+          { "file": "music/nobody_can_hear_you.ogg", "volume": 60 },
+          { "file": "music/they_wont_notice.ogg", "volume": 70 },
+          { "file": "music/honeytea.ogg", "volume": 30 },
+          { "file": "music/a_common_atrocity.ogg", "volume": 60 },
+          { "file": "music/im_in_a_blanket.ogg", "volume": 30 },
+          { "file": "music/angelspit_fearmonger.ogg", "volume": 20 },
+          { "file": "music/AV_Lightinthedark.ogg", "volume": 20 },
+          { "file": "music/carpenterbrut_bloodmachines.ogg", "volume": 20 },
+          { "file": "music/carpenterbrut_turbokiller", "volume": 20 },
+          { "file": "music/chewbubblegumkickass.ogg", "volume": 20 },
+          { "file": "music/crthead_ttp.ogg", "volume": 20 },
+          { "file": "music/dd_instrumentsofretribution.ogg", "volume": 20 },
+          { "file": "music/deepred.ogg", "volume": 20 },
+          { "file": "music/dwtd_andromeda.ogg", "volume": 20 },
+          { "file": "music/dwtd_eyesofmadness.ogg", "volume": 20 },
+          { "file": "music/dwtd_stitch.ogg", "volume": 25 },
+          { "file": "music/encounter_behemothiv.ogg", "volume": 25 },
+          { "file": "music/ff_midnighthaze.ogg", "volume": 20 },
+          { "file": "music/gw_coldwar_ncrlr.ogg", "volume": 20 },
+          { "file": "music/hangemall.ogg", "volume": 20 },
+          { "file": "music/kp_nightritual-redherring.ogg", "volume": 20 },
+          { "file": "music/kp_resolution.ogg", "volume": 20 },
+          { "file": "music/LAZERPUNK_POWER.ogg", "volume": 20 },
+          { "file": "music/NN_exhdivnity.ogg", "volume": 20 },
+          { "file": "music/raydar_fullmoon.ogg", "volume": 20 },
+          { "file": "music/raydar_satan.ogg", "volume": 20 },
+          { "file": "music/raydar_thegathering.ogg", "volume": 20 },
+          { "file": "music/rollermobster.ogg", "volume": 20 },
+          { "file": "music/tn_rasengan.ogg", "volume": 20 },
+          { "file": "music/tonebox_implosion.ogg", "volume": 20 },
+          { "file": "music/toxxify_eternalsacrifice.ogg", "volume": 20 },
+          { "file": "music/azathoth_cryochamber1.ogg", "volume": 75 },
+          { "file": "music/azathoth_cryochamber2.ogg", "volume": 75 },
+          { "file": "music/azathoth_cryochamber3.ogg", "volume": 75 },
+          { "file": "music/azathoth_cryochamber4.ogg", "volume": 75 },
+          { "file": "music/azathoth_cryochamber5.ogg", "volume": 75 },
+          { "file": "music/azathoth_cryochamber6.ogg", "volume": 75 },
+          { "file": "music/yig_cryochamber1.ogg", "volume": 75 },
+          { "file": "music/yig_cryochamber2.ogg", "volume": 75 },
+          { "file": "music/yig_cryochamber3.ogg", "volume": 75 },
+          { "file": "music/yig_cryochamber4.ogg", "volume": 75 },
+          { "file": "music/yig_cryochamber5.ogg", "volume": 75 },
+          { "file": "music/yig_cryochamber6.ogg", "volume": 75 },
+          { "file": "music/yig_cryochamber7.ogg", "volume": 75 },
+          { "file": "music/hastur_cryochamber1.ogg", "volume": 75 },
+          { "file": "music/hastur_cryochamber2.ogg", "volume": 75 },
+          { "file": "music/hastur_cryochamber3.ogg", "volume": 75 },
+          { "file": "music/hastur_cryochamber4.ogg", "volume": 75 },
+          { "file": "music/hastur_cryochamber5.ogg", "volume": 75 },
+          { "file": "music/hastur_cryochamber6.ogg", "volume": 75 },
+          { "file": "music/hastur_cryochamber7.ogg", "volume": 75 },
+          { "file": "music/yogsothoth_cryochamber1.ogg", "volume": 75 },
+          { "file": "music/yogsothoth_cryochamber2.ogg", "volume": 75 },
+          { "file": "music/yogsothoth_cryochamber3.ogg", "volume": 75 },
+          { "file": "music/yogsothoth_cryochamber4.ogg", "volume": 75 },
+          { "file": "music/yogsothoth_cryochamber5.ogg", "volume": 75 },
+          { "file": "music/yogsothoth_cryochamber6.ogg", "volume": 75 },
+          { "file": "music/yig_cryochambertwo1.ogg", "volume": 75 },
+          { "file": "music/yig_cryochambertwo2.ogg", "volume": 75 },
+          { "file": "music/yig_cryochambertwo3.ogg", "volume": 75 },
+          { "file": "music/yig_cryochambertwo4.ogg", "volume": 75 },
+          { "file": "music/yig_cryochambertwo5.ogg", "volume": 75 },
+          { "file": "music/yig_cryochambertwo6.ogg", "volume": 75 }
+        ]
+      }
     ]
-}
+  }
 ]

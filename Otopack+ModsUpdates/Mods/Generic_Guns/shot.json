@@ -2,7 +2,7 @@
    {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "shot_double",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "shot_double",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -41,7 +41,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "shot_pipe_double",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "shot_pipe_double",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -80,7 +80,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "shot_pump",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -106,7 +106,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "shot_pump",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -119,7 +119,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 100,
         "variant" : "shot_tactical",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -145,7 +145,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 70,
+        "volume" : 90,
         "variant" : "shot_tactical",
         "files" : [
             "guns/reload/shotgun/autoreload1.ogg",
