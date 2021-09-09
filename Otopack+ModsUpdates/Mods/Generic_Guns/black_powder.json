@@ -2,7 +2,7 @@
    {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "black_powder_pistol",
         "files" : [
             "guns/flintlock/pistol_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "black_powder_pistol",
         "files" : [
             "guns/reload/others/flintlock.ogg"
@@ -37,7 +37,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "black_powder_revolver",
         "files" : [
             "guns/44/44_1.ogg",
@@ -57,7 +57,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "black_powder_revolver",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -70,7 +70,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "black_powder_rifle",
         "files" : [
             "guns/flintlock/flintlock_1.ogg",
@@ -96,7 +96,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "black_powder_rifle",
         "files" : [
             "guns/reload/others/flintlock.ogg"

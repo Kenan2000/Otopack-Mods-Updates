@@ -2,7 +2,7 @@
   {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "ppsh",
         "files" : [
             "guns/762x25/762x25_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "ppsh",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -41,7 +41,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "tokarev",
         "files" : [
             "guns/762x25/762x25_1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "tokarev",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",

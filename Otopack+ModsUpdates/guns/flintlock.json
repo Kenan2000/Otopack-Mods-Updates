@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "carbine_flintlock",
         "files" : [
             "guns/flintlock/flintlock_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "carbine_flintlock",
         "files" : [
             "guns/reload/others/flintlock.ogg"
@@ -37,7 +37,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "carbine_flintlock_double",
         "files" : [
             "guns/flintlock/flintlock_1.ogg",
@@ -63,7 +63,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "carbine_flintlock_double",
         "files" : [
             "guns/reload/others/flintlock.ogg"
@@ -72,7 +72,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "pistol_flintlock",
         "files" : [
             "guns/flintlock/pistol_1.ogg",
@@ -98,7 +98,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "pistol_flintlock",
         "files" : [
             "guns/reload/others/flintlock.ogg"
@@ -107,7 +107,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "rifle_flintlock",
         "files" : [
             "guns/flintlock/flintlock_1.ogg",
@@ -133,7 +133,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "rifle_flintlock",
         "files" : [
             "guns/reload/others/flintlock.ogg"

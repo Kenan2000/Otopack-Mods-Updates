@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "deagle_44",
         "files" : [
             "guns/44/44_1.ogg",
@@ -22,7 +22,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "deagle_44",
         "files" : [
             "guns/reload/pistol_h/pistol_1.ogg",
@@ -35,7 +35,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "henry_big_boy",
         "files" : [
             "guns/44/44_1.ogg",
@@ -55,7 +55,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "henry_big_boy",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -68,7 +68,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "ruger_redhawk",
         "files" : [
             "guns/44/44_1.ogg",
@@ -88,7 +88,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "ruger_redhawk",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -101,7 +101,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "sw629",
         "files" : [
             "guns/44/44_1.ogg",
@@ -121,7 +121,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "sw629",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -134,7 +134,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "rifle_44",
         "files" : [
             "guns/44/44_1.ogg",
@@ -154,7 +154,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "rifle_44",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",

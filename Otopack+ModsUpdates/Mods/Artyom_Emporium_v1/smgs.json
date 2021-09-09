@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "tec22_b",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "tec22_b",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -80,7 +80,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "bm32",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -106,7 +106,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "bm32",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -119,7 +119,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "bm32/38",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -145,7 +145,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "bm32/38",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -158,7 +158,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "scrop_evo",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -184,7 +184,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "scrop_evo",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -197,7 +197,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "homebrew_smg",
         "files" : [
             "guns/223/223_1.ogg",
@@ -233,7 +233,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "homebrew_smg",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
@@ -246,7 +246,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "ppsh_clone",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -272,7 +272,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "ppsh_clone",
         "files" : [
             "guns/reload/smg/smg_1.ogg",

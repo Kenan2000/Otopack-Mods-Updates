@@ -48,7 +48,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "clear_obstacle",
-        "volume" : 45,
+        "volume" : 20,
         "files" : [
             "player/walk/clear_obstacle1.ogg",
             "player/walk/clear_obstacle2.ogg",
@@ -147,7 +147,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_m_high",
-        "volume" : 30,
+        "volume" : 25,
         "files" : [
             "player/fatigue_m/fatigue_high.ogg"
         ]
@@ -156,7 +156,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_m_med",
-        "volume" : 30,
+        "volume" : 25,
         "files" : [
             "player/fatigue_m/fatigue_med.ogg"
         ]
@@ -165,7 +165,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_m_low",
-        "volume" : 30,
+        "volume" : 25,
         "files" : [
             "player/fatigue_m/fatigue_low.ogg"
         ]
@@ -174,7 +174,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_f_high",
-        "volume" : 30,
+        "volume" : 25,
         "files" : [
             "player/fatigue_f/fatigue_high.ogg"
         ]
@@ -183,7 +183,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_f_med",
-        "volume" : 30,
+        "volume" : 25,
         "files" : [
             "player/fatigue_f/fatigue_med.ogg"
         ]
@@ -192,7 +192,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_f_low",
-        "volume" : 30,
+        "volume" : 25,
         "files" : [
             "player/fatigue_f/fatigue_low.ogg"
         ]
@@ -201,7 +201,7 @@
         "type": "sound_effect",
         "id" : "clean_up_at_end",
         "variant" : "death_m",
-        "volume" : 60,
+        "volume" : 40,
         "files" : [
             "player/death_m/death_1.ogg",
             "player/death_m/death_2.ogg",
@@ -214,7 +214,7 @@
         "type": "sound_effect",
         "id" : "clean_up_at_end",
         "variant" : "death_f",
-        "volume" : 60,
+        "volume" : 40,
         "files" : [
             "player/death_f/death_1.ogg",
             "player/death_f/death_2.ogg",
@@ -227,7 +227,7 @@
         "type": "sound_effect",
         "id" : "deal_damage",
         "variant" : "hurt_f",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "player/hurt_f/hurt_1.ogg",
             "player/hurt_f/hurt_2.ogg",
@@ -241,7 +241,7 @@
         "type": "sound_effect",
         "id" : "deal_damage",
         "variant" : "hurt_m",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "player/hurt_m/hurt_1.ogg",
             "player/hurt_m/hurt_2.ogg",
@@ -255,7 +255,7 @@
         "type": "sound_effect",
         "id" : "player_laugh",
         "variant" : "laugh_f",
-        "volume" : 70,
+        "volume" : 50,
         "files" : [
             "player/other/laugh_f.ogg"
         ]
@@ -264,7 +264,7 @@
         "type": "sound_effect",
         "id" : "player_laugh",
         "variant" : "laugh_m",
-        "volume" : 70,
+        "volume" : 50,
         "files" : [
             "player/other/laugh_m.ogg"
         ]
@@ -273,7 +273,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "cough",
-        "volume" : 70,
+        "volume" : 50,
         "files" : [
             "player/other/coughing_1.ogg",
 			"player/other/coughing_2.ogg",
@@ -284,7 +284,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "elec_discharge",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/elec_discharge.ogg"
         ]
@@ -293,7 +293,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "acid_discharge",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/acid_discharge.ogg"
         ]
@@ -302,7 +302,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "elec_crackle_low",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/elec_crackle_low.ogg"
         ]
@@ -311,7 +311,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "elec_blast",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/elec_blast.ogg"
         ]
@@ -320,7 +320,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "elec_blast_muffled",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/elec_blast_muffled.ogg"
         ]
@@ -329,7 +329,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "pixelated",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/pixelated.ogg"
         ]
@@ -338,7 +338,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "elec_crackle_high",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -348,7 +348,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "bio_hydraulics",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/bio_hydraulics.ogg"
         ]
@@ -357,7 +357,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "bio_resonator",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/bio_resonator.ogg"
         ]
@@ -366,7 +366,7 @@
         "type": "sound_effect",
         "id" : "bionics",
         "variant" : "elec_crackle_med",
-        "volume" : 50,
+        "volume" : 40,
         "files" : [
             "bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg"

@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "acr_300blk",
         "files" : [
             "guns/300/300_1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "acr_300blk",
         "files" : [
             "guns/reload/rifle_m/rifle_1.ogg",
@@ -41,7 +41,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "iwi_tavor_x95_300blk",
         "files" : [
             "guns/300/300_1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "iwi_tavor_x95_300blk",
         "files" : [
             "guns/reload/bullpup/bullpup_1.ogg",
@@ -80,7 +80,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "ar15_retool_300blk",
         "files" : [
             "guns/300/300_1.ogg",
@@ -106,7 +106,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "ar15_retool_300blk",
         "files" : [
             "guns/reload/rifle_m/rifle_1.ogg",

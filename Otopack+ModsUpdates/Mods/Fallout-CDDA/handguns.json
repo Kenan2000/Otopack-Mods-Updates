@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "colt6250",
         "files" : [
             "guns/40/40_1.ogg",
@@ -26,7 +26,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "colt6250",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -39,7 +39,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "colt6250_weathered",
         "files" : [
             "guns/40/40_1.ogg",
@@ -63,7 +63,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "colt6250_weathered",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -76,7 +76,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "mauser_9mm",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -102,7 +102,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "mauser_9mm",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -115,7 +115,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "14mmpistol",
         "files" : [
             "guns/40/40_1.ogg",
@@ -139,7 +139,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "22_pistol",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -152,7 +152,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "22_pistol",
         "files" : [
             "guns/22/22_1.ogg",
@@ -178,7 +178,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "22_pistol",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -191,7 +191,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "belt_gun",
         "files" : [
             "guns/22/22_1.ogg",
@@ -217,7 +217,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "belt_gun",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",

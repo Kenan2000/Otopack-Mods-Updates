@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m203",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -26,7 +26,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m203",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -39,7 +39,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "launcher_simple",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -63,7 +63,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "launcher_simple",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -76,7 +76,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "pipe_launcher40mm",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -100,7 +100,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "pipe_launcher40mm",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -113,7 +113,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m320",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -137,7 +137,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m320",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -150,7 +150,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m320_mod",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -174,7 +174,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m320_mod",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -187,7 +187,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m79",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -211,7 +211,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m79",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -224,7 +224,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "mark19",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -248,7 +248,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "mark19",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -261,7 +261,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "mgl",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -285,7 +285,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "mgl",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -298,7 +298,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "rm802",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -322,7 +322,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "rm802",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -335,7 +335,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "triple_launcher_simple",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -359,7 +359,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "triple_launcher_simple",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",
@@ -372,7 +372,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "pseudo_m203",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -396,7 +396,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "pseudo_m203",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",

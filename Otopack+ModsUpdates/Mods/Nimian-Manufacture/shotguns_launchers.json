@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "nmshotpistol",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -28,7 +28,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "nmshotpistol",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -41,7 +41,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "nmlightshotgun",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -67,7 +67,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "nmlightshotgun",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -80,7 +80,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "nmheavyshotgun",
         "files" : [
             "guns/20x66mm/20x66mm_1.ogg",
@@ -104,7 +104,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "nmheavyshotgun",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
@@ -117,7 +117,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "nm32mmlauncher",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -141,7 +141,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "nm32mmlauncher",
         "files" : [
             "guns/reload/launcher/launcher_1.ogg",

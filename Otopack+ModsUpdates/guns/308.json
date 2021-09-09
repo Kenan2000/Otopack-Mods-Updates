@@ -2,7 +2,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "fn_fal",
         "files" : [
             "guns/308/308_1.ogg",
@@ -38,7 +38,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "fn_fal",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -51,7 +51,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "hk_g3",
         "files" : [
             "guns/308/308_1.ogg",
@@ -87,7 +87,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "hk_g3",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -100,7 +100,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m134",
         "files" : [
             "guns/308/308_1.ogg",
@@ -136,7 +136,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m134",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -149,7 +149,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m14ebr",
         "files" : [
             "guns/308/308_1.ogg",
@@ -185,7 +185,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m14ebr",
         "files" : [
             "guns/reload/rifle_h/rifle_1.ogg",
@@ -198,7 +198,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m1a",
         "files" : [
             "guns/308/308_1.ogg",
@@ -234,7 +234,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m1a",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -247,7 +247,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m60",
         "files" : [
             "guns/308/308_1.ogg",
@@ -283,7 +283,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m60",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -296,7 +296,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m240",
         "files" : [
             "guns/308/308_1.ogg",
@@ -332,7 +332,7 @@
 	{
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m240",
         "files" : [
             "guns/reload/mg/mgk_1.ogg",
@@ -345,7 +345,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "rifle_308",
         "files" : [
             "guns/308/308_1.ogg",
@@ -381,7 +381,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "rifle_308",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -394,7 +394,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "savage_111f",
         "files" : [
             "guns/308/308_1.ogg",
@@ -430,7 +430,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "savage_111f",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -443,7 +443,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "scar_h",
         "files" : [
             "guns/308/308_1.ogg",
@@ -479,7 +479,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "scar_h",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -492,7 +492,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "M24",
         "files" : [
             "guns/308/308_1.ogg",
@@ -528,7 +528,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "M24",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -541,7 +541,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "hk417_13",
         "files" : [
             "guns/308/308_1.ogg",
@@ -577,7 +577,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "hk417_13",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -590,7 +590,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "m110a1",
         "files" : [
             "guns/308/308_1.ogg",
@@ -626,7 +626,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "m110a1",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",
@@ -639,7 +639,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "ar10",
         "files" : [
             "guns/308/308_1.ogg",
@@ -675,7 +675,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "ar10",
         "files" : [
             "guns/reload/rifle/rifle_1.ogg",

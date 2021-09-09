@@ -2,7 +2,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_9mm",
         "files" : [
             "guns/9mm/9mm_1.ogg",
@@ -28,7 +28,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_shot",
         "files" : [
             "guns/00shot/00shot1.ogg",
@@ -54,7 +54,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_teargas",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -78,7 +78,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_beanbag",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -102,7 +102,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_556",
         "files" : [
             "guns/223/223_1.ogg",
@@ -138,7 +138,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_308",
         "files" : [
             "guns/308/308_1.ogg",
@@ -174,7 +174,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_50bmg",
         "files" : [
             "guns/50/50_1.ogg",
@@ -196,7 +196,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_40mm",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -220,7 +220,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_needle",
         "files" : [
             "guns/5x50/5x50_1.ogg",
@@ -248,7 +248,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_8x40mm",
         "files" : [
             "guns/8x40/8x40_1.ogg",
@@ -282,7 +282,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_flame",
         "files" : [
             "guns/flammable/flammable_1.ogg",
@@ -302,7 +302,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_laser",
         "files" : [
             "guns/eweapons/laser_rifle_1.ogg",
@@ -324,7 +324,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "robogun_plasma",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -333,7 +333,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "robogun_plasma",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -342,7 +342,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_rail",
         "files" : [
             "guns/eweapons/heavy_rail_rifle_1.ogg",
@@ -364,7 +364,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "robogun_acid",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -373,7 +373,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "robogun_acid",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -382,7 +382,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "robogun_lightning",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -392,7 +392,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "robogun_lightning",
         "files" : [
             "guns/eweapons/bio_lightning_1.ogg",
@@ -402,7 +402,7 @@
 	 {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_emp",
         "files" : [
             "guns/eweapons/emp_gun_1.ogg",
@@ -422,7 +422,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_nail",
         "files" : [
             "guns/nail/nailgun_1.ogg",
@@ -442,7 +442,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 80,
+        "volume" : 60,
         "variant" : "robogun_crossbow",
         "files" : [
             "guns/crossbows/crossbows_1.ogg",
@@ -466,7 +466,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "robogun_paintball",
         "files" : [
             "guns/others/bbgun_1.ogg",
@@ -486,7 +486,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "robogun_blob",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"
@@ -495,7 +495,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 90,
+        "volume" : 70,
         "variant" : "robogun_blob",
         "files" : [
              "guns/eweapons/plasma_rifle.ogg"

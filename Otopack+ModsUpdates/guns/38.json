@@ -2,7 +2,7 @@
   {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "2_shot_special",
         "files" : [
             "guns/38/38_1.ogg",
@@ -26,7 +26,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "2_shot_special",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -39,7 +39,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "cop_38",
         "files" : [
             "guns/38/38_1.ogg",
@@ -63,7 +63,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "cop_38",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
@@ -76,7 +76,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "ruger_lcr_38",
         "files" : [
             "guns/38/38_1.ogg",
@@ -100,7 +100,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "ruger_lcr_38",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -113,7 +113,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "sw_619",
         "files" : [
             "guns/38/38_1.ogg",
@@ -137,7 +137,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "sw_619",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -150,7 +150,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "taurus_38",
         "files" : [
             "guns/38/38_1.ogg",
@@ -174,7 +174,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "taurus_38",
         "files" : [
             "guns/reload/pistol_l/pistol_1.ogg",
@@ -187,7 +187,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "model_10_revolver",
         "files" : [
             "guns/38/38_1.ogg",
@@ -211,7 +211,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "model_10_revolver",
         "files" : [
             "guns/reload/revolver/revolver_1.ogg",
@@ -224,7 +224,7 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 100,
+        "volume" : 75,
         "variant" : "rifle_38",
         "files" : [
             "guns/38/38_1.ogg",
@@ -248,7 +248,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 90,
+        "volume" : 75,
         "variant" : "rifle_38",
         "files" : [
             "guns/reload/rifle_s/rifle_1.ogg",
