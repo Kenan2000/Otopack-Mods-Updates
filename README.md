@@ -22,8 +22,8 @@ https://discourse.cataclysmdda.org/u/survival_man/summary
 
 ## Link to legendary tileset by SomeDeadGuy
 
-**UDP** tileset by **SDG** - https://github.com/SomeDeadGuy/UndeadPeopleTileset
+**UDP** tileset by **SDG**, while **Theawesomeboophis** is it's current maintainer - https://github.com/Theawesomeboophis/UndeadPeopleTileset 
 
 ## Link to my CDDA modding server
 
-**https://discord.com/invite/xj9E3Sp**
+**https://discord.gg/JT8838mWQn**
