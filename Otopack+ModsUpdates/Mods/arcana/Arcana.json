@@ -84,6 +84,60 @@
     "type": "sound_effect",
     "id": "fire_gun",
     "volume": 50,
+    "variant": "ethereal_hand_crossbow",
+    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 20,
+    "variant": "ethereal_hand_crossbow",
+    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "volume": 50,
+    "variant": "ethereal_hand_crossbow",
+    "files": [
+      "Mods/Arcana/essence_1.ogg",
+      "Mods/Arcana/essence_2.ogg",
+      "Mods/Arcana/essence_3.ogg",
+      "Mods/Arcana/essence_4.ogg",
+      "Mods/Arcana/essence_5.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 50,
+    "variant": "ethereal_huge_crossbow",
+    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 20,
+    "variant": "ethereal_huge_crossbow",
+    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "volume": 50,
+    "variant": "ethereal_huge_crossbow",
+    "files": [
+      "Mods/Arcana/essence_1.ogg",
+      "Mods/Arcana/essence_2.ogg",
+      "Mods/Arcana/essence_3.ogg",
+      "Mods/Arcana/essence_4.ogg",
+      "Mods/Arcana/essence_5.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 50,
     "variant": "hand_of_armok",
     "files": [ "Mods/Arcana/hand_of_armok.ogg" ]
   },

@@ -285,17 +285,6 @@
 			"guns/eweapons/gatling_mech_laser_5.ogg"
         ]
     },
-    {
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 75,
-        "variant" : "l30",
-        "files" : [
-            "guns/eweapons/recon_mech_laser_1.ogg",
-			"guns/eweapons/recon_mech_laser_2.ogg",
-			"guns/eweapons/recon_mech_laser_3.ogg"
-        ]
-    },
 	{
         "type": "sound_effect",
         "id" : "fire_gun",

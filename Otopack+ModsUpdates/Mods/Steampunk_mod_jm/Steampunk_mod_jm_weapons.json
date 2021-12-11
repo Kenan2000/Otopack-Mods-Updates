@@ -1,0 +1,334 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "long_range_pistol",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "long_range_pistol",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "long_range_pistol",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "highvel_pistol",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "highvel_pistol",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "highvel_pistol",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "highbore_pistol",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "highbore_pistol",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "highbore_pistol",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "foch_warbringer",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "foch_warbringer",
+        "files" : [
+            "guns/flintlock/pistol_1.ogg",
+			"guns/flintlock/pistol_2.ogg",
+			"guns/flintlock/pistol_3.ogg",
+			"guns/flintlock/pistol_4.ogg",
+			"guns/flintlock/pistol_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "foch_warbringer",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "cranked_machinegun",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "cranked_machinegun",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "cranked_machinegun",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "am_riflecannon",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "am_riflecannon",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "am_riflecannon",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "sp_pyro_gun",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "sp_pyro_gun",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "sp_pyro_gun",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "paterson_mechgun",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "paterson_mechgun",
+        "files" : [
+            "guns/flintlock/flintlock_1.ogg",
+			"guns/flintlock/flintlock_2.ogg",
+			"guns/flintlock/flintlock_3.ogg",
+			"guns/flintlock/flintlock_4.ogg",
+			"guns/flintlock/flintlock_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "paterson_mechgun",
+        "files" : [
+            "guns/reload/others/flintlock.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 70,
+        "variant" : "sptesla_gun",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 70,
+        "variant" : "sptesla_gun",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 70,
+        "variant" : "spchar_gun",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 70,
+        "variant" : "spchar_gun",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    }
+]
