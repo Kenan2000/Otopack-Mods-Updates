@@ -281,6 +281,69 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
+        "variant" : "BL9_melting_sprayer",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_melting_sprayer",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "BL9_melting_sprayer",
+        "files" : [
+            "guns/reload/flammable/flammable_1.ogg",
+			"guns/reload/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_railgun",
+        "files" : [
+            "guns/eweapons/heavy_rail_rifle_1.ogg",
+			"guns/eweapons/heavy_rail_rifle_2.ogg",
+			"guns/eweapons/heavy_rail_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_railgun",
+        "files" : [
+            "guns/eweapons/heavy_rail_rifle_1.ogg",
+			"guns/eweapons/heavy_rail_rifle_2.ogg",
+			"guns/eweapons/heavy_rail_rifle_3.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "BL9_railgun",
+        "files" : [
+            "guns/reload/rail/rail_1.ogg",
+			"guns/reload/rail/rail_2.ogg",
+			"guns/reload/rail/rail_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
         "variant" : "BL9_launcher",
         "files" : [
             "guns/40mm/40mm_1.ogg",
@@ -384,6 +447,326 @@
         "files" : [
            "guns/crossbows/reload_1.ogg",
 		   "guns/crossbows/reload_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_blaster",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_blaster",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_blaster",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_plasma_blaster",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_blaster",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_blaster",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_blaster",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_blaster",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_caster",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_caster",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_caster",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 75,
+        "variant" : "BL9_plasma_caster",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_caster",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_caster",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_caster",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_caster",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_rifle",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_rifle",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_rifle",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_plasma_rifle",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_rifle",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_rifle",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_rifle",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_rifle",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_cannon",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_cannon",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_cannon",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 75,
+        "variant" : "BL9_plasma_cannon",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_cannon",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_cannon",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_cannon",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_cannon",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
         ]
     },
 	{
@@ -644,6 +1027,69 @@
         "variant" : "BL9_sprayer_mk2",
         "files" : [
             "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_melting_sprayer_mk2",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_melting_sprayer_mk2",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "BL9_melting_sprayer_mk2",
+        "files" : [
+            "guns/reload/flammable/flammable_1.ogg",
+			"guns/reload/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_railgun_mk2",
+        "files" : [
+            "guns/eweapons/heavy_rail_rifle_1.ogg",
+			"guns/eweapons/heavy_rail_rifle_2.ogg",
+			"guns/eweapons/heavy_rail_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_railgun_mk2",
+        "files" : [
+            "guns/eweapons/heavy_rail_rifle_1.ogg",
+			"guns/eweapons/heavy_rail_rifle_2.ogg",
+			"guns/eweapons/heavy_rail_rifle_3.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "BL9_railgun_mk2",
+        "files" : [
+            "guns/reload/rail/rail_1.ogg",
+			"guns/reload/rail/rail_2.ogg",
+			"guns/reload/rail/rail_3.ogg"
         ]
     },
 	{
@@ -768,6 +1214,326 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_blaster_mk2",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_blaster_mk2",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_blaster_mk2",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_plasma_blaster_mk2",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_blaster_mk2",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_blaster_mk2",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_blaster_mk2",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_blaster_mk2",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_caster_mk2",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_caster_mk2",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_caster_mk2",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 75,
+        "variant" : "BL9_plasma_caster_mk2",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_caster_mk2",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_caster_mk2",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_caster_mk2",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_caster_mk2",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_rifle_mk2",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_rifle_mk2",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_rifle_mk2",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_plasma_rifle_mk2",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_rifle_mk2",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_rifle_mk2",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_rifle_mk2",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_rifle_mk2",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_cannon_mk2",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_cannon_mk2",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_cannon_mk2",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 75,
+        "variant" : "BL9_plasma_cannon_mk2",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_cannon_mk2",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_cannon_mk2",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_cannon_mk2",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_cannon_mk2",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
         "volume" : 60,
         "variant" : "mongun_BL9_crossbow",
         "files" : [
@@ -842,6 +1608,422 @@
 			"guns/reload/mg/mgk_3.ogg",
 			"guns/reload/mg/mgk_4.ogg",
 			"guns/reload/mg/mgk_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mongun_BL9_argan",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "mongun_BL9_argan",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mongun_BL9_wanzel",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "mongun_BL9_wanzel",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mongun_BL9_davran",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "mongun_BL9_davran",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mongun_BL9_salden",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "mongun_BL9_salden",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_blaster_mk3",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_blaster_mk3",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_blaster_mk3",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_plasma_blaster_mk3",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_blaster_mk3",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_blaster_mk3",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_blaster_mk3",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_blaster_mk3",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_caster_mk3",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_caster_mk3",
+        "files" : [
+            "guns/eweapons/gatling_mech_laser_1.ogg",
+			"guns/eweapons/gatling_mech_laser_2.ogg",
+			"guns/eweapons/gatling_mech_laser_3.ogg",
+			"guns/eweapons/gatling_mech_laser_4.ogg",
+			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_caster_mk3",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 75,
+        "variant" : "BL9_plasma_caster_mk3",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_caster_mk3",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_caster_mk3",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_caster_mk3",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_caster_mk3",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_rifle_mk3",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_rifle_mk3",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_rifle_mk3",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_plasma_rifle_mk3",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_rifle_mk3",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_rifle_mk3",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_rifle_mk3",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_rifle_mk3",
+        "files" : [
+            "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_laser_cannon_mk3",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_laser_cannon_mk3",
+        "files" : [
+            "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_plasma_cannon_mk3",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 75,
+        "variant" : "BL9_plasma_cannon_mk3",
+        "files" : [
+             "guns/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_electric_cannon_mk3",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_electric_cannon_mk3",
+        "files" : [
+            "bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_acid_cannon_mk3",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_acid_cannon_mk3",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
         ]
     },
 	{
@@ -1102,6 +2284,69 @@
         "variant" : "BL9_sprayer_mk3",
         "files" : [
             "guns/others/chemical_thrower.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_melting_sprayer_mk3",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_melting_sprayer_mk3",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "BL9_melting_sprayer_mk3",
+        "files" : [
+            "guns/reload/flammable/flammable_1.ogg",
+			"guns/reload/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "BL9_railgun_mk3",
+        "files" : [
+            "guns/eweapons/heavy_rail_rifle_1.ogg",
+			"guns/eweapons/heavy_rail_rifle_2.ogg",
+			"guns/eweapons/heavy_rail_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "BL9_railgun_mk3",
+        "files" : [
+            "guns/eweapons/heavy_rail_rifle_1.ogg",
+			"guns/eweapons/heavy_rail_rifle_2.ogg",
+			"guns/eweapons/heavy_rail_rifle_3.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "BL9_railgun_mk3",
+        "files" : [
+            "guns/reload/rail/rail_1.ogg",
+			"guns/reload/rail/rail_2.ogg",
+			"guns/reload/rail/rail_3.ogg"
         ]
     },
 	{

@@ -1,0 +1,150 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "holorifle",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "holorifle",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "holorifle",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "gauss_rifle",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "gauss_rifle",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "gauss_rifle",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "sierra_laser_pistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "sierra_laser_pistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "sierra_laser_pistol",
+        "files" : [
+            "guns/reload/eweapons/plasma_rifle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "colt_trooper_357",
+        "files" : [
+            "guns/38/38_1.ogg",
+			"guns/38/38_2.ogg",
+			"guns/38/38_3.ogg",
+			"guns/38/38_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "colt_trooper_357",
+        "files" : [
+            "guns/38/38_1.ogg",
+			"guns/38/38_2.ogg",
+			"guns/38/38_3.ogg",
+			"guns/38/38_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "colt_trooper_357",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "holo_gun",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "holo_gun",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    }
+]

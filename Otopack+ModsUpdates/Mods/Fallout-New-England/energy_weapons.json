@@ -319,7 +319,8 @@
         "volume" : 70,
         "variant" : "zetan_rifle",
         "files" : [
-             "guns/eweapons/plasma_rifle.ogg"
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
         ]
     },
 	{
@@ -328,7 +329,8 @@
         "volume" : 70,
         "variant" : "zetan_rifle",
         "files" : [
-             "guns/eweapons/plasma_rifle.ogg"
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
         ]
     },
     {
@@ -470,7 +472,8 @@
         "volume" : 70,
         "variant" : "zetan_cannon",
         "files" : [
-            "guns/eweapons/laser_cannon.ogg"
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
         ]
     },
 	{
@@ -479,7 +482,8 @@
         "volume" : 70,
         "variant" : "zetan_cannon",
         "files" : [
-            "guns/eweapons/laser_cannon.ogg"
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
         ]
     },
     {

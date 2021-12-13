@@ -481,8 +481,10 @@
         "volume" : 70,
         "variant" : "SS_pershield",
         "files" : [
-            "guns/eweapons/bio_lightning_1.ogg",
-			"guns/eweapons/bio_lightning_2.ogg"
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
         ]
     },
 	{
@@ -491,8 +493,10 @@
         "volume" : 70,
         "variant" : "SS_pershield",
         "files" : [
-            "guns/eweapons/bio_lightning_1.ogg",
-			"guns/eweapons/bio_lightning_2.ogg"
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
         ]
     },
 	{
