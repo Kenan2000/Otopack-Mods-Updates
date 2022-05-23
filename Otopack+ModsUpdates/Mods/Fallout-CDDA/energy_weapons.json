@@ -65,6 +65,28 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 50,
+        "variant" : "mon_laser_pistol_aep_army_protect",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "mon_laser_pistol_aep_army_protect",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
         "variant" : "laser_pistol_aep",
         "files" : [
             "guns/eweapons/v29_1.ogg",
