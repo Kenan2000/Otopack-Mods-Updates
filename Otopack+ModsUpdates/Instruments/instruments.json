@@ -4,97 +4,97 @@
     "id": "musical_instrument",
     "variant": "banjo",
     "volume": 25,
-    "files": [ "Instruments/533545__simonays__banjo-opener.wav" ]
+    "files": [ "Instruments/533545__simonays__banjo-opener.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "guitar_electric",
     "volume": 25,
-    "files": [ "Instruments/337898__fschaeffer__35electricguitar.wav" ]
+    "files": [ "Instruments/337898__fschaeffer__35electricguitar.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "clarinet",
     "volume": 25,
-    "files": [ "Instruments/447728__cpita40__clarinet.wav" ]
+    "files": [ "Instruments/447728__cpita40__clarinet.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "bagpipes",
     "volume": 25,
-    "files": [ "Instruments/479268__captaindrewboy__creepy-bagpipes-fade-in.wav" ]
+    "files": [ "Instruments/479268__captaindrewboy__creepy-bagpipes-fade-in.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "tuba",
     "volume": 25,
-    "files": [ "Instruments/501615__phonosupf__tuba-blow.wav" ]
+    "files": [ "Instruments/501615__phonosupf__tuba-blow.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "violin_golden",
     "volume": 25,
-    "files": [ "Instruments/411728__inspectorj__violin-glissando-ascending-a-h1.wav" ]
+    "files": [ "Instruments/411728__inspectorj__violin-glissando-ascending-a-h1.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "violin",
     "volume": 25,
-    "files": [ "Instruments/411728__inspectorj__violin-glissando-ascending-a-h1.wav" ]
+    "files": [ "Instruments/411728__inspectorj__violin-glissando-ascending-a-h1.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "acoustic_guitar",
     "volume": 25,
-    "files": [ "Instruments/181425__serylis__guitar-chord.wav" ]
+    "files": [ "Instruments/181425__serylis__guitar-chord.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "harmonica_holder",
     "volume": 25,
-    "files": [ "Instruments/33865__2nid__harmonica02-03.wav" ]
+    "files": [ "Instruments/33865__2nid__harmonica02-03.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "ukulele",
     "volume": 25,
-    "files": [ "Instruments/257368__aberrian__short-ukelele-phrase-single-notes-g4-g4-a4-d4.wav" ]
+    "files": [ "Instruments/257368__aberrian__short-ukelele-phrase-single-notes-g4-g4-a4-d4.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "trumpet",
     "volume": 25,
-    "files": [ "Instruments/194625__harbour11__trumpet1.wav" ]
+    "files": [ "Instruments/194625__harbour11__trumpet1.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "flute",
     "volume": 25,
-    "files": [ "Instruments/328727__hellska__flute-note-tremolo.wav" ]
+    "files": [ "Instruments/328727__hellska__flute-note-tremolo.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "bone_flute",
     "volume": 25,
-    "files": [ "Instruments/179061__hedmarking__sheepbone-flute.wav" ]
+    "files": [ "Instruments/179061__hedmarking__sheepbone-flute.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "musical_instrument",
     "variant": "saxophone",
     "volume": 25,
-    "files": [ "Instruments/534584__davejf__sax-003.wav" ]
+    "files": [ "Instruments/534584__davejf__sax-003.ogg" ]
   }
 ]
