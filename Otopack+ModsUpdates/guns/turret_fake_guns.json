@@ -1,0 +1,102 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 75,
+    "variant": "m14ebr_turret_fake",
+    "files": [
+      "guns/308/308_1.ogg",
+      "guns/308/308_2.ogg",
+      "guns/308/308_3.ogg",
+      "guns/308/308_4.ogg",
+      "guns/308/308_5.ogg",
+      "guns/308/308_6.ogg",
+      "guns/308/308_7.ogg",
+      "guns/308/308_8.ogg",
+      "guns/308/308_9.ogg",
+      "guns/308/308_10.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 60,
+    "variant": "m14ebr_turret_fake",
+    "files": [
+      "guns/308/308_1.ogg",
+      "guns/308/308_2.ogg",
+      "guns/308/308_3.ogg",
+      "guns/308/308_4.ogg",
+      "guns/308/308_5.ogg",
+      "guns/308/308_6.ogg",
+      "guns/308/308_7.ogg",
+      "guns/308/308_8.ogg",
+      "guns/308/308_9.ogg",
+      "guns/308/308_10.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 75,
+    "variant": "ksub2000_turret_fake",
+    "files": [ "guns/9mm/9mm_1.ogg", "guns/9mm/9mm_2.ogg", "guns/9mm/9mm_3.ogg", "guns/9mm/9mm_4.ogg", "guns/9mm/9mm_5.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 60,
+    "variant": "ksub2000_turret_fake",
+    "files": [ "guns/9mm/9mm_1.ogg", "guns/9mm/9mm_2.ogg", "guns/9mm/9mm_3.ogg", "guns/9mm/9mm_4.ogg", "guns/9mm/9mm_5.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 75,
+    "variant": "m16a4_turret_fake",
+    "files": [
+      "guns/223/223_1.ogg",
+      "guns/223/223_2.ogg",
+      "guns/223/223_3.ogg",
+      "guns/223/223_4.ogg",
+      "guns/223/223_5.ogg",
+      "guns/223/223_6.ogg",
+      "guns/223/223_7.ogg",
+      "guns/223/223_8.ogg",
+      "guns/223/223_9.ogg",
+      "guns/223/223_10.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 60,
+    "variant": "m16a4_turret_fake",
+    "files": [
+      "guns/223/223_1.ogg",
+      "guns/223/223_2.ogg",
+      "guns/223/223_3.ogg",
+      "guns/223/223_4.ogg",
+      "guns/223/223_5.ogg",
+      "guns/223/223_6.ogg",
+      "guns/223/223_7.ogg",
+      "guns/223/223_8.ogg",
+      "guns/223/223_9.ogg",
+      "guns/223/223_10.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 75,
+    "variant": "laser_cannon_turret_fake",
+    "files": [ "guns/eweapons/laser_cannon.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 40,
+    "variant": "laser_cannon_turret_fake",
+    "files": [ "guns/eweapons/laser_cannon.ogg" ]
+  }
+]
