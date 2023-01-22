@@ -29,11 +29,11 @@
         "volume" : 75,
         "variant" : "saiga_410",
         "files" : [
-            "guns/reload/shotgun/autoreload1.ogg",
-			"guns/reload/shotgun/autoreload2.ogg",
-			"guns/reload/shotgun/autoreload3.ogg",
-			"guns/reload/shotgun/autoreload4.ogg",
-			"guns/reload/shotgun/autoreload5.ogg"
+            "guns/reload/shotgun/autoreload_1.ogg",
+			"guns/reload/shotgun/autoreload_2.ogg",
+			"guns/reload/shotgun/autoreload_3.ogg",
+			"guns/reload/shotgun/autoreload_4.ogg",
+			"guns/reload/shotgun/autoreload_5.ogg"
         ]
     },
     {
