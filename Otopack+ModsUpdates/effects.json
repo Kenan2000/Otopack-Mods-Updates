@@ -113,16 +113,16 @@
         "variant" : "hit_flesh",
         "volume" : 30,
         "files" : [
-            "guns/misc_generic/hit_flesh_1.ogg",
-            "guns/misc_generic/hit_flesh_2.ogg",
-            "guns/misc_generic/hit_flesh_3.ogg",
-			"guns/misc_generic/hit_flesh_4.ogg",
-            "guns/misc_generic/hit_flesh_5.ogg",
-            "guns/misc_generic/hit_flesh_6.ogg",
-			"guns/misc_generic/hit_flesh_7.ogg",
-            "guns/misc_generic/hit_flesh_8.ogg",
-            "guns/misc_generic/hit_flesh_9.ogg",
-			"guns/misc_generic/hit_flesh_10.ogg"
+			"effects/bulletflesh/hit_flesh_1.ogg",
+			"effects/bulletflesh/hit_flesh_2.ogg",
+			"effects/bulletflesh/hit_flesh_3.ogg",
+			"effects/bulletflesh/hit_flesh_4.ogg",
+			"effects/bulletflesh/hit_flesh_5.ogg",
+			"effects/bulletflesh/hit_flesh_6.ogg",
+			"effects/bulletflesh/hit_flesh_7.ogg",
+			"effects/bulletflesh/hit_flesh_8.ogg",
+			"effects/bulletflesh/hit_flesh_9.ogg",
+			"effects/bulletflesh/hit_flesh_10.ogg"
         ]
     },
     {
