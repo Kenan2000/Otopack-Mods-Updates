@@ -1,128 +1,112 @@
 [
-	{
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "thunder_far",
-        "volume" : 65,
-        "files" : [
-            "env/ambience_and_weather/thunder_far.ogg",
-			"env/ambience_and_weather/thunder_far2.ogg",
-			"env/ambience_and_weather/thunder_far3.ogg",
-			"env/ambience_and_weather/thunder_far4.ogg",
-			"env/ambience_and_weather/thunder_far5.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "thunder_near",
-        "volume" : 75,
-        "files" : [
-            "env/ambience_and_weather/thunder_near.ogg",
-			"env/ambience_and_weather/thunder_near2.ogg",
-			"env/ambience_and_weather/thunder_near3.ogg",
-			"env/ambience_and_weather/thunder_near4.ogg",
-			"env/ambience_and_weather/thunder_near5.ogg"
-			
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "WEATHER_FLURRIES",
-        "volume" :  25,
-        "files" : [
-            "env/ambience_and_weather/flurries.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "WEATHER_RAINY",
-        "volume" :  35,
-        "files" : [
-            "env/ambience_and_weather/rain.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "indoors_rain",
-        "volume" : 40,
-        "files" : [
-            "env/ambience_and_weather/indoors_rain.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "WEATHER_SNOW",
-        "volume" :  40,
-        "files" : [
-            "env/ambience_and_weather/snow.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "WEATHER_SNOWSTORM",
-        "volume" : 40,
-        "files" : [
-            "env/ambience_and_weather/snowstorm.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "WEATHER_THUNDER",
-        "volume" :  40,
-        "files" : [
-            "env/ambience_and_weather/thunderstorm.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "WEATHER_DRIZZLE",
-        "volume" : 25,
-        "files" : [
-            "env/ambience_and_weather/drizzle.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "daytime",
-        "volume" : 35,
-        "files" : [
-            "env/ambience_and_weather/daytime.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "nighttime",
-        "volume" : 40,
-        "files" : [
-            "env/ambience_and_weather/nighttime.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "indoors",
-        "volume" : 90,
-        "files" : [
-            "env/ambience_and_weather/indoors.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "underground",
-        "volume" : 90,
-        "files" : [
-            "env/ambience_and_weather/underground.ogg"
-        ]
-    }
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "thunder_far",
+    "volume": 65,
+    "files": [
+      "env/ambience_and_weather/thunder_far.ogg",
+      "env/ambience_and_weather/thunder_far2.ogg",
+      "env/ambience_and_weather/thunder_far3.ogg",
+      "env/ambience_and_weather/thunder_far4.ogg",
+      "env/ambience_and_weather/thunder_far5.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "thunder_near",
+    "volume": 75,
+    "files": [
+      "env/ambience_and_weather/thunder_near.ogg",
+      "env/ambience_and_weather/thunder_near2.ogg",
+      "env/ambience_and_weather/thunder_near3.ogg",
+      "env/ambience_and_weather/thunder_near4.ogg",
+      "env/ambience_and_weather/thunder_near5.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_FLURRIES",
+    "volume": 25,
+    "files": [ "env/ambience_and_weather/flurries.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_RAINY",
+    "volume": 35,
+    "files": [ "env/ambience_and_weather/rain.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "indoors_rain",
+    "volume": 40,
+    "files": [ "env/ambience_and_weather/indoors_rain.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_SNOW",
+    "volume": 40,
+    "files": [ "env/ambience_and_weather/snow.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_SNOWSTORM",
+    "volume": 40,
+    "files": [ "env/ambience_and_weather/snowstorm.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_THUNDER",
+    "volume": 40,
+    "files": [ "env/ambience_and_weather/thunderstorm.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_DRIZZLE",
+    "volume": 25,
+    "files": [ "env/ambience_and_weather/drizzle.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "daytime",
+    "volume": 35,
+    "files": [ "env/ambience_and_weather/daytime.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "nighttime",
+    "volume": 40,
+    "files": [ "env/ambience_and_weather/nighttime.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "indoors",
+    "volume": 90,
+    "files": [ "env/ambience_and_weather/indoors.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_PORTAL_STORM",
+    "volume": 100,
+    "files": [ "env/ambience_and_weather/portal_storm.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "underground",
+    "volume": 90,
+    "files": [ "env/ambience_and_weather/underground.ogg" ]
+  }
 ]
