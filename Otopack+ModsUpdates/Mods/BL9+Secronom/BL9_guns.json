@@ -1988,32 +1988,6 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
-        "variant" : "mongun_BL9_salden",
-        "files" : [
-            "guns/eweapons/gatling_mech_laser_1.ogg",
-			"guns/eweapons/gatling_mech_laser_2.ogg",
-			"guns/eweapons/gatling_mech_laser_3.ogg",
-			"guns/eweapons/gatling_mech_laser_4.ogg",
-			"guns/eweapons/gatling_mech_laser_5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 40,
-        "variant" : "mongun_BL9_salden",
-        "files" : [
-            "guns/eweapons/gatling_mech_laser_1.ogg",
-			"guns/eweapons/gatling_mech_laser_2.ogg",
-			"guns/eweapons/gatling_mech_laser_3.ogg",
-			"guns/eweapons/gatling_mech_laser_4.ogg",
-			"guns/eweapons/gatling_mech_laser_5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 75,
         "variant" : "BL9_laser_blaster_mk3",
         "files" : [
             "guns/eweapons/v29_1.ogg",
