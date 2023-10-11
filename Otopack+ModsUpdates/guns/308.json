@@ -636,6 +636,153 @@
 			"guns/reload/rifle/rifle_5.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mdrx_308",
+        "files" : [
+            "guns/308/308_1.ogg",
+			"guns/308/308_2.ogg",
+			"guns/308/308_3.ogg",
+			"guns/308/308_4.ogg",
+			"guns/308/308_5.ogg",
+			"guns/308/308_6.ogg",
+			"guns/308/308_7.ogg",
+			"guns/308/308_8.ogg",
+			"guns/308/308_9.ogg",
+			"guns/308/308_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "mdrx_308",
+        "files" : [
+            "guns/308/308_1.ogg",
+			"guns/308/308_2.ogg",
+			"guns/308/308_3.ogg",
+			"guns/308/308_4.ogg",
+			"guns/308/308_5.ogg",
+			"guns/308/308_6.ogg",
+			"guns/308/308_7.ogg",
+			"guns/308/308_8.ogg",
+			"guns/308/308_9.ogg",
+			"guns/308/308_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "mdrx_308",
+        "files" : [
+            "guns/reload/bullpup/bullpup_1.ogg",
+			"guns/reload/bullpup/bullpup_2.ogg",
+			"guns/reload/bullpup/bullpup_3.ogg",
+			"guns/reload/bullpup/bullpup_4.ogg",
+			"guns/reload/bullpup/bullpup_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mdrx_308medium",
+        "files" : [
+            "guns/308/308_1.ogg",
+			"guns/308/308_2.ogg",
+			"guns/308/308_3.ogg",
+			"guns/308/308_4.ogg",
+			"guns/308/308_5.ogg",
+			"guns/308/308_6.ogg",
+			"guns/308/308_7.ogg",
+			"guns/308/308_8.ogg",
+			"guns/308/308_9.ogg",
+			"guns/308/308_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "mdrx_308medium",
+        "files" : [
+            "guns/308/308_1.ogg",
+			"guns/308/308_2.ogg",
+			"guns/308/308_3.ogg",
+			"guns/308/308_4.ogg",
+			"guns/308/308_5.ogg",
+			"guns/308/308_6.ogg",
+			"guns/308/308_7.ogg",
+			"guns/308/308_8.ogg",
+			"guns/308/308_9.ogg",
+			"guns/308/308_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "mdrx_308medium",
+        "files" : [
+            "guns/reload/bullpup/bullpup_1.ogg",
+			"guns/reload/bullpup/bullpup_2.ogg",
+			"guns/reload/bullpup/bullpup_3.ogg",
+			"guns/reload/bullpup/bullpup_4.ogg",
+			"guns/reload/bullpup/bullpup_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "axmc_308",
+        "files" : [
+            "guns/308/308_1.ogg",
+			"guns/308/308_2.ogg",
+			"guns/308/308_3.ogg",
+			"guns/308/308_4.ogg",
+			"guns/308/308_5.ogg",
+			"guns/308/308_6.ogg",
+			"guns/308/308_7.ogg",
+			"guns/308/308_8.ogg",
+			"guns/308/308_9.ogg",
+			"guns/308/308_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "axmc_308",
+        "files" : [
+            "guns/308/308_1.ogg",
+			"guns/308/308_2.ogg",
+			"guns/308/308_3.ogg",
+			"guns/308/308_4.ogg",
+			"guns/308/308_5.ogg",
+			"guns/308/308_6.ogg",
+			"guns/308/308_7.ogg",
+			"guns/308/308_8.ogg",
+			"guns/308/308_9.ogg",
+			"guns/308/308_10.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "axmc_308",
+        "files" : [
+            "guns/reload/rifle_h/rifle_1.ogg",
+			"guns/reload/rifle_h/rifle_2.ogg",
+			"guns/reload/rifle_h/rifle_3.ogg",
+			"guns/reload/rifle_h/rifle_4.ogg",
+			"guns/reload/rifle_h/rifle_5.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",

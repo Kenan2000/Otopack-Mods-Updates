@@ -389,6 +389,45 @@
 			"guns/reload/shotgun/pumpreload5.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "ksg-25",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "ksg-25",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "ksg-25",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -467,6 +506,45 @@
 			"guns/reload/shotgun/pumpreload5.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mossberg_930_var_m1014",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "mossberg_930_var_m1014",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "mossberg_930_var_m1014",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -498,6 +576,45 @@
         "id" : "reload",
         "volume" : 75,
         "variant" : "mossberg_500",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mossberg_500_var_mossberg_500_security",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "mossberg_500_var_mossberg_500_security",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "mossberg_500_var_mossberg_500_security",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
 			"guns/reload/shotgun/pumpreload2.ogg",
@@ -615,6 +732,162 @@
         "id" : "reload",
         "volume" : 75,
         "variant" : "remington_870",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "remington_870_var_remington_1100",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "remington_870_var_remington_1100",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "remington_870_var_remington_1100",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "remington_870_var_browning_a5",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "remington_870_var_browning_a5",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "remington_870_var_browning_a5",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "ithaca37",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "ithaca37",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "ithaca37",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "remington_870_var_ithaca37",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "remington_870_var_ithaca37",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "remington_870_var_ithaca37",
         "files" : [
             "guns/reload/shotgun/pumpreload1.ogg",
 			"guns/reload/shotgun/pumpreload2.ogg",
@@ -1208,6 +1481,45 @@
 			"guns/reload/shotgun/pumpreload5.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "mossberg_590_var_SPAS_12",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "mossberg_590_var_SPAS_12",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "mossberg_590_var_SPAS_12",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+			"guns/reload/shotgun/pumpreload2.ogg",
+			"guns/reload/shotgun/pumpreload3.ogg",
+			"guns/reload/shotgun/pumpreload4.ogg",
+			"guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -1278,6 +1590,45 @@
         "id" : "reload",
         "volume" : 75,
         "variant" : "USAS_12",
+        "files" : [
+            "guns/reload/shotgun/autoreload_1.ogg",
+			"guns/reload/shotgun/autoreload_2.ogg",
+			"guns/reload/shotgun/autoreload_3.ogg",
+			"guns/reload/shotgun/autoreload_4.ogg",
+			"guns/reload/shotgun/autoreload_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "m26_mass_standalone",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "m26_mass_standalone",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "m26_mass_standalone",
         "files" : [
             "guns/reload/shotgun/autoreload_1.ogg",
 			"guns/reload/shotgun/autoreload_2.ogg",

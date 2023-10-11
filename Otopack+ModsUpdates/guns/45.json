@@ -543,6 +543,51 @@
     "type": "sound_effect",
     "id": "fire_gun",
     "volume": 100,
+    "variant": "m1911_var_m1911_MEU",
+    "files": [
+      "guns/45/45_1.ogg",
+      "guns/45/45_2.ogg",
+      "guns/45/45_3.ogg",
+      "guns/45/45_4.ogg",
+      "guns/45/45_5.ogg",
+      "guns/45/45_6.ogg",
+      "guns/45/45_7.ogg",
+      "guns/45/45_8.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 60,
+    "variant": "m1911_var_m1911_MEU",
+    "files": [
+      "guns/45/45_1.ogg",
+      "guns/45/45_2.ogg",
+      "guns/45/45_3.ogg",
+      "guns/45/45_4.ogg",
+      "guns/45/45_5.ogg",
+      "guns/45/45_6.ogg",
+      "guns/45/45_7.ogg",
+      "guns/45/45_8.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "volume": 90,
+    "variant": "m1911_var_m1911_MEU",
+    "files": [
+      "guns/reload/pistol_h/pistol_1.ogg",
+      "guns/reload/pistol_h/pistol_2.ogg",
+      "guns/reload/pistol_h/pistol_3.ogg",
+      "guns/reload/pistol_h/pistol_4.ogg",
+      "guns/reload/pistol_h/pistol_5.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 100,
     "variant": "rifle_45",
     "files": [
       "guns/45/45_1.ogg",
@@ -666,6 +711,51 @@
     "id": "reload",
     "volume": 90,
     "variant": "mk23",
+    "files": [
+      "guns/reload/pistol_h/pistol_1.ogg",
+      "guns/reload/pistol_h/pistol_2.ogg",
+      "guns/reload/pistol_h/pistol_3.ogg",
+      "guns/reload/pistol_h/pistol_4.ogg",
+      "guns/reload/pistol_h/pistol_5.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 100,
+    "variant": "usp_45_var_mk23",
+    "files": [
+      "guns/45/45_1.ogg",
+      "guns/45/45_2.ogg",
+      "guns/45/45_3.ogg",
+      "guns/45/45_4.ogg",
+      "guns/45/45_5.ogg",
+      "guns/45/45_6.ogg",
+      "guns/45/45_7.ogg",
+      "guns/45/45_8.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 60,
+    "variant": "usp_45_var_mk23",
+    "files": [
+      "guns/45/45_1.ogg",
+      "guns/45/45_2.ogg",
+      "guns/45/45_3.ogg",
+      "guns/45/45_4.ogg",
+      "guns/45/45_5.ogg",
+      "guns/45/45_6.ogg",
+      "guns/45/45_7.ogg",
+      "guns/45/45_8.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "volume": 90,
+    "variant": "usp_45_var_mk23",
     "files": [
       "guns/reload/pistol_h/pistol_1.ogg",
       "guns/reload/pistol_h/pistol_2.ogg",

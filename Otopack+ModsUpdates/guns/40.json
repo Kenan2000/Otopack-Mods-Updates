@@ -73,6 +73,376 @@
 			"guns/reload/pistol_l/pistol_5.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "glock_29",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "glock_29",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "glock_29",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "glock_20",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "glock_20",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "glock_20",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "glock_40",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "glock_40",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "glock_40",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "glock_20_var_glock_40",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "glock_20_var_glock_40",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "glock_20_var_glock_40",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "hk_mp5_10_semi",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "hk_mp5_10_semi",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "hk_mp5_10_semi",
+        "files" : [
+            "guns/reload/smg/smg_1.ogg",
+			"guns/reload/smg/smg_1.ogg",
+			"guns/reload/smg/smg_3.ogg",
+			"guns/reload/smg/smg_4.ogg",
+			"guns/reload/smg/smg_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "m1911_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "m1911_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "m1911_10",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "witness_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "witness_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "witness_10",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "p220_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "p220_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "p220_10",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "xd_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "xd_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "xd_10",
+        "files" : [
+            "guns/reload/pistol_l/pistol_1.ogg",
+			"guns/reload/pistol_l/pistol_2.ogg",
+			"guns/reload/pistol_l/pistol_3.ogg",
+			"guns/reload/pistol_l/pistol_4.ogg",
+			"guns/reload/pistol_l/pistol_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "TDI_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "TDI_10",
+        "files" : [
+            "guns/40/40_1.ogg",
+			"guns/40/40_2.ogg",
+			"guns/40/40_3.ogg",
+			"guns/40/40_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "TDI_10",
+        "files" : [
+            "guns/reload/smg/smg_1.ogg",
+			"guns/reload/smg/smg_2.ogg",
+			"guns/reload/smg/smg_3.ogg",
+			"guns/reload/smg/smg_4.ogg",
+			"guns/reload/smg/smg_5.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",

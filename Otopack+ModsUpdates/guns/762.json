@@ -155,6 +155,84 @@
 			"guns/reload/rifle/rifle_5.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "ar15_762",
+        "files" : [
+            "guns/762/762_1.ogg",
+			"guns/762/762_2.ogg",
+			"guns/762/762_3.ogg",
+			"guns/762/762_4.ogg",
+			"guns/762/762_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "ar15_762",
+        "files" : [
+            "guns/762/762_1.ogg",
+			"guns/762/762_2.ogg",
+			"guns/762/762_3.ogg",
+			"guns/762/762_4.ogg",
+			"guns/762/762_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "ar15_762",
+        "files" : [
+            "guns/reload/rifle_m/rifle_1.ogg",
+			"guns/reload/rifle_m/rifle_2.ogg",
+			"guns/reload/rifle_m/rifle_3.ogg",
+			"guns/reload/rifle_m/rifle_4.ogg",
+			"guns/reload/rifle_m/rifle_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "cz600_762",
+        "files" : [
+            "guns/762/762_1.ogg",
+			"guns/762/762_2.ogg",
+			"guns/762/762_3.ogg",
+			"guns/762/762_4.ogg",
+			"guns/762/762_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "cz600_762",
+        "files" : [
+            "guns/762/762_1.ogg",
+			"guns/762/762_2.ogg",
+			"guns/762/762_3.ogg",
+			"guns/762/762_4.ogg",
+			"guns/762/762_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "cz600_762",
+        "files" : [
+            "guns/reload/rifle/rifle_1.ogg",
+			"guns/reload/rifle/rifle_2.ogg",
+			"guns/reload/rifle/rifle_3.ogg",
+			"guns/reload/rifle/rifle_4.ogg",
+			"guns/reload/rifle/rifle_5.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",
