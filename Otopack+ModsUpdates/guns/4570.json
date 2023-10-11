@@ -1,4 +1,4 @@
-[
+[ 
     {
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -229,7 +229,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 60,
-        "variant" : "ruger_arr,
+        "variant" : "ruger_arr",
         "files" : [
             "guns/4570/4570.ogg"
         ]
