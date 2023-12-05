@@ -5,7 +5,7 @@ The Updated version of **Survival_Man's** (**the first and main creator of Otopa
 All the music has been kindly provided by awesome and very supportive and helpful people and contributors: The Go-Goat/Cuddlebaby and Kaldeqca
 
 ## Prerequisites 
-None 
+None
 
 ## Installation
 **1)** Press the [`Releases`](https://github.com/Kenan2000/Otopack-Mods-Updates/releases) button, you'll get a list of releases of Otopack+ModsUpdates base versions along with Otopack+ModsUpdates updates with corresponding base versions numbers, download latest base version release with all latest updates releases for it;
