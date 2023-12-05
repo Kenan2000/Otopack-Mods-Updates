@@ -8,9 +8,9 @@ All the music has been kindly provided by awesome and very supportive and helpfu
 None
 
 ## Installation
-**1)** Press the [`Releases`](https://github.com/Kenan2000/Otopack-Mods-Updates/releases) button, you'll get a list of releases of Otopack+ModsUpdates base versions along with Otopack+ModsUpdates updates with corresponding base versions numbers, download latest base version release with all latest updates releases for it;
+**1)** Press the [`Releases`](https://github.com/Kenan2000/Otopack-Mods-Updates/releases) button, you'll get a list of releases of "Otopack+ModsUpdates base version" along with "Otopack+ModsUpdates base version update insert_number_here", download latest "base version" release with all, if any, latest "base version update insert_number_here" releases for it;
 
-**2)** Put the entire Otopack+ModsUpdates base version folder inside of `cdda/data/sound/` directory, put all files in each Otopack+ModsUpdates updates folder corresponding to base version number that you install to your Soundpack folder in game;
+**2)** Put the entire "Otopack+ModsUpdates base version" folder inside of `cdda/data/sound/` directory, put all files in all, if any, "Otopack+ModsUpdates base version update insert_number_here" folders to your Soundpack folder to overwrite initial "base version" files with updated files in game;
 
 **3)** Launch the game and enable the soundpack in the `settings` of the game;
 
