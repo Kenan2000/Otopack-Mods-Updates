@@ -8,14 +8,14 @@ All the music has been kindly provided by awesome and very supportive and helpfu
 None
 
 ## Installation
-**1)** Press the [`Releases`](https://github.com/Kenan2000/Otopack-Mods-Updates/releases) button, you'll get a list of releases of "Otopack+ModsUpdates base version" along with "Otopack+ModsUpdates base version update insert_number_here", download latest "base version" release with all, if any, latest "base version update insert_number_here" releases for it;
+**1)** Press the [`Releases`](https://github.com/Kenan2000/Otopack-Mods-Updates/releases) button, you'll get to page with releases where source code of "Otopack+ModsUpdates" release is available for downloading, download source code of "Otopack+ModsUpdates", but keep in mind that if you pause downloading then you will have to download it from the beginning again;
 
-**2)** Put the entire "Otopack+ModsUpdates base version" folder inside of `cdda/data/sound/` directory, put all files in all, if any, "Otopack+ModsUpdates base version update insert_number_here" folders to your Soundpack folder to overwrite initial "base version" files with updated files in game;
+**2)** Put the entire "Otopack+ModsUpdates" folder inside of `cdda/data/sound/`directory;
 
 **3)** Launch the game and enable the soundpack in the `settings` of the game;
 
 ## Updating the soundpack
-Simply download latest updates for corresponding base version number, put my uploaded and updated files in your Soundpack folder in `cdda/data/sound/` directory, enjoy the soundpack :)
+Simply download source code of latest release, erase older version of "Otopack+ModsUpdates" in your game folder, put source code of my uploaded, updated soundpack release inside of `cdda/data/sound/` directory, enjoy the soundpack :)
 
 ## Link to the original Otopack creator
 https://discourse.cataclysmdda.org/u/survival_man/summary
