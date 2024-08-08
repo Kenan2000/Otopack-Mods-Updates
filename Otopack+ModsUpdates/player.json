@@ -146,55 +146,55 @@
 	{
         "type": "sound_effect",
         "id" : "plmove",
-        "variant" : "fatigue_m_high",
+        "variant" : "sleepiness_m_high",
         "volume" : 25,
         "files" : [
-            "player/fatigue_m/fatigue_high.ogg"
+            "player/sleepiness_m/sleepiness_high.ogg"
         ]
     },
     {
         "type": "sound_effect",
         "id" : "plmove",
-        "variant" : "fatigue_m_med",
+        "variant" : "sleepiness_m_med",
         "volume" : 25,
         "files" : [
-            "player/fatigue_m/fatigue_med.ogg"
+            "player/sleepiness_m/sleepiness_med.ogg"
         ]
     },
     {
         "type": "sound_effect",
         "id" : "plmove",
-        "variant" : "fatigue_m_low",
+        "variant" : "sleepiness_m_low",
         "volume" : 25,
         "files" : [
-            "player/fatigue_m/fatigue_low.ogg"
+            "player/sleepiness_m/sleepiness_low.ogg"
         ]
     },
     {
         "type": "sound_effect",
         "id" : "plmove",
-        "variant" : "fatigue_f_high",
+        "variant" : "sleepiness_f_high",
         "volume" : 25,
         "files" : [
-            "player/fatigue_f/fatigue_high.ogg"
+            "player/sleepiness_f/sleepiness_high.ogg"
         ]
     },
     {
         "type": "sound_effect",
         "id" : "plmove",
-        "variant" : "fatigue_f_med",
+        "variant" : "sleepiness_f_med",
         "volume" : 25,
         "files" : [
-            "player/fatigue_f/fatigue_med.ogg"
+            "player/sleepiness_f/sleepiness_med.ogg"
         ]
     },
     {
         "type": "sound_effect",
         "id" : "plmove",
-        "variant" : "fatigue_f_low",
+        "variant" : "sleepiness_f_low",
         "volume" : 25,
         "files" : [
-            "player/fatigue_f/fatigue_low.ogg"
+            "player/sleepiness_f/sleepiness_low.ogg"
         ]
     },
     {
