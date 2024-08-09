@@ -1,4 +1,4 @@
-  # Otopack-Mods-Updates
+# Otopack-Mods-Updates
 This version of Otopack is not updated with new content anymore. Please, do not make any new pull requests. Instead, make a fork of it to update it yourself obviously. Support for CDDA is not guaranteed in this version at all. Support for Bright Nights is mostly guaranteed in this version, except for some newest of core game guns, terrain, furniture, including things from newest mods. The Updated version of **Survival_Man's** (**the first and the main creator of Otopack soundpack**) version of Otopack soundpack with biggest sound support, including both sound support for core game along with mods obviously, for Cataclysm - Dark Days Ahead along with Cataclysm - Bright Nights that I will try to preserve for others along with me to use for our gameplay purposes hopefully 
 
 ## Music 
