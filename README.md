@@ -1,8 +1,8 @@
 # Otopack-Mods-Updates
-The Updated version of **Survival_Man's** (**the first and main creator of Otopack soundpack**)  version of Otopack soundpack for Cataclysm - Dark Days Ahead that I will try to maintain from now on and make some new small updates to it like including sounds for items from mods and etc
+This version of Otopack is not updated with new content anymore. Please, do not make any new pull requests. Instead, make a fork of it to update it yourself obviously. Support for CDDA is not guaranteed in this version at all. Support for Bright Nights is mostly guaranteed in this version, except for some newest of core game guns, terrain, furniture, including things from newest mods. The Updated version of **Survival_Man's** (**the first and the main creator of Otopack soundpack**) version of Otopack soundpack with biggest sound support, including both sound support for core game along with mods obviously, for Cataclysm - Dark Days Ahead along with Cataclysm - Bright Nights that I will try to preserve for others along with me to use for our gameplay purposes hopefully 
 
 ## Music 
-All the music has been kindly provided by awesome and very supportive and helpful people and contributors: The Go-Goat/Cuddlebaby and Kaldeqca
+All the music has been kindly suggested, provided by awesome and very supportive and helpful people and contributors: The Go-Goat/Cuddlebaby and Kaldeqca. If you don't like it or want to replace it with other music it's possible to simply erase all music files from music folder to not play with it at all or add your own preferred music in ogg or mp3 files format then edit musicset.json file to add compatibility to it essentially 
 
 ## Prerequisites 
 None
